@@ -1,0 +1,82 @@
+/*home css*/
+/*link to sub network title*/
+#home_title a:link {
+	font: normal 10px Verdana, Arial, sans-serif;
+	font-size:18px;
+	color: white;
+	text-decoration: none;
+}
+#home_title a:visited {
+	font: normal 10px Verdana, Arial, sans-serif;
+	font-size:18px;
+	color: white;
+	text-decoration: none;
+}
+#home_title a:hover {
+	font: normal 10px Verdana, Arial, sans-serif;
+	font-size:18px;
+	color: yellow;
+	text-decoration: underline;
+}
+.owl-carousel .owl-controls .owl-nav .owl-prev {
+  position:relative;
+  top: -300px;
+  left: -500px;
+  background:black;
+}
+.owl-carousel .owl-controls .owl-nav .owl-prev:hover {
+  background:#333f50;
+}
+.owl-carousel .owl-controls .owl-nav .owl-next {
+  position:relative;
+  top: -300px;
+  left: 490px;
+  background:black;
+}
+.owl-carousel .owl-controls .owl-nav .owl-next:hover {
+  background:#333f50;
+}
+/*original*/
+.owl-theme .owl-dots .owl-dot span{
+  position:relative;
+  top:-202px;
+  z-index:1;
+  background:white;
+}
+.owl-theme .owl-dots .owl-dot.active span{
+  background:yellow;
+}
+.owl-theme .owl-dots .owl-dot:hover span{
+  background:yellow;
+}
+/*dotsContainer*/
+.dotsCont div {
+  font: normal 10px Verdana, Arial, sans-serif;
+	font-size:18px;
+	color: white;
+	text-decoration: none;
+}
+.dotsCont div:link {
+	font: normal 10px Verdana, Arial, sans-serif;
+	font-size:18px;
+	color: white;
+	text-decoration: none;
+}
+.dotsCont div:visited {
+	font: normal 10px Verdana, Arial, sans-serif;
+	font-size:18px;
+	color: white;
+	text-decoration: none;
+}
+.dotsCont div:hover {
+	font: normal 10px Verdana, Arial, sans-serif;
+	font-size:18px;
+	color: yellow;
+	text-decoration: none;
+}
+.dotsCont .active {
+  font: normal 10px Verdana, Arial, sans-serif;
+	font-size:18px;
+	color: yellow;
+	text-decoration: none;
+}

@@ -1,0 +1,6146 @@
+[
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/25/25_4.png",
+        "frame_id": 2,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.998142,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 13025.864448,
+                    "center_y": 2265.476608,
+                    "height": 107.766272,
+                    "width": 133.565952
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/25/25_13.png",
+        "frame_id": 8,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.998783,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 12934.255616,
+                    "center_y": 6749.156608,
+                    "height": 101.815296,
+                    "width": 130.885632
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/25/25_7.png",
+        "frame_id": 13,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.997276,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 12844.787968,
+                    "center_y": 3773.642752,
+                    "height": 123.9168,
+                    "width": 126.555136
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/25/25_10.png",
+        "frame_id": 17,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.998705,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 12898.707456,
+                    "center_y": 5176.143616,
+                    "height": 100.358144,
+                    "width": 143.721984
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/25/25_8.png",
+        "frame_id": 18,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.993094,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 12862.738176,
+                    "center_y": 4183.79008,
+                    "height": 99.06688,
+                    "width": 132.54144
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/25/25_14.png",
+        "frame_id": 24,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.992439,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 13010.267136,
+                    "center_y": 7374.935296,
+                    "height": 133.813248,
+                    "width": 139.239424
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/25/25_16.png",
+        "frame_id": 29,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.998206,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 12909.344512,
+                    "center_y": 8252.6784,
+                    "height": 101.234176,
+                    "width": 154.953216
+                }
+            },
+            {
+                "class_id": 2,
+                "confidence": 0.875561,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 0.434756,
+                    "center_y": 0.89528,
+                    "height": 0.197973,
+                    "width": 0.207149
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/25/25_3.png",
+        "frame_id": 39,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.99808,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 13024.959488,
+                    "center_y": 1597.31072,
+                    "height": 97.063424,
+                    "width": 125.099008
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/41/41_13.png",
+        "frame_id": 49,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.996858,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 21213.892096,
+                    "center_y": 6763.31648,
+                    "height": 111.839232,
+                    "width": 148.1088
+                }
+            },
+            {
+                "class_id": 2,
+                "confidence": 0.991265,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 21147.168,
+                    "center_y": 6864.087296,
+                    "height": 92.989952,
+                    "width": 164.101632
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/41/41_13.png",
+        "frame_id": 49,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.996858,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 21213.892096,
+                    "center_y": 6763.31648,
+                    "height": 111.839232,
+                    "width": 148.1088
+                }
+            },
+            {
+                "class_id": 2,
+                "confidence": 0.991265,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 21147.168,
+                    "center_y": 6864.087296,
+                    "height": 92.989952,
+                    "width": 164.101632
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/41/41_21.png",
+        "frame_id": 56,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.998609,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 21072.33408,
+                    "center_y": 10826.53952,
+                    "height": 105.051136,
+                    "width": 143.4752
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/41/41_15.png",
+        "frame_id": 63,
+        "objects": [
+            {
+                "class_id": 3,
+                "confidence": 0.99726,
+                "name": "Echinococcus_granulosus_egg",
+                "relative_coordinates": {
+                    "center_x": 21090.324224,
+                    "center_y": 7796.167936,
+                    "height": 76.975104,
+                    "width": 78.84544
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/20/20_4.png",
+        "frame_id": 84,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.994708,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 10255.717888,
+                    "center_y": 2091.085312,
+                    "height": 145.203712,
+                    "width": 62.112256
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/20/20_21.png",
+        "frame_id": 97,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.99217,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 10318.596608,
+                    "center_y": 10911.276032,
+                    "height": 131.50208,
+                    "width": 125.392384
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/20/20_20.png",
+        "frame_id": 103,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.99854,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 10390.413568,
+                    "center_y": 10401.279744,
+                    "height": 147.508224,
+                    "width": 91.032064
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/20/20_27.png",
+        "frame_id": 108,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.995906,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 10376.992512,
+                    "center_y": 14062.021888,
+                    "height": 74.822144,
+                    "width": 146.332672
+                }
+            },
+            {
+                "class_id": 1,
+                "confidence": 0.359231,
+                "name": "toxocara_canis",
+                "relative_coordinates": {
+                    "center_x": 0.380739,
+                    "center_y": 0.155986,
+                    "height": 0.164278,
+                    "width": 0.162009
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/20/20_35.png",
+        "frame_id": 109,
+        "objects": [
+            {
+                "class_id": 3,
+                "confidence": 0.996753,
+                "name": "Echinococcus_granulosus_egg",
+                "relative_coordinates": {
+                    "center_x": 10383.838464,
+                    "center_y": 18001.478912,
+                    "height": 99.87584,
+                    "width": 156.50048
+                }
+            },
+            {
+                "class_id": 3,
+                "confidence": 0.817718,
+                "name": "Echinococcus_granulosus_egg",
+                "relative_coordinates": {
+                    "center_x": 0.403732,
+                    "center_y": 0.055595,
+                    "height": 0.111413,
+                    "width": 0.155296
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/20/20_2.png",
+        "frame_id": 117,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.991169,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 10414.753024,
+                    "center_y": 1136.13824,
+                    "height": 131.042304,
+                    "width": 89.150976
+                }
+            },
+            {
+                "class_id": 2,
+                "confidence": 0.502558,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 0.974247,
+                    "center_y": 0.663983,
+                    "height": 0.227013,
+                    "width": 0.055227
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/22/22_13.png",
+        "frame_id": 131,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.998613,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 11348.315648,
+                    "center_y": 6710.386176,
+                    "height": 84.977664,
+                    "width": 160.986112
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/22/22_7.png",
+        "frame_id": 136,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.996496,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 11415.2832,
+                    "center_y": 3812.588288,
+                    "height": 110.707712,
+                    "width": 88.203264
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/22/22_12.png",
+        "frame_id": 137,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.998372,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 11478.892544,
+                    "center_y": 6347.428352,
+                    "height": 103.65952,
+                    "width": 129.993216
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/22/22_17.png",
+        "frame_id": 154,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.998277,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 11374.779392,
+                    "center_y": 8828.482048,
+                    "height": 119.681536,
+                    "width": 138.966016
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/22/22_3.png",
+        "frame_id": 162,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.99896,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 11465.353984,
+                    "center_y": 1745.463552,
+                    "height": 85.98784,
+                    "width": 148.459008
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/7/7_15.png",
+        "frame_id": 186,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.997453,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 3657.595648,
+                    "center_y": 7858.054656,
+                    "height": 138.419712,
+                    "width": 86.994432
+                }
+            },
+            {
+                "class_id": 2,
+                "confidence": 0.917723,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 0.683142,
+                    "center_y": 0.036438,
+                    "height": 0.073518,
+                    "width": 0.307487
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/7/7_19.png",
+        "frame_id": 194,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.998962,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 3703.512064,
+                    "center_y": 9801.63584,
+                    "height": 155.254272,
+                    "width": 98.766848
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/7/7_17.png",
+        "frame_id": 195,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.994897,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 3606.5164800000002,
+                    "center_y": 8796.626176,
+                    "height": 108.097536,
+                    "width": 90.899968
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/7/7_28.png",
+        "frame_id": 202,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.998514,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 3629.5936,
+                    "center_y": 14551.053312,
+                    "height": 119.410688,
+                    "width": 131.015168
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/7/7_3.png",
+        "frame_id": 203,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.994683,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 3751.283968,
+                    "center_y": 1713.775104,
+                    "height": 175.830528,
+                    "width": 105.87904
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/7/7_11.png",
+        "frame_id": 204,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.993526,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 3644.696064,
+                    "center_y": 5869.650176,
+                    "height": 76.562432,
+                    "width": 150.762496
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/31/31_5.png",
+        "frame_id": 206,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.99035,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 15902.384128,
+                    "center_y": 2798.292736,
+                    "height": 73.590272,
+                    "width": 83.523584
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/31/31_4.png",
+        "frame_id": 207,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.998807,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 16036.342528,
+                    "center_y": 2160.698112,
+                    "height": 156.38528,
+                    "width": 106.077184
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/31/31_6.png",
+        "frame_id": 225,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.996112,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 16106.267648000001,
+                    "center_y": 3292.836864,
+                    "height": 104.96512,
+                    "width": 87.314432
+                }
+            },
+            {
+                "class_id": 2,
+                "confidence": 0.861992,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 0.121134,
+                    "center_y": 0.063264,
+                    "height": 0.125444,
+                    "width": 0.162119
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/31/31_15.png",
+        "frame_id": 227,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.997697,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 16038.73408,
+                    "center_y": 7780.401664,
+                    "height": 104.171008,
+                    "width": 153.391104
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/31/31_3.png",
+        "frame_id": 244,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.996371,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 16052.500736,
+                    "center_y": 1724.04736,
+                    "height": 91.259392,
+                    "width": 146.548736
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/58/58_4.png",
+        "frame_id": 248,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.992512,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 29819.94496,
+                    "center_y": 2203.675904,
+                    "height": 124.107776,
+                    "width": 147.293184
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/24/24_25.png",
+        "frame_id": 306,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.995322,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 12317.522176,
+                    "center_y": 12898.817024,
+                    "height": 110.269952,
+                    "width": 117.797888
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/24/24_11.png",
+        "frame_id": 327,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.996541,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 12443.616256,
+                    "center_y": 5859.998464,
+                    "height": 116.433408,
+                    "width": 140.228096
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/3/3_4.png",
+        "frame_id": 330,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.996769,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 1635.844352,
+                    "center_y": 2232.761856,
+                    "height": 149.833216,
+                    "width": 131.987456
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/3/3_9.png",
+        "frame_id": 339,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.998477,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 1722.022912,
+                    "center_y": 4688.5248,
+                    "height": 98.032128,
+                    "width": 124.548608
+                }
+            },
+            {
+                "class_id": 2,
+                "confidence": 0.995819,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 1636.99072,
+                    "center_y": 4712.254208,
+                    "height": 156.621824,
+                    "width": 101.929984
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/3/3_9.png",
+        "frame_id": 339,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.998477,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 1722.022912,
+                    "center_y": 4688.5248,
+                    "height": 98.032128,
+                    "width": 124.548608
+                }
+            },
+            {
+                "class_id": 2,
+                "confidence": 0.995819,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 1636.99072,
+                    "center_y": 4712.254208,
+                    "height": 156.621824,
+                    "width": 101.929984
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/3/3_20.png",
+        "frame_id": 349,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.997936,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 1622.27456,
+                    "center_y": 10315.710208,
+                    "height": 118.52032,
+                    "width": 130.774528
+                }
+            },
+            {
+                "class_id": 2,
+                "confidence": 0.869218,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 0.955557,
+                    "center_y": 0.928696,
+                    "height": 0.144129,
+                    "width": 0.089295
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/3/3_17.png",
+        "frame_id": 359,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.996963,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 1554.919424,
+                    "center_y": 8864.605696,
+                    "height": 156.502016,
+                    "width": 78.426112
+                }
+            },
+            {
+                "class_id": 2,
+                "confidence": 0.994547,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 1764.897536,
+                    "center_y": 8911.089408,
+                    "height": 111.455232,
+                    "width": 115.429376
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/3/3_17.png",
+        "frame_id": 359,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.996963,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 1554.919424,
+                    "center_y": 8864.605696,
+                    "height": 156.502016,
+                    "width": 78.426112
+                }
+            },
+            {
+                "class_id": 2,
+                "confidence": 0.994547,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 1764.897536,
+                    "center_y": 8911.089408,
+                    "height": 111.455232,
+                    "width": 115.429376
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/14/14_22.png",
+        "frame_id": 373,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.998124,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 7314.926592,
+                    "center_y": 11467.41504,
+                    "height": 99.448832,
+                    "width": 159.451648
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/14/14_9.png",
+        "frame_id": 380,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.999033,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 7250.374656,
+                    "center_y": 4689.436928,
+                    "height": 147.017728,
+                    "width": 103.89248
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/14/14_1.png",
+        "frame_id": 385,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.997191,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 7222.406912,
+                    "center_y": 684.078592,
+                    "height": 116.1984,
+                    "width": 159.835136
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/14/14_10.png",
+        "frame_id": 386,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.993305,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 7266.25536,
+                    "center_y": 5199.159296,
+                    "height": 102.057472,
+                    "width": 88.431104
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/14/14_14.png",
+        "frame_id": 393,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.997166,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 7395.943168,
+                    "center_y": 7315.61088,
+                    "height": 90.378752,
+                    "width": 108.161024
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/14/14_26.png",
+        "frame_id": 394,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.996482,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 7393.897216,
+                    "center_y": 13398.827776,
+                    "height": 108.497408,
+                    "width": 118.621184
+                }
+            },
+            {
+                "class_id": 2,
+                "confidence": 0.682206,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 0.959019,
+                    "center_y": 0.071023,
+                    "height": 0.154404,
+                    "width": 0.083857
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/14/14_27.png",
+        "frame_id": 395,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.997974,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 7308.78464,
+                    "center_y": 13962.44608,
+                    "height": 122.494976,
+                    "width": 145.205248
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/14/14_19.png",
+        "frame_id": 399,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.999063,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 7379.172864,
+                    "center_y": 9852.790272,
+                    "height": 138.899968,
+                    "width": 115.311616
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/14/14_18.png",
+        "frame_id": 403,
+        "objects": [
+            {
+                "class_id": 3,
+                "confidence": 0.479799,
+                "name": "Echinococcus_granulosus_egg",
+                "relative_coordinates": {
+                    "center_x": 0.712845,
+                    "center_y": 0.015097,
+                    "height": 0.031986,
+                    "width": 0.154411
+                }
+            },
+            {
+                "class_id": 2,
+                "confidence": 0.99315,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 7224.269824,
+                    "center_y": 9422.387968,
+                    "height": 124.930048,
+                    "width": 151.631872
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/12/12_4.png",
+        "frame_id": 412,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.995824,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 6256.982016,
+                    "center_y": 2070.1632,
+                    "height": 90.815488,
+                    "width": 120.40704
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/12/12_9.png",
+        "frame_id": 421,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.996862,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 6164.329216,
+                    "center_y": 4726.195456,
+                    "height": 115.250688,
+                    "width": 74.971136
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/12/12_12.png",
+        "frame_id": 424,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.994995,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 6239.011328,
+                    "center_y": 6330.592512,
+                    "height": 149.801984,
+                    "width": 122.249728
+                }
+            },
+            {
+                "class_id": 2,
+                "confidence": 0.785212,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 0.054618,
+                    "center_y": 0.922184,
+                    "height": 0.159828,
+                    "width": 0.117586
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/12/12_21.png",
+        "frame_id": 425,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.99904,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 6334.234368,
+                    "center_y": 10791.18208,
+                    "height": 135.848448,
+                    "width": 105.071104
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/12/12_1.png",
+        "frame_id": 426,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.996451,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 6248.308224,
+                    "center_y": 565.208832,
+                    "height": 122.689024,
+                    "width": 127.428608
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/12/12_10.png",
+        "frame_id": 427,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.998857,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 6340.542464,
+                    "center_y": 5240.821504,
+                    "height": 106.361856,
+                    "width": 136.064
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/12/12_6.png",
+        "frame_id": 430,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.999197,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 6228.931584,
+                    "center_y": 3138.697472,
+                    "height": 98.144256,
+                    "width": 149.37856
+                }
+            },
+            {
+                "class_id": 2,
+                "confidence": 0.998466,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 6371.055104,
+                    "center_y": 3273.448448,
+                    "height": 149.00224,
+                    "width": 91.565056
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/12/12_6.png",
+        "frame_id": 430,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.999197,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 6228.931584,
+                    "center_y": 3138.697472,
+                    "height": 98.144256,
+                    "width": 149.37856
+                }
+            },
+            {
+                "class_id": 2,
+                "confidence": 0.998466,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 6371.055104,
+                    "center_y": 3273.448448,
+                    "height": 149.00224,
+                    "width": 91.565056
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/12/12_27.png",
+        "frame_id": 436,
+        "objects": [
+            {
+                "class_id": 3,
+                "confidence": 0.613774,
+                "name": "Echinococcus_granulosus_egg",
+                "relative_coordinates": {
+                    "center_x": 0.032726,
+                    "center_y": 0.72924,
+                    "height": 0.209151,
+                    "width": 0.064731
+                }
+            },
+            {
+                "class_id": 2,
+                "confidence": 0.998694,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 6319.566592,
+                    "center_y": 13855.183616,
+                    "height": 90.689024,
+                    "width": 152.709632
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/12/12_17.png",
+        "frame_id": 441,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.998219,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 6345.155072,
+                    "center_y": 8858.787584,
+                    "height": 121.380864,
+                    "width": 112.00256
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/12/12_29.png",
+        "frame_id": 451,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.997501,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 6186.3326720000005,
+                    "center_y": 14954.434304,
+                    "height": 89.782784,
+                    "width": 158.44864
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/55/55_1.png",
+        "frame_id": 508,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.998306,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 28234.394624,
+                    "center_y": 740.09216,
+                    "height": 105.097728,
+                    "width": 110.923264
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/48/48_9.png",
+        "frame_id": 544,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.997408,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 24648.53376,
+                    "center_y": 4697.468416,
+                    "height": 153.681408,
+                    "width": 105.0368
+                }
+            },
+            {
+                "class_id": 2,
+                "confidence": 0.997159,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 24689.442304,
+                    "center_y": 4784.7552,
+                    "height": 106.859008,
+                    "width": 160.229376
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/48/48_9.png",
+        "frame_id": 544,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.997408,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 24648.53376,
+                    "center_y": 4697.468416,
+                    "height": 153.681408,
+                    "width": 105.0368
+                }
+            },
+            {
+                "class_id": 2,
+                "confidence": 0.997159,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 24689.442304,
+                    "center_y": 4784.7552,
+                    "height": 106.859008,
+                    "width": 160.229376
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/48/48_12.png",
+        "frame_id": 547,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.997655,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 24708.713984,
+                    "center_y": 6368.454656,
+                    "height": 102.697984,
+                    "width": 154.210816
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/48/48_1.png",
+        "frame_id": 549,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.998587,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 24671.716096,
+                    "center_y": 658.198528,
+                    "height": 130.235392,
+                    "width": 134.002176
+                }
+            },
+            {
+                "class_id": 2,
+                "confidence": 0.97465,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 0.080044,
+                    "center_y": 0.077898,
+                    "height": 0.154088,
+                    "width": 0.165089
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/48/48_6.png",
+        "frame_id": 553,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.998609,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 24737.976832,
+                    "center_y": 3131.03232,
+                    "height": 87.415808,
+                    "width": 158.932992
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/48/48_20.png",
+        "frame_id": 554,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.993618,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 24649.124096,
+                    "center_y": 10406.272,
+                    "height": 102.761472,
+                    "width": 149.124608
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/21/21_5.png",
+        "frame_id": 575,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.996625,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 10776.267264,
+                    "center_y": 2772.490752,
+                    "height": 137.081856,
+                    "width": 83.252224
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/21/21_23.png",
+        "frame_id": 586,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.995936,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 10973.122048,
+                    "center_y": 11953.491712,
+                    "height": 104.392192,
+                    "width": 132.819968
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/21/21_7.png",
+        "frame_id": 587,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.996516,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 10944.361216,
+                    "center_y": 3710.465024,
+                    "height": 134.569984,
+                    "width": 82.855424
+                }
+            },
+            {
+                "class_id": 2,
+                "confidence": 0.98584,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 0.453375,
+                    "center_y": 0.433562,
+                    "height": 0.19842,
+                    "width": 0.20955
+                }
+            },
+            {
+                "class_id": 2,
+                "confidence": 0.982777,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 0.884619,
+                    "center_y": 0.729566,
+                    "height": 0.200329,
+                    "width": 0.228204
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/21/21_15.png",
+        "frame_id": 596,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.998496,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 10850.872576,
+                    "center_y": 7711.656192,
+                    "height": 127.385088,
+                    "width": 152.136192
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/21/21_16.png",
+        "frame_id": 603,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.995865,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 10881.493248,
+                    "center_y": 8381.98912,
+                    "height": 112.244736,
+                    "width": 136.178176
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/21/21_18.png",
+        "frame_id": 608,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.996655,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 10835.409664,
+                    "center_y": 9236.036608,
+                    "height": 83.785216,
+                    "width": 144.991744
+                }
+            },
+            {
+                "class_id": 2,
+                "confidence": 0.996296,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 10772.52992,
+                    "center_y": 9379.951104,
+                    "height": 161.535488,
+                    "width": 81.552896
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/21/21_18.png",
+        "frame_id": 608,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.996655,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 10835.409664,
+                    "center_y": 9236.036608,
+                    "height": 83.785216,
+                    "width": 144.991744
+                }
+            },
+            {
+                "class_id": 2,
+                "confidence": 0.996296,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 10772.52992,
+                    "center_y": 9379.951104,
+                    "height": 161.535488,
+                    "width": 81.552896
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/21/21_2.png",
+        "frame_id": 609,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.999025,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 10845.105664,
+                    "center_y": 1097.60128,
+                    "height": 101.25312,
+                    "width": 136.443904
+                }
+            },
+            {
+                "class_id": 2,
+                "confidence": 0.991954,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 10775.369472,
+                    "center_y": 1193.931264,
+                    "height": 113.28,
+                    "width": 97.55904
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/21/21_2.png",
+        "frame_id": 609,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.999025,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 10845.105664,
+                    "center_y": 1097.60128,
+                    "height": 101.25312,
+                    "width": 136.443904
+                }
+            },
+            {
+                "class_id": 2,
+                "confidence": 0.991954,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 10775.369472,
+                    "center_y": 1193.931264,
+                    "height": 113.28,
+                    "width": 97.55904
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/21/21_29.png",
+        "frame_id": 615,
+        "objects": [
+            {
+                "class_id": 3,
+                "confidence": 0.63848,
+                "name": "Echinococcus_granulosus_egg",
+                "relative_coordinates": {
+                    "center_x": 0.744958,
+                    "center_y": 0.259671,
+                    "height": 0.14567,
+                    "width": 0.12395
+                }
+            },
+            {
+                "class_id": 2,
+                "confidence": 0.996814,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 10810.514176,
+                    "center_y": 14936.165632,
+                    "height": 102.61504,
+                    "width": 155.678208
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/13/13_5.png",
+        "frame_id": 616,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.995392,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 6756.721664,
+                    "center_y": 2725.733888,
+                    "height": 113.980416,
+                    "width": 154.116096
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/13/13_13.png",
+        "frame_id": 623,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.998701,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 6840.486144,
+                    "center_y": 6798.3168,
+                    "height": 148.94848,
+                    "width": 94.54336
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/13/13_6.png",
+        "frame_id": 635,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.99405,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 6717.008128,
+                    "center_y": 3309.33248,
+                    "height": 77.513728,
+                    "width": 131.065856
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/13/13_15.png",
+        "frame_id": 637,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.998472,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 6698.454784,
+                    "center_y": 7843.321344,
+                    "height": 150.982144,
+                    "width": 86.43072
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/13/13_14.png",
+        "frame_id": 639,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.994716,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 6694.871552,
+                    "center_y": 7245.87776,
+                    "height": 94.780928,
+                    "width": 144.630784
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/13/13_16.png",
+        "frame_id": 644,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.997634,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 6742.629376,
+                    "center_y": 8419.860224,
+                    "height": 113.609216,
+                    "width": 124.601856
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/13/13_3.png",
+        "frame_id": 654,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.997957,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 6792.8064,
+                    "center_y": 1611.041024,
+                    "height": 115.987968,
+                    "width": 129.591296
+                }
+            },
+            {
+                "class_id": 2,
+                "confidence": 0.992503,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 6713.010176,
+                    "center_y": 1557.345792,
+                    "height": 88.918528,
+                    "width": 117.759488
+                }
+            },
+            {
+                "class_id": 2,
+                "confidence": 0.989695,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 0.606534,
+                    "center_y": 0.836921,
+                    "height": 0.28745,
+                    "width": 0.257611
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/13/13_3.png",
+        "frame_id": 654,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.997957,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 6792.8064,
+                    "center_y": 1611.041024,
+                    "height": 115.987968,
+                    "width": 129.591296
+                }
+            },
+            {
+                "class_id": 2,
+                "confidence": 0.992503,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 6713.010176,
+                    "center_y": 1557.345792,
+                    "height": 88.918528,
+                    "width": 117.759488
+                }
+            },
+            {
+                "class_id": 2,
+                "confidence": 0.989695,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 0.606534,
+                    "center_y": 0.836921,
+                    "height": 0.28745,
+                    "width": 0.257611
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/1/1_5.png",
+        "frame_id": 657,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.997436,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 532.925184,
+                    "center_y": 2719.778816,
+                    "height": 173.382144,
+                    "width": 87.00672
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/1/1_22.png",
+        "frame_id": 660,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.998444,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 671.926528,
+                    "center_y": 11419.260672,
+                    "height": 141.607936,
+                    "width": 90.509824
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/1/1_9.png",
+        "frame_id": 667,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.9983,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 728.419584,
+                    "center_y": 4714.592512,
+                    "height": 158.333952,
+                    "width": 99.127296
+                }
+            },
+            {
+                "class_id": 2,
+                "confidence": 0.485274,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 0.025023,
+                    "center_y": 0.088519,
+                    "height": 0.180399,
+                    "width": 0.055186
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/1/1_7.png",
+        "frame_id": 669,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.9976,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 541.395712,
+                    "center_y": 3805.927936,
+                    "height": 126.700032,
+                    "width": 103.34464
+                }
+            },
+            {
+                "class_id": 2,
+                "confidence": 0.994139,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 641.2672,
+                    "center_y": 3800.067328,
+                    "height": 146.054656,
+                    "width": 101.554176
+                }
+            },
+            {
+                "class_id": 2,
+                "confidence": 0.788688,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 0.521883,
+                    "center_y": 0.031159,
+                    "height": 0.063062,
+                    "width": 0.214325
+                }
+            },
+            {
+                "class_id": 2,
+                "confidence": 0.323871,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 0.024476,
+                    "center_y": 0.921848,
+                    "height": 0.159519,
+                    "width": 0.055099
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/1/1_7.png",
+        "frame_id": 669,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.9976,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 541.395712,
+                    "center_y": 3805.927936,
+                    "height": 126.700032,
+                    "width": 103.34464
+                }
+            },
+            {
+                "class_id": 2,
+                "confidence": 0.994139,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 641.2672,
+                    "center_y": 3800.067328,
+                    "height": 146.054656,
+                    "width": 101.554176
+                }
+            },
+            {
+                "class_id": 2,
+                "confidence": 0.788688,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 0.521883,
+                    "center_y": 0.031159,
+                    "height": 0.063062,
+                    "width": 0.214325
+                }
+            },
+            {
+                "class_id": 2,
+                "confidence": 0.323871,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 0.024476,
+                    "center_y": 0.921848,
+                    "height": 0.159519,
+                    "width": 0.055099
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/1/1_21.png",
+        "frame_id": 671,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.999329,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 655.904256,
+                    "center_y": 10953.129216,
+                    "height": 108.582912,
+                    "width": 143.937024
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/1/1_6.png",
+        "frame_id": 676,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.991636,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 647.4636800000001,
+                    "center_y": 3303.920896,
+                    "height": 101.39648,
+                    "width": 124.112384
+                }
+            },
+            {
+                "class_id": 2,
+                "confidence": 0.990327,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 546.942976,
+                    "center_y": 3179.208704,
+                    "height": 122.643968,
+                    "width": 134.5408
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/1/1_6.png",
+        "frame_id": 676,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.991636,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 647.4636800000001,
+                    "center_y": 3303.920896,
+                    "height": 101.39648,
+                    "width": 124.112384
+                }
+            },
+            {
+                "class_id": 2,
+                "confidence": 0.990327,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 546.942976,
+                    "center_y": 3179.208704,
+                    "height": 122.643968,
+                    "width": 134.5408
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/1/1_15.png",
+        "frame_id": 678,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.995539,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 575.21408,
+                    "center_y": 7823.093504,
+                    "height": 171.398656,
+                    "width": 103.112192
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/1/1_16.png",
+        "frame_id": 685,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.99814,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 592.388864,
+                    "center_y": 8412.611072,
+                    "height": 145.460736,
+                    "width": 83.986944
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/1/1_18.png",
+        "frame_id": 690,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.999154,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 610.462464,
+                    "center_y": 9276.40064,
+                    "height": 143.026688,
+                    "width": 89.9328
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/1/1_11.png",
+        "frame_id": 696,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.995764,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 636.500992,
+                    "center_y": 5863.883264,
+                    "height": 99.337728,
+                    "width": 126.93248
+                }
+            },
+            {
+                "class_id": 2,
+                "confidence": 0.595207,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 0.117262,
+                    "center_y": 0.97534,
+                    "height": 0.052547,
+                    "width": 0.247115
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/18/18_13.png",
+        "frame_id": 705,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.994733,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 9362.144,
+                    "center_y": 6851.501056,
+                    "height": 139.276288,
+                    "width": 89.257984
+                }
+            },
+            {
+                "class_id": 2,
+                "confidence": 0.969076,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 0.129676,
+                    "center_y": 0.79312,
+                    "height": 0.235507,
+                    "width": 0.236809
+                }
+            },
+            {
+                "class_id": 2,
+                "confidence": 0.835112,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 0.960781,
+                    "center_y": 0.616974,
+                    "height": 0.30941,
+                    "width": 0.080792
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/18/18_9.png",
+        "frame_id": 708,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.997033,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 9421.886976,
+                    "center_y": 4823.761664,
+                    "height": 152.682496,
+                    "width": 89.845248
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/18/18_12.png",
+        "frame_id": 711,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.999169,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 9334.401536,
+                    "center_y": 6234.043136,
+                    "height": 143.747584,
+                    "width": 108.987392
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/18/18_6.png",
+        "frame_id": 717,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.99768,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 9431.77984,
+                    "center_y": 3099.599104,
+                    "height": 110.130688,
+                    "width": 89.843712
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/18/18_20.png",
+        "frame_id": 718,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.991615,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 9380.788224,
+                    "center_y": 10478.660352,
+                    "height": 71.136768,
+                    "width": 151.163904
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/18/18_2.png",
+        "frame_id": 732,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.991837,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 9435.268096,
+                    "center_y": 1210.488576,
+                    "height": 125.3504,
+                    "width": 131.041792
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/51/51_4.png",
+        "frame_id": 740,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.999122,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 26278.730752,
+                    "center_y": 2122.006784,
+                    "height": 147.091968,
+                    "width": 88.344064
+                }
+            },
+            {
+                "class_id": 2,
+                "confidence": 0.955328,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 0.906088,
+                    "center_y": 0.794979,
+                    "height": 0.202074,
+                    "width": 0.193533
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/51/51_0.png",
+        "frame_id": 747,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.997477,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 26289.405952,
+                    "center_y": 223.772672,
+                    "height": 125.089792,
+                    "width": 100.755456
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/51/51_9.png",
+        "frame_id": 749,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.997367,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 26149.324032,
+                    "center_y": 4636.805376,
+                    "height": 100.133888,
+                    "width": 147.019264
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/10/10_5.png",
+        "frame_id": 780,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.999226,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 5177.114368,
+                    "center_y": 2721.930752,
+                    "height": 161.360384,
+                    "width": 100.868096
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/10/10_1.png",
+        "frame_id": 795,
+        "objects": [
+            {
+                "class_id": 3,
+                "confidence": 0.998083,
+                "name": "Echinococcus_granulosus_egg",
+                "relative_coordinates": {
+                    "center_x": 5180.637696,
+                    "center_y": 687.3456639999999,
+                    "height": 142.147072,
+                    "width": 154.604544
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/10/10_20.png",
+        "frame_id": 800,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.998594,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 5239.318784,
+                    "center_y": 10312.009984,
+                    "height": 123.014656,
+                    "width": 122.600448
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/10/10_31.png",
+        "frame_id": 802,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.994499,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 5245.449984,
+                    "center_y": 15947.264256,
+                    "height": 102.85824,
+                    "width": 144.057856
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/10/10_30.png",
+        "frame_id": 811,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.997233,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 5165.774848,
+                    "center_y": 15483.744,
+                    "height": 100.837376,
+                    "width": 136.80384
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/10/10_24.png",
+        "frame_id": 815,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.991029,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 5315.653888,
+                    "center_y": 12442.581248,
+                    "height": 85.697024,
+                    "width": 158.395392
+                }
+            },
+            {
+                "class_id": 2,
+                "confidence": 0.960923,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 0.07782,
+                    "center_y": 0.425168,
+                    "height": 0.295297,
+                    "width": 0.151622
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/10/10_3.png",
+        "frame_id": 818,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.992977,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 5152.718336,
+                    "center_y": 1591.279616,
+                    "height": 152.568832,
+                    "width": 129.77408
+                }
+            },
+            {
+                "class_id": 2,
+                "confidence": 0.992714,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 5330.027776,
+                    "center_y": 1605.286144,
+                    "height": 92.957696,
+                    "width": 162.385408
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/10/10_3.png",
+        "frame_id": 818,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.992977,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 5152.718336,
+                    "center_y": 1591.279616,
+                    "height": 152.568832,
+                    "width": 129.77408
+                }
+            },
+            {
+                "class_id": 2,
+                "confidence": 0.992714,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 5330.027776,
+                    "center_y": 1605.286144,
+                    "height": 92.957696,
+                    "width": 162.385408
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/10/10_11.png",
+        "frame_id": 819,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.995983,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 5357.7152,
+                    "center_y": 5803.597568,
+                    "height": 102.052864,
+                    "width": 76.900864
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/33/33_5.png",
+        "frame_id": 821,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.99655,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 16952.008704,
+                    "center_y": 2633.594368,
+                    "height": 157.408768,
+                    "width": 94.88384
+                }
+            },
+            {
+                "class_id": 2,
+                "confidence": 0.738392,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 0.911008,
+                    "center_y": 0.03051,
+                    "height": 0.071013,
+                    "width": 0.194796
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/33/33_0.png",
+        "frame_id": 829,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.995856,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 16945.613824,
+                    "center_y": 52.417536,
+                    "height": 118.558208,
+                    "width": 135.035904
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/33/33_9.png",
+        "frame_id": 831,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.997435,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 17000.89984,
+                    "center_y": 4828.892416,
+                    "height": 146.466304,
+                    "width": 91.208704
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/33/33_19.png",
+        "frame_id": 850,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.99599,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 17086.72768,
+                    "center_y": 9806.254336,
+                    "height": 107.069952,
+                    "width": 172.668928
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/33/33_3.png",
+        "frame_id": 859,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.998778,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 17111.20256,
+                    "center_y": 1685.895424,
+                    "height": 102.45632,
+                    "width": 146.580992
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/5/5_9.png",
+        "frame_id": 872,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.998059,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 2792.45312,
+                    "center_y": 4817.810944,
+                    "height": 140.448256,
+                    "width": 92.826624
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/5/5_7.png",
+        "frame_id": 874,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.995738,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 2592.457984,
+                    "center_y": 3818.360064,
+                    "height": 91.091456,
+                    "width": 113.764352
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/5/5_12.png",
+        "frame_id": 875,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.998733,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 2694.272768,
+                    "center_y": 6178.040576,
+                    "height": 130.507264,
+                    "width": 141.588992
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/5/5_8.png",
+        "frame_id": 879,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.998616,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 2620.717312,
+                    "center_y": 4259.272448,
+                    "height": 116.73856,
+                    "width": 150.66112
+                }
+            },
+            {
+                "class_id": 2,
+                "confidence": 0.998395,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 2715.82592,
+                    "center_y": 4176.447744,
+                    "height": 134.9248,
+                    "width": 123.636736
+                }
+            },
+            {
+                "class_id": 2,
+                "confidence": 0.985589,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 0.120048,
+                    "center_y": 0.066906,
+                    "height": 0.136998,
+                    "width": 0.221855
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/5/5_8.png",
+        "frame_id": 879,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.998616,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 2620.717312,
+                    "center_y": 4259.272448,
+                    "height": 116.73856,
+                    "width": 150.66112
+                }
+            },
+            {
+                "class_id": 2,
+                "confidence": 0.998395,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 2715.82592,
+                    "center_y": 4176.447744,
+                    "height": 134.9248,
+                    "width": 123.636736
+                }
+            },
+            {
+                "class_id": 2,
+                "confidence": 0.985589,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 0.120048,
+                    "center_y": 0.066906,
+                    "height": 0.136998,
+                    "width": 0.221855
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/5/5_6.png",
+        "frame_id": 881,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.997491,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 2587.680768,
+                    "center_y": 3167.37152,
+                    "height": 122.294272,
+                    "width": 118.040576
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/5/5_17.png",
+        "frame_id": 892,
+        "objects": [
+            {
+                "class_id": 3,
+                "confidence": 0.99056,
+                "name": "Echinococcus_granulosus_egg",
+                "relative_coordinates": {
+                    "center_x": 2641.862912,
+                    "center_y": 8874.392576,
+                    "height": 78.900736,
+                    "width": 68.18048
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/5/5_11.png",
+        "frame_id": 901,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.997573,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 2634.807808,
+                    "center_y": 5780.846592,
+                    "height": 125.996544,
+                    "width": 148.644352
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/0/0_5.png",
+        "frame_id": 903,
+        "objects": [
+            {
+                "class_id": 3,
+                "confidence": 0.465303,
+                "name": "Echinococcus_granulosus_egg",
+                "relative_coordinates": {
+                    "center_x": 0.983412,
+                    "center_y": 0.612045,
+                    "height": 0.328754,
+                    "width": 0.036926
+                }
+            },
+            {
+                "class_id": 2,
+                "confidence": 0.996795,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 42.418432,
+                    "center_y": 2753.476608,
+                    "height": 104.37888,
+                    "width": 160.665088
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/0/0_22.png",
+        "frame_id": 906,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.999259,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 119.560704,
+                    "center_y": 11336.838912,
+                    "height": 91.478016,
+                    "width": 157.024256
+                }
+            },
+            {
+                "class_id": 2,
+                "confidence": 0.958063,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 0.081641,
+                    "center_y": 0.62054,
+                    "height": 0.176966,
+                    "width": 0.164722
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/0/0_9.png",
+        "frame_id": 913,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.998016,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 223.099648,
+                    "center_y": 4635.0272,
+                    "height": 92.758528,
+                    "width": 134.145024
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/0/0_23.png",
+        "frame_id": 914,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.998045,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 66.520832,
+                    "center_y": 11982.422528,
+                    "height": 111.80288,
+                    "width": 133.08416
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/0/0_7.png",
+        "frame_id": 915,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.993401,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 63.931136,
+                    "center_y": 3681.66912,
+                    "height": 154.2656,
+                    "width": 99.531264
+                }
+            },
+            {
+                "class_id": 2,
+                "confidence": 0.986796,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 0.920781,
+                    "center_y": 0.894816,
+                    "height": 0.209061,
+                    "width": 0.164032
+                }
+            },
+            {
+                "class_id": 2,
+                "confidence": 0.811938,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 0.661216,
+                    "center_y": 0.954996,
+                    "height": 0.093508,
+                    "width": 0.281345
+                }
+            },
+            {
+                "class_id": 2,
+                "confidence": 0.799137,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 0.087342,
+                    "center_y": 0.045327,
+                    "height": 0.095574,
+                    "width": 0.167044
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/0/0_6.png",
+        "frame_id": 922,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.997229,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 104.997888,
+                    "center_y": 3227.945984,
+                    "height": 105.780736,
+                    "width": 186.06592
+                }
+            },
+            {
+                "class_id": 2,
+                "confidence": 0.984961,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 0.0864,
+                    "center_y": 0.918888,
+                    "height": 0.162305,
+                    "width": 0.163142
+                }
+            },
+            {
+                "class_id": 2,
+                "confidence": 0.605823,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 0.093984,
+                    "center_y": 0.738302,
+                    "height": 0.166835,
+                    "width": 0.194812
+                }
+            },
+            {
+                "class_id": 2,
+                "confidence": 0.427697,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 0.957335,
+                    "center_y": 0.422428,
+                    "height": 0.202069,
+                    "width": 0.080165
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/0/0_20.png",
+        "frame_id": 923,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.995537,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 233.187328,
+                    "center_y": 10389.16096,
+                    "height": 105.76128,
+                    "width": 88.442368
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/0/0_26.png",
+        "frame_id": 927,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.999089,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 98.798336,
+                    "center_y": 13454.330624,
+                    "height": 108.809728,
+                    "width": 143.77984
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/0/0_19.png",
+        "frame_id": 932,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.998265,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 177.101312,
+                    "center_y": 9879.131904,
+                    "height": 150.995968,
+                    "width": 100.698112
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/0/0_2.png",
+        "frame_id": 937,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.993003,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 55.654144,
+                    "center_y": 1255.53792,
+                    "height": 97.82272,
+                    "width": 160.953344
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/0/0_3.png",
+        "frame_id": 941,
+        "objects": [
+            {
+                "class_id": 3,
+                "confidence": 0.99488,
+                "name": "Echinococcus_granulosus_egg",
+                "relative_coordinates": {
+                    "center_x": 180.83456,
+                    "center_y": 1748.954624,
+                    "height": 97.933824,
+                    "width": 151.76192
+                }
+            },
+            {
+                "class_id": 3,
+                "confidence": 0.655833,
+                "name": "Echinococcus_granulosus_egg",
+                "relative_coordinates": {
+                    "center_x": 0.980605,
+                    "center_y": 0.085293,
+                    "height": 0.17608,
+                    "width": 0.037707
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/39/39_35.png",
+        "frame_id": 970,
+        "objects": [
+            {
+                "class_id": 3,
+                "confidence": 0.996504,
+                "name": "Echinococcus_granulosus_egg",
+                "relative_coordinates": {
+                    "center_x": 20072.495872,
+                    "center_y": 17954.691328,
+                    "height": 111.309824,
+                    "width": 115.487232
+                }
+            },
+            {
+                "class_id": 1,
+                "confidence": 0.429193,
+                "name": "toxocara_canis",
+                "relative_coordinates": {
+                    "center_x": 0.078748,
+                    "center_y": 0.834624,
+                    "height": 0.251886,
+                    "width": 0.173664
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/28/28_13.png",
+        "frame_id": 992,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.998093,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 14369.878272,
+                    "center_y": 6716.978432,
+                    "height": 95.363072,
+                    "width": 133.206528
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/28/28_7.png",
+        "frame_id": 997,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.991409,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 14416.406272,
+                    "center_y": 3601.041664,
+                    "height": 68.633088,
+                    "width": 100.035072
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/28/28_6.png",
+        "frame_id": 1004,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.990736,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 14418.795264,
+                    "center_y": 3312.198912,
+                    "height": 64.177664,
+                    "width": 98.24
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/28/28_16.png",
+        "frame_id": 1013,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.998122,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 14425.735936,
+                    "center_y": 8323.515136,
+                    "height": 100.955648,
+                    "width": 145.734144
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/28/28_2.png",
+        "frame_id": 1019,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.997369,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 14358.227968,
+                    "center_y": 1162.397952,
+                    "height": 155.14624,
+                    "width": 90.238976
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/17/17_7.png",
+        "frame_id": 1038,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.997901,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 8876.342784,
+                    "center_y": 3710.3168,
+                    "height": 120.612864,
+                    "width": 126.203904
+                }
+            },
+            {
+                "class_id": 2,
+                "confidence": 0.871633,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 0.12313,
+                    "center_y": 0.059251,
+                    "height": 0.120987,
+                    "width": 0.253721
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/17/17_12.png",
+        "frame_id": 1039,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.994132,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 8909.94176,
+                    "center_y": 6257.754368,
+                    "height": 154.43456,
+                    "width": 88.835072
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/17/17_21.png",
+        "frame_id": 1040,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.997338,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 8846.849024,
+                    "center_y": 10830.126848,
+                    "height": 102.538752,
+                    "width": 152.728576
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/17/17_2.png",
+        "frame_id": 1060,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.993357,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 8726.972928,
+                    "center_y": 1146.519808,
+                    "height": 151.578624,
+                    "width": 86.331904
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/57/57_0.png",
+        "frame_id": 1116,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.99492,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 29211.62112,
+                    "center_y": 233.1648,
+                    "height": 91.102208,
+                    "width": 113.01376
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/57/57_1.png",
+        "frame_id": 1123,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.993501,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 29418.162944,
+                    "center_y": 534.635264,
+                    "height": 90.651136,
+                    "width": 88.179712
+                }
+            },
+            {
+                "class_id": 2,
+                "confidence": 0.927381,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 0.108944,
+                    "center_y": 0.038512,
+                    "height": 0.078274,
+                    "width": 0.214725
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/4/4_25.png",
+        "frame_id": 1167,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.998079,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 2113.388032,
+                    "center_y": 12904.175616,
+                    "height": 109.280768,
+                    "width": 138.74944
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/4/4_20.png",
+        "frame_id": 1169,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.999183,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 2207.579648,
+                    "center_y": 10437.87008,
+                    "height": 139.191808,
+                    "width": 108.672512
+                }
+            },
+            {
+                "class_id": 2,
+                "confidence": 0.944962,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 0.081736,
+                    "center_y": 0.929232,
+                    "height": 0.142961,
+                    "width": 0.170612
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/4/4_2.png",
+        "frame_id": 1183,
+        "objects": [
+            {
+                "class_id": 3,
+                "confidence": 0.882534,
+                "name": "Echinococcus_granulosus_egg",
+                "relative_coordinates": {
+                    "center_x": 0.386331,
+                    "center_y": 0.613363,
+                    "height": 0.178005,
+                    "width": 0.233553
+                }
+            },
+            {
+                "class_id": 2,
+                "confidence": 0.76854,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 0.387618,
+                    "center_y": 0.61473,
+                    "height": 0.18069,
+                    "width": 0.248672
+                }
+            },
+            {
+                "class_id": 2,
+                "confidence": 0.993684,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 2108.402944,
+                    "center_y": 1232.9231359999999,
+                    "height": 122.143744,
+                    "width": 137.762304
+                }
+            },
+            {
+                "class_id": 2,
+                "confidence": 0.94816,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 0.138676,
+                    "center_y": 0.238277,
+                    "height": 0.298679,
+                    "width": 0.220019
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/4/4_11.png",
+        "frame_id": 1188,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.996685,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 2270.427136,
+                    "center_y": 5860.129536,
+                    "height": 100.134912,
+                    "width": 99.96544
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/32/32_4.png",
+        "frame_id": 1191,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.998505,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 16503.55072,
+                    "center_y": 2247.557376,
+                    "height": 150.152192,
+                    "width": 84.363776
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/32/32_2.png",
+        "frame_id": 1224,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.995344,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 16615.936,
+                    "center_y": 1157.2989440000001,
+                    "height": 122.26304,
+                    "width": 85.640704
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/43/43_5.png",
+        "frame_id": 1272,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.997193,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 22233.166848,
+                    "center_y": 2703.99744,
+                    "height": 88.375808,
+                    "width": 152.80896
+                }
+            },
+            {
+                "class_id": 2,
+                "confidence": 0.745182,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 0.414449,
+                    "center_y": 0.038326,
+                    "height": 0.076054,
+                    "width": 0.22303
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/43/43_13.png",
+        "frame_id": 1279,
+        "objects": [
+            {
+                "class_id": 1,
+                "confidence": 0.994858,
+                "name": "toxocara_canis",
+                "relative_coordinates": {
+                    "center_x": 22130.532864,
+                    "center_y": 6824.55168,
+                    "height": 174.958592,
+                    "width": 201.39776
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/43/43_2.png",
+        "frame_id": 1306,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.994448,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 22135.543808,
+                    "center_y": 1262.29248,
+                    "height": 81.587712,
+                    "width": 146.104832
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/45/45_0.png",
+        "frame_id": 1321,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.998614,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 23203.922176,
+                    "center_y": 89.69856,
+                    "height": 132.227072,
+                    "width": 114.164224
+                }
+            },
+            {
+                "class_id": 2,
+                "confidence": 0.998537,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 23161.508864,
+                    "center_y": 218.108416,
+                    "height": 103.875072,
+                    "width": 150.010368
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/45/45_0.png",
+        "frame_id": 1321,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.998614,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 23203.922176,
+                    "center_y": 89.69856,
+                    "height": 132.227072,
+                    "width": 114.164224
+                }
+            },
+            {
+                "class_id": 2,
+                "confidence": 0.998537,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 23161.508864,
+                    "center_y": 218.108416,
+                    "height": 103.875072,
+                    "width": 150.010368
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/45/45_1.png",
+        "frame_id": 1328,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.995945,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 23070.30016,
+                    "center_y": 673.727232,
+                    "height": 132.004352,
+                    "width": 112.429568
+                }
+            },
+            {
+                "class_id": 2,
+                "confidence": 0.993154,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 23075.312128,
+                    "center_y": 551.349248,
+                    "height": 88.210944,
+                    "width": 143.026176
+                }
+            },
+            {
+                "class_id": 2,
+                "confidence": 0.627785,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 0.313956,
+                    "center_y": 0.738165,
+                    "height": 0.195296,
+                    "width": 0.17462
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/45/45_1.png",
+        "frame_id": 1328,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.995945,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 23070.30016,
+                    "center_y": 673.727232,
+                    "height": 132.004352,
+                    "width": 112.429568
+                }
+            },
+            {
+                "class_id": 2,
+                "confidence": 0.993154,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 23075.312128,
+                    "center_y": 551.349248,
+                    "height": 88.210944,
+                    "width": 143.026176
+                }
+            },
+            {
+                "class_id": 2,
+                "confidence": 0.627785,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 0.313956,
+                    "center_y": 0.738165,
+                    "height": 0.195296,
+                    "width": 0.17462
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/45/45_8.png",
+        "frame_id": 1330,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.995738,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 23195.409408,
+                    "center_y": 4160.35584,
+                    "height": 93.592064,
+                    "width": 151.993856
+                }
+            },
+            {
+                "class_id": 2,
+                "confidence": 0.968752,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 0.116277,
+                    "center_y": 0.933727,
+                    "height": 0.139686,
+                    "width": 0.24169
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/45/45_6.png",
+        "frame_id": 1332,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.998436,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 23255.766272,
+                    "center_y": 3243.990016,
+                    "height": 99.820544,
+                    "width": 145.6512
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/19/19_5.png",
+        "frame_id": 1354,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.993786,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 9796.840192,
+                    "center_y": 2577.185792,
+                    "height": 71.108096,
+                    "width": 106.569728
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/19/19_4.png",
+        "frame_id": 1355,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.998219,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 9815.047168,
+                    "center_y": 2152.608512,
+                    "height": 99.505664,
+                    "width": 151.53152
+                }
+            },
+            {
+                "class_id": 2,
+                "confidence": 0.893068,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 0.269317,
+                    "center_y": 0.923278,
+                    "height": 0.149218,
+                    "width": 0.241644
+                }
+            },
+            {
+                "class_id": 2,
+                "confidence": 0.716153,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 0.963791,
+                    "center_y": 0.187059,
+                    "height": 0.317949,
+                    "width": 0.075998
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/19/19_22.png",
+        "frame_id": 1357,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.997253,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 9785.564928,
+                    "center_y": 11485.717504,
+                    "height": 135.8592,
+                    "width": 107.017728
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/19/19_7.png",
+        "frame_id": 1366,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.998646,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 9901.948928,
+                    "center_y": 3810.60352,
+                    "height": 94.119936,
+                    "width": 143.197184
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/19/19_3.png",
+        "frame_id": 1392,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.99733,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 9877.696256,
+                    "center_y": 1611.38944,
+                    "height": 94.416896,
+                    "width": 160.953856
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/36/36_6.png",
+        "frame_id": 1414,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.994955,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 18463.6864,
+                    "center_y": 3308.602368,
+                    "height": 80.557056,
+                    "width": 132.844544
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/36/36_16.png",
+        "frame_id": 1423,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.998167,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 18523.08608,
+                    "center_y": 8219.027456,
+                    "height": 104.5888,
+                    "width": 139.394048
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/36/36_18.png",
+        "frame_id": 1428,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.995389,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 18465.161472,
+                    "center_y": 9281.755392,
+                    "height": 104.039936,
+                    "width": 135.081472
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/36/36_2.png",
+        "frame_id": 1429,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.99562,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 18639.49824,
+                    "center_y": 1204.846336,
+                    "height": 127.13984,
+                    "width": 103.168512
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/30/30_15.png",
+        "frame_id": 1457,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.991726,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 15473.743104,
+                    "center_y": 7862.562304,
+                    "height": 151.59296,
+                    "width": 95.7312
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/11/11_9.png",
+        "frame_id": 1487,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.994446,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 5685.350144,
+                    "center_y": 4829.236224,
+                    "height": 136.96,
+                    "width": 125.337088
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/11/11_23.png",
+        "frame_id": 1488,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.991729,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 5710.553344,
+                    "center_y": 11898.614016,
+                    "height": 142.248448,
+                    "width": 115.557376
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/11/11_12.png",
+        "frame_id": 1490,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.997249,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 5729.869056,
+                    "center_y": 6303.400192,
+                    "height": 82.42944,
+                    "width": 171.661824
+                }
+            },
+            {
+                "class_id": 2,
+                "confidence": 0.868294,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 0.961501,
+                    "center_y": 0.926629,
+                    "height": 0.148121,
+                    "width": 0.078451
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/11/11_25.png",
+        "frame_id": 1495,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.997339,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 5742.157568,
+                    "center_y": 12956.32128,
+                    "height": 90.93888,
+                    "width": 140.838912
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/11/11_20.png",
+        "frame_id": 1497,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.993597,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 5758.006272,
+                    "center_y": 10289.072384,
+                    "height": 135.387648,
+                    "width": 108.750848
+                }
+            },
+            {
+                "class_id": 2,
+                "confidence": 0.50975,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 0.23924,
+                    "center_y": 0.085224,
+                    "height": 0.171817,
+                    "width": 0.17827
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/11/11_17.png",
+        "frame_id": 1507,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.993757,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 5863.92192,
+                    "center_y": 8827.249408,
+                    "height": 128.179712,
+                    "width": 80.308224
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/11/11_11.png",
+        "frame_id": 1516,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.998243,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 5808.427008,
+                    "center_y": 5845.333248,
+                    "height": 153.083904,
+                    "width": 88.549376
+                }
+            },
+            {
+                "class_id": 2,
+                "confidence": 0.877998,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 0.061395,
+                    "center_y": 0.665332,
+                    "height": 0.206793,
+                    "width": 0.131913
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/35/35_5.png",
+        "frame_id": 1518,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.997508,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 17988.133888,
+                    "center_y": 2634.07744,
+                    "height": 146.97472,
+                    "width": 119.17312
+                }
+            },
+            {
+                "class_id": 2,
+                "confidence": 0.990621,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 18153.974783999998,
+                    "center_y": 2735.154176,
+                    "height": 114.97472,
+                    "width": 86.723584
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/35/35_5.png",
+        "frame_id": 1518,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.997508,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 17988.133888,
+                    "center_y": 2634.07744,
+                    "height": 146.97472,
+                    "width": 119.17312
+                }
+            },
+            {
+                "class_id": 2,
+                "confidence": 0.990621,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 18153.974783999998,
+                    "center_y": 2735.154176,
+                    "height": 114.97472,
+                    "width": 86.723584
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/35/35_9.png",
+        "frame_id": 1528,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.998094,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 18108.50944,
+                    "center_y": 4797.03808,
+                    "height": 96.808448,
+                    "width": 127.547392
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/35/35_8.png",
+        "frame_id": 1535,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.995506,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 17949.71392,
+                    "center_y": 4311.211776,
+                    "height": 81.88416,
+                    "width": 121.685504
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/35/35_14.png",
+        "frame_id": 1541,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.996111,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 18016.947968,
+                    "center_y": 7202.330624,
+                    "height": 103.63136,
+                    "width": 157.113856
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/35/35_17.png",
+        "frame_id": 1548,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.997987,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 18014.50496,
+                    "center_y": 8761.87392,
+                    "height": 88.48896,
+                    "width": 140.597248
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/8/8_13.png",
+        "frame_id": 1566,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.997383,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 4132.788224,
+                    "center_y": 6833.749504,
+                    "height": 139.375616,
+                    "width": 99.068928
+                }
+            },
+            {
+                "class_id": 2,
+                "confidence": 0.881553,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 0.123629,
+                    "center_y": 0.056809,
+                    "height": 0.116951,
+                    "width": 0.191428
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/8/8_9.png",
+        "frame_id": 1569,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.997143,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 4254.729472,
+                    "center_y": 4635.103744,
+                    "height": 108.521472,
+                    "width": 77.601792
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/8/8_7.png",
+        "frame_id": 1571,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.997581,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 4128.303616,
+                    "center_y": 3791.24352,
+                    "height": 133.559296,
+                    "width": 129.037824
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/8/8_12.png",
+        "frame_id": 1572,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.993996,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 4129.056256,
+                    "center_y": 6382.08256,
+                    "height": 71.294976,
+                    "width": 93.136896
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/8/8_1.png",
+        "frame_id": 1574,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.997881,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 4192.760832,
+                    "center_y": 739.946496,
+                    "height": 124.36224,
+                    "width": 108.308992
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/8/8_8.png",
+        "frame_id": 1576,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.997255,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 4129.032704,
+                    "center_y": 4208.032768,
+                    "height": 127.984128,
+                    "width": 128.605696
+                }
+            },
+            {
+                "class_id": 2,
+                "confidence": 0.672852,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 0.621713,
+                    "center_y": 0.969286,
+                    "height": 0.064429,
+                    "width": 0.159341
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/8/8_6.png",
+        "frame_id": 1578,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.998986,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 4239.821056,
+                    "center_y": 3204.708352,
+                    "height": 101.210112,
+                    "width": 172.005376
+                }
+            },
+            {
+                "class_id": 2,
+                "confidence": 0.959995,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 0.143276,
+                    "center_y": 0.075513,
+                    "height": 0.152347,
+                    "width": 0.173346
+                }
+            },
+            {
+                "class_id": 2,
+                "confidence": 0.798448,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 0.363103,
+                    "center_y": 0.035426,
+                    "height": 0.071469,
+                    "width": 0.192721
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/8/8_15.png",
+        "frame_id": 1580,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.998883,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 4254.919424,
+                    "center_y": 7888.916736,
+                    "height": 102.007808,
+                    "width": 124.648448
+                }
+            },
+            {
+                "class_id": 2,
+                "confidence": 0.933818,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 0.591507,
+                    "center_y": 0.064636,
+                    "height": 0.130671,
+                    "width": 0.189558
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/8/8_16.png",
+        "frame_id": 1587,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.997095,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 4289.064192,
+                    "center_y": 8269.715968,
+                    "height": 98.8416,
+                    "width": 140.998144
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/8/8_19.png",
+        "frame_id": 1588,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.999174,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 4228.653056,
+                    "center_y": 9901.749504,
+                    "height": 107.798016,
+                    "width": 137.341952
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/8/8_11.png",
+        "frame_id": 1598,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.999349,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 4267.815424,
+                    "center_y": 5847.092736,
+                    "height": 100.176896,
+                    "width": 148.231168
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/37/37_5.png",
+        "frame_id": 1600,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.998414,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 19118.88128,
+                    "center_y": 2586.979072,
+                    "height": 104.864256,
+                    "width": 99.83232
+                }
+            },
+            {
+                "class_id": 1,
+                "confidence": 0.609814,
+                "name": "toxocara_canis",
+                "relative_coordinates": {
+                    "center_x": 0.245225,
+                    "center_y": 0.650094,
+                    "height": 0.241372,
+                    "width": 0.442924
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/37/37_12.png",
+        "frame_id": 1613,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.9902,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 19175.587072,
+                    "center_y": 6293.339136,
+                    "height": 103.059968,
+                    "width": 101.3376
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/37/37_18.png",
+        "frame_id": 1633,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.997608,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 19127.029248,
+                    "center_y": 9311.79648,
+                    "height": 158.090752,
+                    "width": 100.04992
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/37/37_2.png",
+        "frame_id": 1634,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.997493,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 19023.157504,
+                    "center_y": 1172.156672,
+                    "height": 127.473664,
+                    "width": 136.203776
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/15/15_5.png",
+        "frame_id": 1641,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.991749,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 7915.283456,
+                    "center_y": 2593.472768,
+                    "height": 132.169728,
+                    "width": 81.2672
+                }
+            },
+            {
+                "class_id": 2,
+                "confidence": 0.598184,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 0.929713,
+                    "center_y": 0.307102,
+                    "height": 0.182274,
+                    "width": 0.144592
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/15/15_23.png",
+        "frame_id": 1652,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.994582,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 7914.57024,
+                    "center_y": 11804.708096,
+                    "height": 115.183616,
+                    "width": 84.998656
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/15/15_21.png",
+        "frame_id": 1655,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.998487,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 7750.251264,
+                    "center_y": 10819.124736,
+                    "height": 136.812032,
+                    "width": 115.702784
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/15/15_10.png",
+        "frame_id": 1657,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.992614,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 7779.96032,
+                    "center_y": 5354.072576,
+                    "height": 90.157568,
+                    "width": 91.52256
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/15/15_25.png",
+        "frame_id": 1659,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.999401,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 7870.768896,
+                    "center_y": 12898.519552,
+                    "height": 110.523904,
+                    "width": 152.29184
+                }
+            },
+            {
+                "class_id": 2,
+                "confidence": 0.811055,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 0.068952,
+                    "center_y": 0.962604,
+                    "height": 0.077204,
+                    "width": 0.152096
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/15/15_6.png",
+        "frame_id": 1660,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.995646,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 7875.21536,
+                    "center_y": 3288.914176,
+                    "height": 156.32384,
+                    "width": 88.13824
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/15/15_11.png",
+        "frame_id": 1680,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.997804,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 7897.04448,
+                    "center_y": 5782.18496,
+                    "height": 116.776448,
+                    "width": 118.336
+                }
+            },
+            {
+                "class_id": 2,
+                "confidence": 0.982678,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 0.390069,
+                    "center_y": 0.062856,
+                    "height": 0.127782,
+                    "width": 0.194574
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/27/27_4.png",
+        "frame_id": 1683,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.998534,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 13960.38912,
+                    "center_y": 2194.526464,
+                    "height": 95.586304,
+                    "width": 142.651904
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/27/27_21.png",
+        "frame_id": 1696,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.993691,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 13966.995712,
+                    "center_y": 10907.84896,
+                    "height": 98.782208,
+                    "width": 142.846976
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/27/27_6.png",
+        "frame_id": 1701,
+        "objects": [
+            {
+                "class_id": 3,
+                "confidence": 0.472916,
+                "name": "Echinococcus_granulosus_egg",
+                "relative_coordinates": {
+                    "center_x": 0.641194,
+                    "center_y": 0.780412,
+                    "height": 0.123632,
+                    "width": 0.094391
+                }
+            },
+            {
+                "class_id": 2,
+                "confidence": 0.997523,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 14043.286784,
+                    "center_y": 3194.540288,
+                    "height": 135.481344,
+                    "width": 99.550208
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/27/27_27.png",
+        "frame_id": 1707,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.992872,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 14046.41408,
+                    "center_y": 14026.645248,
+                    "height": 139.654144,
+                    "width": 109.43232
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/16/16_4.png",
+        "frame_id": 1724,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.996319,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 8363.926272,
+                    "center_y": 2200.29312,
+                    "height": 156.033024,
+                    "width": 85.870592
+                }
+            },
+            {
+                "class_id": 2,
+                "confidence": 0.984496,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 0.173688,
+                    "center_y": 0.937653,
+                    "height": 0.125261,
+                    "width": 0.293619
+                }
+            },
+            {
+                "class_id": 2,
+                "confidence": 0.983394,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 0.870501,
+                    "center_y": 0.381039,
+                    "height": 0.176405,
+                    "width": 0.279015
+                }
+            },
+            {
+                "class_id": 2,
+                "confidence": 0.914811,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 0.10744,
+                    "center_y": 0.077498,
+                    "height": 0.158335,
+                    "width": 0.210237
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/16/16_23.png",
+        "frame_id": 1734,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.991529,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 8296.037632,
+                    "center_y": 11971.519488,
+                    "height": 100.994048,
+                    "width": 154.361344
+                }
+            },
+            {
+                "class_id": 2,
+                "confidence": 0.86717,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 0.062144,
+                    "center_y": 0.112721,
+                    "height": 0.227537,
+                    "width": 0.130104
+                }
+            },
+            {
+                "class_id": 2,
+                "confidence": 0.575567,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 0.971992,
+                    "center_y": 0.585439,
+                    "height": 0.364015,
+                    "width": 0.060289
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/16/16_21.png",
+        "frame_id": 1737,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.998902,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 8245.509376,
+                    "center_y": 10951.571968,
+                    "height": 96.980992,
+                    "width": 152.393728
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/16/16_25.png",
+        "frame_id": 1741,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.996275,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 8231.249664,
+                    "center_y": 12821.245184,
+                    "height": 84.321792,
+                    "width": 153.677824
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/16/16_24.png",
+        "frame_id": 1758,
+        "objects": [
+            {
+                "class_id": 3,
+                "confidence": 0.966936,
+                "name": "Echinococcus_granulosus_egg",
+                "relative_coordinates": {
+                    "center_x": 0.790494,
+                    "center_y": 0.367768,
+                    "height": 0.170687,
+                    "width": 0.206115
+                }
+            },
+            {
+                "class_id": 2,
+                "confidence": 0.994418,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 8369.211904,
+                    "center_y": 12462.442752,
+                    "height": 138.340352,
+                    "width": 123.496448
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/53/53_0.png",
+        "frame_id": 1772,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.998198,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 27197.136128,
+                    "center_y": 85.983232,
+                    "height": 87.952384,
+                    "width": 156.467712
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/53/53_9.png",
+        "frame_id": 1774,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.996016,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 27270.002176,
+                    "center_y": 4712.967168,
+                    "height": 157.159424,
+                    "width": 94.391808
+                }
+            },
+            {
+                "class_id": 2,
+                "confidence": 0.96171,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 0.860979,
+                    "center_y": 0.155774,
+                    "height": 0.273795,
+                    "width": 0.204717
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/53/53_1.png",
+        "frame_id": 1779,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.995453,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 27235.750144,
+                    "center_y": 542.994688,
+                    "height": 117.964288,
+                    "width": 124.482048
+                }
+            },
+            {
+                "class_id": 2,
+                "confidence": 0.983041,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 0.923504,
+                    "center_y": 0.334122,
+                    "height": 0.310678,
+                    "width": 0.156268
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/40/40_8.png",
+        "frame_id": 1822,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.997058,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 20638.667776,
+                    "center_y": 4216.587008,
+                    "height": 86.082048,
+                    "width": 159.71072
+                }
+            },
+            {
+                "class_id": 2,
+                "confidence": 0.980635,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 0.585695,
+                    "center_y": 0.285752,
+                    "height": 0.169859,
+                    "width": 0.324258
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/40/40_16.png",
+        "frame_id": 1833,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.998362,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 20621.843712,
+                    "center_y": 8373.829376,
+                    "height": 99.364864,
+                    "width": 149.859328
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/40/40_24.png",
+        "frame_id": 1840,
+        "objects": [
+            {
+                "class_id": 3,
+                "confidence": 0.992136,
+                "name": "Echinococcus_granulosus_egg",
+                "relative_coordinates": {
+                    "center_x": 20521.477632,
+                    "center_y": 12317.282304,
+                    "height": 118.84032,
+                    "width": 154.760704
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/40/40_11.png",
+        "frame_id": 1844,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.993571,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 20611.749376,
+                    "center_y": 5831.756032,
+                    "height": 112.876544,
+                    "width": 120.830464
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/9/9_22.png",
+        "frame_id": 1849,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.999352,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 4729.582592,
+                    "center_y": 11372.872448,
+                    "height": 122.732544,
+                    "width": 119.49056
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/9/9_13.png",
+        "frame_id": 1853,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.991066,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 4802.257152,
+                    "center_y": 6892.822016,
+                    "height": 78.913536,
+                    "width": 93.132288
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/9/9_1.png",
+        "frame_id": 1861,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.997889,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 4776.763392,
+                    "center_y": 556.195584,
+                    "height": 167.212544,
+                    "width": 111.17824
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/9/9_10.png",
+        "frame_id": 1862,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.99837,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 4722.92864,
+                    "center_y": 5332.385024,
+                    "height": 148.610048,
+                    "width": 88.550912
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/9/9_8.png",
+        "frame_id": 1863,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.999273,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 4795.190272,
+                    "center_y": 4135.365632,
+                    "height": 135.760896,
+                    "width": 111.52384
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/38/38_7.png",
+        "frame_id": 1899,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.998377,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 19553.82784,
+                    "center_y": 3796.299008,
+                    "height": 154.160128,
+                    "width": 99.146752
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/38/38_10.png",
+        "frame_id": 1903,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.992446,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 19668.883712,
+                    "center_y": 5289.4976,
+                    "height": 163.104256,
+                    "width": 97.330688
+                }
+            },
+            {
+                "class_id": 2,
+                "confidence": 0.88826,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 0.944972,
+                    "center_y": 0.175065,
+                    "height": 0.269094,
+                    "width": 0.118371
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/50/50_4.png",
+        "frame_id": 1929,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.995461,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 25622.169344,
+                    "center_y": 2077.447424,
+                    "height": 110.278144,
+                    "width": 90.67776
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/50/50_0.png",
+        "frame_id": 1936,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.995905,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 25767.870464,
+                    "center_y": 236.065024,
+                    "height": 81.57696,
+                    "width": 139.584
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/50/50_3.png",
+        "frame_id": 1966,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.998294,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 25724.350464,
+                    "center_y": 1672.549632,
+                    "height": 89.125376,
+                    "width": 145.754624
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/52/52_22.png",
+        "frame_id": 1972,
+        "objects": [
+            {
+                "class_id": 3,
+                "confidence": 0.99833,
+                "name": "Echinococcus_granulosus_egg",
+                "relative_coordinates": {
+                    "center_x": 26823.739904,
+                    "center_y": 11336.648704,
+                    "height": 130.942976,
+                    "width": 84.491264
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/52/52_9.png",
+        "frame_id": 1979,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.995797,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 26748.13184,
+                    "center_y": 4734.86336,
+                    "height": 98.830848,
+                    "width": 141.318656
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/49/49_0.png",
+        "frame_id": 2018,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.998813,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 25181.693696,
+                    "center_y": 41.371136,
+                    "height": 139.755008,
+                    "width": 116.33664
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/49/49_7.png",
+        "frame_id": 2022,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.99123,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 25115.983104,
+                    "center_y": 3670.885376,
+                    "height": 152.01536,
+                    "width": 89.72288
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/49/49_6.png",
+        "frame_id": 2029,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.996609,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 25211.597312,
+                    "center_y": 3292.638208,
+                    "height": 150.3488,
+                    "width": 97.23392
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/23/23_5.png",
+        "frame_id": 2051,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.997849,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 11821.792,
+                    "center_y": 2627.708672,
+                    "height": 101.305856,
+                    "width": 144.557568
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/23/23_10.png",
+        "frame_id": 2067,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.998637,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 11821.798656,
+                    "center_y": 5277.056768,
+                    "height": 87.547392,
+                    "width": 130.873344
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/23/23_28.png",
+        "frame_id": 2088,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.991441,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 11814.006528,
+                    "center_y": 14465.89184,
+                    "height": 116.624896,
+                    "width": 133.382656
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/2/2_12.png",
+        "frame_id": 2105,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.997635,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 1113.22752,
+                    "center_y": 6360.803328,
+                    "height": 139.664896,
+                    "width": 82.223104
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/2/2_21.png",
+        "frame_id": 2106,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.998871,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 1182.619136,
+                    "center_y": 10813.784832,
+                    "height": 90.926592,
+                    "width": 153.719808
+                }
+            },
+            {
+                "class_id": 2,
+                "confidence": 0.997879,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 1062.36288,
+                    "center_y": 10830.434816,
+                    "height": 160.80128,
+                    "width": 92.809728
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/2/2_21.png",
+        "frame_id": 2106,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.998871,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 1182.619136,
+                    "center_y": 10813.784832,
+                    "height": 90.926592,
+                    "width": 153.719808
+                }
+            },
+            {
+                "class_id": 2,
+                "confidence": 0.997879,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 1062.36288,
+                    "center_y": 10830.434816,
+                    "height": 160.80128,
+                    "width": 92.809728
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/2/2_15.png",
+        "frame_id": 2113,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.998561,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 1249.969408,
+                    "center_y": 7820.605184,
+                    "height": 98.917376,
+                    "width": 122.765824
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/2/2_19.png",
+        "frame_id": 2121,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.998418,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 1143.0848,
+                    "center_y": 9853.865984,
+                    "height": 123.33056,
+                    "width": 90.287616
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/2/2_17.png",
+        "frame_id": 2122,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.996851,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 1239.648,
+                    "center_y": 8829.708032,
+                    "height": 99.497984,
+                    "width": 141.310464
+                }
+            },
+            {
+                "class_id": 2,
+                "confidence": 0.333694,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 0.710714,
+                    "center_y": 0.014582,
+                    "height": 0.030802,
+                    "width": 0.151816
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/2/2_18.png",
+        "frame_id": 2125,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.997355,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 1250.29248,
+                    "center_y": 9303.184128,
+                    "height": 124.258816,
+                    "width": 114.87744
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/2/2_24.png",
+        "frame_id": 2127,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.996729,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 1200.854272,
+                    "center_y": 12517.18144,
+                    "height": 103.738368,
+                    "width": 143.676416
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/2/2_28.png",
+        "frame_id": 2129,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.999057,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 1195.221504,
+                    "center_y": 14363.993856,
+                    "height": 105.003008,
+                    "width": 151.600128
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/42/42_4.png",
+        "frame_id": 2134,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.997717,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 21706.726656,
+                    "center_y": 2220.956416,
+                    "height": 94.224384,
+                    "width": 153.347072
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/42/42_22.png",
+        "frame_id": 2136,
+        "objects": [
+            {
+                "class_id": 3,
+                "confidence": 0.994933,
+                "name": "Echinococcus_granulosus_egg",
+                "relative_coordinates": {
+                    "center_x": 21566.9952,
+                    "center_y": 11317.68192,
+                    "height": 89.42848,
+                    "width": 103.422976
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/42/42_10.png",
+        "frame_id": 2149,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.997742,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 21662.13376,
+                    "center_y": 5151.489792,
+                    "height": 131.983872,
+                    "width": 97.454592
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/42/42_8.png",
+        "frame_id": 2150,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.995837,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 21600.13312,
+                    "center_y": 4279.651072,
+                    "height": 129.736192,
+                    "width": 146.088448
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/42/42_17.png",
+        "frame_id": 2163,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.995887,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 21568.134656,
+                    "center_y": 8930.528768,
+                    "height": 117.981184,
+                    "width": 129.778176
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/6/6_12.png",
+        "frame_id": 2187,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.990811,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 3269.442304,
+                    "center_y": 6167.998464,
+                    "height": 97.980928,
+                    "width": 82.825216
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/6/6_21.png",
+        "frame_id": 2188,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.993955,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 3091.928832,
+                    "center_y": 10780.114432,
+                    "height": 111.200768,
+                    "width": 80.677376
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/6/6_25.png",
+        "frame_id": 2192,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.996377,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 3172.96384,
+                    "center_y": 12965.9264,
+                    "height": 152.38912,
+                    "width": 90.490368
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/6/6_20.png",
+        "frame_id": 2194,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.998857,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 3144.720384,
+                    "center_y": 10352.71552,
+                    "height": 138.822144,
+                    "width": 123.466752
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/6/6_26.png",
+        "frame_id": 2198,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.99385,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 3167.883776,
+                    "center_y": 13469.99808,
+                    "height": 116.842496,
+                    "width": 77.26592
+                }
+            },
+            {
+                "class_id": 2,
+                "confidence": 0.977145,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 0.204934,
+                    "center_y": 0.559187,
+                    "height": 0.282079,
+                    "width": 0.168169
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/6/6_28.png",
+        "frame_id": 2211,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.995759,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 3223.93856,
+                    "center_y": 14474.434304,
+                    "height": 171.892736,
+                    "width": 100.48
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/6/6_3.png",
+        "frame_id": 2212,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.994347,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 3176.71936,
+                    "center_y": 1713.892352,
+                    "height": 130.779648,
+                    "width": 148.58752
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/34/34_4.png",
+        "frame_id": 2216,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.997561,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 17538.61632,
+                    "center_y": 2238.002944,
+                    "height": 96.6144,
+                    "width": 135.653888
+                }
+            },
+            {
+                "class_id": 2,
+                "confidence": 0.981892,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 0.243233,
+                    "center_y": 0.905846,
+                    "height": 0.193021,
+                    "width": 0.273051
+                }
+            },
+            {
+                "class_id": 2,
+                "confidence": 0.443701,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 0.016005,
+                    "center_y": 0.932886,
+                    "height": 0.145808,
+                    "width": 0.03704
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/34/34_36.png",
+        "frame_id": 2217,
+        "objects": [
+            {
+                "class_id": 3,
+                "confidence": 0.991201,
+                "name": "Echinococcus_granulosus_egg",
+                "relative_coordinates": {
+                    "center_x": 17508.560128,
+                    "center_y": 18643.06432,
+                    "height": 111.497728,
+                    "width": 160.951296
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/34/34_22.png",
+        "frame_id": 2218,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.997839,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 17620.117248,
+                    "center_y": 11419.556096,
+                    "height": 97.006592,
+                    "width": 145.923072
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/34/34_9.png",
+        "frame_id": 2225,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.9909,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 17582.4896,
+                    "center_y": 4847.096832,
+                    "height": 66.832384,
+                    "width": 111.093248
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/34/34_14.png",
+        "frame_id": 2238,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.996885,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 17618.590208,
+                    "center_y": 7221.645568,
+                    "height": 126.24896,
+                    "width": 131.857408
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/26/26_9.png",
+        "frame_id": 2266,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.997591,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 13345.575936,
+                    "center_y": 4687.940352,
+                    "height": 146.556416,
+                    "width": 101.863936
+                }
+            },
+            {
+                "class_id": 2,
+                "confidence": 0.858625,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 0.378158,
+                    "center_y": 0.030078,
+                    "height": 0.063185,
+                    "width": 0.329627
+                }
+            },
+            {
+                "class_id": 2,
+                "confidence": 0.715693,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 0.06908,
+                    "center_y": 0.085175,
+                    "height": 0.153992,
+                    "width": 0.14406
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/26/26_23.png",
+        "frame_id": 2267,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.995071,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 13403.832064,
+                    "center_y": 11824.370688,
+                    "height": 131.979264,
+                    "width": 126.035456
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/26/26_7.png",
+        "frame_id": 2268,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.998048,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 13357.407744,
+                    "center_y": 3732.604416,
+                    "height": 150.673408,
+                    "width": 103.794688
+                }
+            },
+            {
+                "class_id": 2,
+                "confidence": 0.424523,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 0.870628,
+                    "center_y": 0.968063,
+                    "height": 0.061344,
+                    "width": 0.257254
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/26/26_1.png",
+        "frame_id": 2271,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.999026,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 13373.734144,
+                    "center_y": 580.087552,
+                    "height": 99.890688,
+                    "width": 142.465536
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/26/26_28.png",
+        "frame_id": 2293,
+        "objects": [
+            {
+                "class_id": 3,
+                "confidence": 0.993962,
+                "name": "Echinococcus_granulosus_egg",
+                "relative_coordinates": {
+                    "center_x": 13537.59104,
+                    "center_y": 14475.503872,
+                    "height": 85.3376,
+                    "width": 86.04672
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/26/26_3.png",
+        "frame_id": 2294,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.995363,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 13540.044288,
+                    "center_y": 1658.196992,
+                    "height": 93.807104,
+                    "width": 113.35168
+                }
+            },
+            {
+                "class_id": 2,
+                "confidence": 0.86903,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 0.039421,
+                    "center_y": 0.23337,
+                    "height": 0.204909,
+                    "width": 0.080444
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/26/26_11.png",
+        "frame_id": 2295,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.997714,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 13419.015424,
+                    "center_y": 5787.414272,
+                    "height": 99.137536,
+                    "width": 150.701056
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/56/56_10.png",
+        "frame_id": 2313,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.992271,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 28867.268096,
+                    "center_y": 5282.582016,
+                    "height": 95.407616,
+                    "width": 156.17536
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/56/56_26.png",
+        "frame_id": 2321,
+        "objects": [
+            {
+                "class_id": 3,
+                "confidence": 0.991171,
+                "name": "Echinococcus_granulosus_egg",
+                "relative_coordinates": {
+                    "center_x": 28872.256512,
+                    "center_y": 13348.08448,
+                    "height": 75.036672,
+                    "width": 96.263168
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/29/29_4.png",
+        "frame_id": 2339,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.993537,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 14922.157056,
+                    "center_y": 2274.042368,
+                    "height": 123.358208,
+                    "width": 124.175872
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/29/29_9.png",
+        "frame_id": 2348,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.998843,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 14938.131456,
+                    "center_y": 4778.041344,
+                    "height": 92.960768,
+                    "width": 134.358528
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/29/29_11.png",
+        "frame_id": 2377,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.994616,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 14923.627776,
+                    "center_y": 5796.923904,
+                    "height": 109.778432,
+                    "width": 129.27488
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/6/46/46_16.png",
+        "frame_id": 2448,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.996833,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 23626.94016,
+                    "center_y": 8291.97184,
+                    "height": 91.165184,
+                    "width": 160.059904
+                }
+            }
+        ]
+    }
+]

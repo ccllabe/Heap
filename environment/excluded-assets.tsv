@@ -1,0 +1,17 @@
+category	remote_path	size	reason
+excluded	/home/ACCOUNT/P082/webserver/Pre_train_data	8.5G	large model, generated data, test data, or potentially sensitive content
+excluded	/home/ACCOUNT/P082/computing_node/img_parasite_egg_detection/multi_fast_rcnn/checkpoints	2.1G	large model, generated data, test data, or potentially sensitive content
+excluded	/home/ACCOUNT/P082/computing_node/img_parasite_egg_detection/ssd_fordel/checkpoints	2.7G	large model, generated data, test data, or potentially sensitive content
+excluded	/home/ACCOUNT/P082/computing_node/img_parasite_egg_detection/u_net/checkpoints	1.8G	large model, generated data, test data, or potentially sensitive content
+excluded	/home/ACCOUNT/P082/webserver/imgformattest	1.1G	large model, generated data, test data, or potentially sensitive content
+excluded	/home/ACCOUNT/P082/webserver/demo_data	354M	large model, generated data, test data, or potentially sensitive content
+excluded	/home/ACCOUNT/P082/test	337M	large model, generated data, test data, or potentially sensitive content
+excluded	/home/ACCOUNT/project_template/ITM001	14G	large model, generated data, test data, or potentially sensitive content
+excluded	/home/ACCOUNT/project_template/Exam	264K	large model, generated data, test data, or potentially sensitive content
+excluded	/home/ACCOUNT/project_template/Exam copy	264K	large model, generated data, test data, or potentially sensitive content
+excluded	/home/ACCOUNT/project_template/classId	36K	large model, generated data, test data, or potentially sensitive content
+excluded	/home/ACCOUNT/project_template/gdal2tiles/14.jpg	288M	large model, generated data, test data, or potentially sensitive content
+excluded	/home/ACCOUNT/project_template/matches.jpg	152M	large model, generated data, test data, or potentially sensitive content
+excluded	/home/ACCOUNT/petang_20230110/GCA_000002825.2_NYU_TvagG3_2_protein.faa.tsv	2.4G	large model, generated data, test data, or potentially sensitive content
+excluded	/home/ACCOUNT/petang_20230110/output.htm	2.0G	large model, generated data, test data, or potentially sensitive content
+excluded	/home/ACCOUNT/gdal2tiles_test	18G	large model, generated data, test data, or potentially sensitive content

@@ -1,0 +1,9 @@
+# Preserve the migrated legacy files byte-for-byte, including Big5-era content.
+* -text
+
+# Treat documentation as UTF-8 text without automatic line-ending conversion.
+*.md -text
+*.txt -text
+*.tsv -text
+*.yml -text
+*.yaml -text

@@ -1,0 +1,20 @@
+<VirtualHost *:80>
+    ServerName p082.example.org
+    DocumentRoot /var/www/html
+
+    <Directory /var/www/html>
+        Options -Indexes +FollowSymLinks
+        AllowOverride None
+        Require all granted
+    </Directory>
+
+    # Account stores and secret/configuration files must never be downloaded.
+    <FilesMatch "(?i)^(log_in_info\.txt|teacher\.json|teacheraccount\.txt|\.env.*)$">
+        Require all denied
+    </FilesMatch>
+
+    # Add HTTPS and redirect this virtual host before Internet exposure.
+    ErrorLog ${APACHE_LOG_DIR}/p082-error.log
+    CustomLog ${APACHE_LOG_DIR}/p082-access.log combined
+</VirtualHost>
+

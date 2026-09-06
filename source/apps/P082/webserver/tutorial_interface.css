@@ -1,0 +1,59 @@
+/*tutorial css*/
+/*link to sub network title*/
+#home_title a:link {
+	font: normal 10px Verdana, Arial, sans-serif;
+	font-size:18px;
+	color: white;
+	text-decoration: none;
+}
+#home_title a:visited {
+	font: normal 10px Verdana, Arial, sans-serif;
+	font-size:18px;
+	color: white;
+	text-decoration: none;
+}
+#home_title a:hover {
+	font: normal 10px Verdana, Arial, sans-serif;
+	font-size:18px;
+	color: yellow;
+	text-decoration: underline;
+}
+.outline_a {
+  text-decoration:none;
+}
+
+.outline_a div {
+  width:180px;
+  height:40px;
+  background: #333f50;
+  border-radius:5px;
+  line-height:35px;
+  color:white;
+  text-align:left;
+  text-decoration:none;
+  padding-left: 10px;
+}
+.outline_a div:hover {
+	background:#bdd7ee;
+	color:black;
+	border: 3px solid #8497b0;
+	font-weight:700;
+}
+.tutorial_title {
+  position:relative;
+  top:10px;
+  left:10px;
+  width:180px;
+  height:40px;
+  background: #333f50;
+  border-radius:5px;
+  line-height:35px;
+  color:white;
+  text-align:left;
+  text-decoration:none;
+  padding-left: 10px;
+}
+.tutorial_desc {
+	font-size:18px;
+	font-weight:700;
+}

@@ -1,0 +1,232 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans);
+*,
+*:before,
+*:after {
+  box-sizing: border-box;
+}
+html,
+body {
+  height: 100%;
+  width: 100%;
+}
+body {
+  color: rgba(255, 255, 255, 0.65);
+  background:#202b33;
+  font-family: "Open Sans", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  /*padding: 10% 0 0 40%;*/
+}
+ul{
+	padding-inline-start: 0px;
+}
+
+#side-nav div {
+  text-decoration: none;
+  letter-spacing: 0.02em;
+}
+div:hover {
+  cursor: pointer;
+}
+#side-nav {
+  width: 216px;
+
+  box-shadow: 0 0 15px 5px rgba(0, 0, 0, 0.1);
+  /*transition: width 0.5s ease-out;
+  animation: animate-width 1.2s 1 ease-in-out;*/
+}
+#side-nav.width {
+  z-index:900; /*leaflet left 800 right 1000*/ 
+  width: 48px;
+}
+#side-nav.width ul li div span,
+#side-nav.width .profile {
+  display:none;
+}
+#side-nav.width ul .selected ul,
+#side-nav.width ul li ul {
+  position: absolute;
+  right: -8rem;
+  width: 8rem;
+  top: 0;
+  display: none;
+  left: auto;
+  animation: none;
+}
+#side-nav.width ul .selected:hover ul,
+#side-nav.width ul li:hover ul {
+  display: block;
+}
+
+
+#side-nav > ul > li{
+  z-index:900;
+  display: block;
+  min-height: 48px;
+  font-weight: bold;
+  font-size: 0.76em;
+  position: relative;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+}
+#side-nav-bottom {
+  width:inherit;
+  color: #fff;
+  position: absolute;
+  bottom: 0;
+  font-size: 1.8rem;
+  font-weight: bold;
+  border-top:1px solid rgba(255, 255, 255, 0.1);
+}
+#side-nav-bottom >div > span > a{
+  color:#fff;
+}
+#side-nav-bottom >div > span > a:hover{
+  color:#fff;/*239ae3*/
+}
+#side-nav > ul > li:hover,
+#side-nav > ul > li.selected {
+  background: rgba(0, 0, 0, 0.45);
+}
+#side-nav > ul > li:hover > div{
+  color: #fff;
+  transition: color 0.2s;
+}
+/*#side-nav > ul > li:hover ul {
+  display: block;
+}*/
+#side-nav > ul > li.selected ul {
+  display: block;
+  left: 0;
+  position: relative;
+  width: 100%;
+  top: 0;
+  overflow: hidden;
+  animation: animate-height 1.2s 1 ease-in-out;
+}
+#side-nav > ul > li .fas ,
+#side-nav > ul > li .fa  {
+  font-size: 1.8rem;
+  padding: 14px;
+}
+#side-nav > ul > li div{
+  height: inherit;
+  display: block;
+  text-decoration: none;
+}
+#side-nav > ul > li span {
+  position: absolute;
+  right: 0;
+  height: inherit;
+  padding: 17px 0 0 0;
+  left: 48px;
+  overflow: hidden;
+  opacity: 1;
+  transition: opacity 0.5s;
+}
+ul li ul {
+  position: absolute;
+  right: -8rem;
+  background: rgba(0, 0, 0, 0.35);
+  width: 8rem;
+  top: 0;
+  display: none;
+}
+ul li ul li {
+  display: inline;
+}
+ul li ul li div{
+  display: block;
+  padding: 1em 1.5rem;
+}
+ul li ul li div:hover {
+  color: #fff;
+  transition: color 0.2s;
+}
+#side-nav.width ul li ul li div{
+  padding: 1rem 0rem 1rem 1rem;
+}
+#logo {
+  height: 48px;
+  display: block;
+  width: 100%;
+  position: relative;
+}
+#logo:before {
+  background: linear-gradient(to right, #c1d4ec 0%, #fff 100%);
+  height: 2px;
+  display: block;
+  content: "";
+  width: 100%;
+  bottom: 0; 
+  position: absolute;
+}
+
+
+
+
+#logo .fas {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  margin: auto;
+  color: #fff;
+  font-size: 1.625em;
+  display: block;
+  width: 26px;
+  height: 26px;
+}
+.item-icon{
+  padding: 0 1rem;
+  font-size: 2rem;
+}
+.user-icon{
+  font-size:2.8rem;
+}
+#side-nav-toggle {
+  width: 48px;
+  height: 48px;
+  display: block;
+  padding: 16px;
+  color:rgba(255, 255, 255, 0.45);
+}
+#side-nav-toggle:hover .fas  {
+  color: #fff;
+}
+
+@keyframes animate-width {
+  0%,
+  40% {
+    width: 48px;
+  }
+  100% {
+    width: 216px;
+  }
+}
+@keyframes animate-height {
+  0%,
+  40% {
+    height: 0;
+  }
+  100% {
+    height: 100%;
+  }
+}
+
+.toast {
+  position: absolute;
+  bottom: 4.5rem;
+  left: 1.5rem;
+  z-index: 1100;
+}
+
+.toast-header {
+  background: #ffe082;
+  font-size: 1.5rem;
+}
+#myCanvas {
+  position:absolute;
+  top:0;
+  left:0;
+  z-index:750;
+}

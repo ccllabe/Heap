@@ -1,0 +1,7 @@
+Original Apache DocumentRoot: /var/www/html
+index.php -> source/webroot/index.php
+P082 symlink -> /home/ACCOUNT/P082/webserver, copied under source/apps/P082/webserver
+project_template symlink -> /home/ACCOUNT/project_template, copied under source/apps/project_template
+petang_20230110 symlink -> /home/ACCOUNT/petang_20230110, parser code copied under source/apps/petang_20230110
+Additional ML workers -> /home/ACCOUNT/P082/computing_node
+Apache configuration snapshot -> source/config/apache2

@@ -1,0 +1,51 @@
+/*home summary css*/
+/*link to sub network title*/
+#home_title a:link {
+	font: normal 10px Verdana, Arial, sans-serif;
+	font-size:18px;
+	color: white;
+	text-decoration: none;
+}
+#home_title a:visited {
+	font: normal 10px Verdana, Arial, sans-serif;
+	font-size:18px;
+	color: white;
+	text-decoration: none;
+}
+#home_title a:hover {
+	font: normal 10px Verdana, Arial, sans-serif;
+	font-size:18px;
+	color: yellow;
+	text-decoration: underline;
+}
+
+.home_summary_desc {
+	font-size:18px;
+	font-weight:700;
+}
+
+.table_desc {
+  margin-left:auto;
+  margin-right:auto;
+  text-align:center;
+  font-size:16px;
+	font-weight:700;
+}
+
+#tool_table {
+  border: 3px solid black;
+  border-collapse: collapse;
+  table-layout: fixed;
+}
+#tool_table td {
+  border: 3px solid black;
+}
+
+#source_table {
+  border: 3px solid black;
+  border-collapse: collapse;
+  table-layout: fixed;
+}
+#source_table td {
+  border: 3px solid black;
+}

@@ -1,0 +1,91 @@
+Captured: 2026-09-06 Asia/Taipei
+   Static hostname: ACCOUNT-System-Product-Name
+         Icon name: computer-desktop
+           Chassis: desktop
+        Machine ID: dcfbc78dbc784b058c16464cfc3a819a
+           Boot ID: 0d68f7c1a21d439ea2cbdde7687affab
+  Operating System: Ubuntu 20.04.1 LTS
+            Kernel: Linux 5.15.0-139-generic
+      Architecture: x86-64
+Linux ACCOUNT-System-Product-Name 5.15.0-139-generic #149~20.04.1-Ubuntu SMP Wed Apr 16 08:29:56 UTC 2025 x86_64 x86_64 x86_64 GNU/Linux
+Distributor ID:	Ubuntu
+Description:	Ubuntu 20.04.1 LTS
+Release:	20.04
+Codename:	focal
+
+Architecture:                         x86_64
+CPU op-mode(s):                       32-bit, 64-bit
+Byte Order:                           Little Endian
+Address sizes:                        39 bits physical, 48 bits virtual
+CPU(s):                               4
+On-line CPU(s) list:                  0-3
+Thread(s) per core:                   1
+Core(s) per socket:                   4
+Socket(s):                            1
+NUMA node(s):                         1
+Vendor ID:                            GenuineIntel
+CPU family:                           6
+Model:                                158
+Model name:                           Intel(R) Core(TM) i5-7600 CPU @ 3.50GHz
+Stepping:                             9
+CPU MHz:                              3500.000
+CPU max MHz:                          4100.0000
+CPU min MHz:                          800.0000
+BogoMIPS:                             6999.82
+Virtualization:                       VT-x
+L1d cache:                            128 KiB
+L1i cache:                            128 KiB
+L2 cache:                             1 MiB
+L3 cache:                             6 MiB
+NUMA node0 CPU(s):                    0-3
+Vulnerability Gather data sampling:   Mitigation; Microcode
+Vulnerability Itlb multihit:          KVM: Mitigation: VMX disabled
+Vulnerability L1tf:                   Mitigation; PTE Inversion; VMX conditional cache flushes, SMT disabled
+Vulnerability Mds:                    Mitigation; Clear CPU buffers; SMT disabled
+Vulnerability Meltdown:               Mitigation; PTI
+Vulnerability Mmio stale data:        Mitigation; Clear CPU buffers; SMT disabled
+Vulnerability Reg file data sampling: Not affected
+Vulnerability Retbleed:               Mitigation; IBRS
+Vulnerability Spec rstack overflow:   Not affected
+Vulnerability Spec store bypass:      Mitigation; Speculative Store Bypass disabled via prctl and seccomp
+Vulnerability Spectre v1:             Mitigation; usercopy/swapgs barriers and __user pointer sanitization
+Vulnerability Spectre v2:             Mitigation; IBRS; IBPB conditional; STIBP disabled; RSB filling; PBRSB-eIBRS Not affected; BHI Not affected
+Vulnerability Srbds:                  Mitigation; Microcode
+Vulnerability Tsx async abort:        Mitigation; TSX disabled
+Flags:                                fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ss ht tm pbe syscall nx pdpe1gb rdtscp lm constant_tsc art arch_perfmon pebs bts rep_good nopl xtopology nonstop_tsc cpuid aperfmperf pni pclmulqdq dtes64 monitor ds_cpl vmx smx est tm2 ssse3 sdbg fma cx16 xtpr pdcm pcid sse4_1 sse4_2 x2apic movbe popcnt tsc_deadline_timer aes xsave avx f16c rdrand lahf_lm abm 3dnowprefetch cpuid_fault invpcid_single pti ssbd ibrs ibpb stibp tpr_shadow vnmi flexpriority ept vpid ept_ad fsgsbase tsc_adjust bmi1 avx2 smep bmi2 erms invpcid mpx rdseed adx smap clflushopt intel_pt xsaveopt xsavec xgetbv1 xsaves dtherm ida arat pln pts hwp hwp_notify hwp_act_window hwp_epp md_clear flush_l1d arch_capabilities
+
+              total        used        free      shared  buff/cache   available
+Mem:           61Gi       604Mi        51Gi        20Mi       9.3Gi        60Gi
+Swap:         2.0Gi          0B       2.0Gi
+
+Filesystem     Type      Size  Used Avail Use% Mounted on
+udev           devtmpfs   31G     0   31G   0% /dev
+tmpfs          tmpfs     6.2G  1.9M  6.2G   1% /run
+/dev/sda2      ext4      916G   82G  788G  10% /
+tmpfs          tmpfs      31G     0   31G   0% /dev/shm
+tmpfs          tmpfs     5.0M  4.0K  5.0M   1% /run/lock
+tmpfs          tmpfs      31G     0   31G   0% /sys/fs/cgroup
+/dev/loop0     squashfs  128K  128K     0 100% /snap/bare/5
+/dev/loop1     squashfs   56M   56M     0 100% /snap/core18/2979
+/dev/loop2     squashfs   56M   56M     0 100% /snap/core18/2999
+/dev/loop3     squashfs   64M   64M     0 100% /snap/core20/2769
+/dev/loop11    squashfs  219M  219M     0 100% /snap/gnome-3-34-1804/93
+/dev/loop6     squashfs  219M  219M     0 100% /snap/gnome-3-34-1804/77
+/dev/loop8     squashfs  532M  532M     0 100% /snap/gnome-42-2204/247
+/dev/loop7     squashfs  350M  350M     0 100% /snap/gnome-3-38-2004/143
+/dev/loop12    squashfs   64M   64M     0 100% /snap/core20/2866
+/dev/loop10    squashfs   82M   82M     0 100% /snap/gtk-common-themes/1534
+/dev/loop5     squashfs  165M  165M     0 100% /snap/gnome-3-28-1804/161
+/dev/loop9     squashfs  532M  532M     0 100% /snap/gnome-42-2204/263
+/dev/loop13    squashfs   74M   74M     0 100% /snap/core22/2411
+/dev/loop16    squashfs   92M   92M     0 100% /snap/gtk-common-themes/1535
+/dev/loop17    squashfs  165M  165M     0 100% /snap/gnome-3-28-1804/198
+/dev/loop15    squashfs   13M   13M     0 100% /snap/snap-store/1113
+/dev/loop18    squashfs   13M   13M     0 100% /snap/snap-store/1216
+/dev/loop20    squashfs   51M   51M     0 100% /snap/snapd/27591
+/dev/loop19    squashfs  347M  347M     0 100% /snap/gnome-3-38-2004/119
+/dev/sda1      vfat      511M  6.1M  505M   2% /boot/efi
+tmpfs          tmpfs     6.2G   16K  6.2G   1% /run/user/125
+/dev/loop21    squashfs   51M   51M     0 100% /snap/snapd/27710
+/dev/loop14    squashfs   74M   74M     0 100% /snap/core22/2437
+tmpfs          tmpfs     6.2G  8.0K  6.2G   1% /run/user/1000

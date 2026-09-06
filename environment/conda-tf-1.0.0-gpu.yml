@@ -1,0 +1,47 @@
+name: null
+channels:
+  - defaults
+dependencies:
+  - _libgcc_mutex=0.1
+  - ca-certificates=2020.7.22
+  - certifi=2018.8.24
+  - libedit=3.1.20191231
+  - libffi=3.2.1
+  - libgcc-ng=9.1.0
+  - libstdcxx-ng=9.1.0
+  - ncurses=6.2
+  - openssl=1.0.2u
+  - pip=10.0.1
+  - python=3.5.6
+  - readline=7.0
+  - setuptools=40.2.0
+  - sqlite=3.33.0
+  - tk=8.6.10
+  - wheel=0.35.1
+  - xz=5.2.5
+  - zlib=1.2.11
+  - pip:
+    - cycler==0.10.0
+    - cython==0.29.21
+    - decorator==4.4.2
+    - h5py==2.10.0
+    - keras==2.2.2
+    - keras-applications==1.0.4
+    - keras-preprocessing==1.0.2
+    - kiwisolver==1.1.0
+    - matplotlib==3.0.3
+    - networkx==2.4
+    - numpy==1.14.5
+    - opencv-python==3.4.2.17
+    - pillow==5.2.0
+    - protobuf==3.13.0
+    - pyparsing==2.4.7
+    - python-dateutil==2.8.1
+    - pywavelets==1.1.1
+    - pyyaml==5.3.1
+    - scikit-image==0.13.0
+    - scikit-learn==0.19.0
+    - scipy==0.19.1
+    - six==1.15.0
+    - tensorflow-gpu==1.0.0
+prefix: /home/ACCOUNT/miniconda3/envs/tf-1.0.0-gpu

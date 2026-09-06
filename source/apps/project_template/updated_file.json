@@ -1,0 +1,2929 @@
+[
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/7/78/78_23.png",
+        "frame_id": 34,
+        "objects": [
+            {
+                "class_id": 3,
+                "confidence": 0.993667,
+                "name": "Echinococcus_granulosus_egg",
+                "relative_coordinates": {
+                    "center_x": 20021.134592,
+                    "center_y": 5934.68032,
+                    "height": 80.18816,
+                    "width": 71.903232
+                }
+            },
+            {
+                "class_id": 2,
+                "confidence": 0.724046,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 0.581171,
+                    "center_y": 0.315698,
+                    "height": 0.331555,
+                    "width": 0.577932
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/7/25/25_53.png",
+        "frame_id": 166,
+        "objects": [
+            {
+                "class_id": 3,
+                "confidence": 0.991623,
+                "name": "Echinococcus_granulosus_egg",
+                "relative_coordinates": {
+                    "center_x": 6477.906944,
+                    "center_y": 13595.355648,
+                    "height": 43.382528,
+                    "width": 51.116032
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/7/25/25_54.png",
+        "frame_id": 176,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.987737,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 6494.72768,
+                    "center_y": 13886.793216,
+                    "height": 78.19264,
+                    "width": 151.851008
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/7/25/25_13.png",
+        "frame_id": 190,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.984703,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 6599.22432,
+                    "center_y": 3474.644224,
+                    "height": 138.829568,
+                    "width": 92.493568
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/7/25/25_35.png",
+        "frame_id": 223,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.99687,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 6545.811456,
+                    "center_y": 9016.451584,
+                    "height": 106.515968,
+                    "width": 102.331648
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/7/25/25_42.png",
+        "frame_id": 236,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.991048,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 6522.697216,
+                    "center_y": 10832.198656,
+                    "height": 125.617408,
+                    "width": 100.204288
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/7/80/80_23.png",
+        "frame_id": 277,
+        "objects": [
+            {
+                "class_id": 3,
+                "confidence": 0.988469,
+                "name": "Echinococcus_granulosus_egg",
+                "relative_coordinates": {
+                    "center_x": 20645.643264,
+                    "center_y": 5979.829248,
+                    "height": 65.946112,
+                    "width": 81.97632
+                }
+            },
+            {
+                "class_id": 3,
+                "confidence": 0.424069,
+                "name": "Echinococcus_granulosus_egg",
+                "relative_coordinates": {
+                    "center_x": 0.789439,
+                    "center_y": 0.62852,
+                    "height": 0.250422,
+                    "width": 0.243939
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/7/66/66_10.png",
+        "frame_id": 370,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.986657,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 17008.788736,
+                    "center_y": 2705.305344,
+                    "height": 161.854464,
+                    "width": 87.269632
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/7/66/66_19.png",
+        "frame_id": 388,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.993858,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 17105.619968,
+                    "center_y": 5050.939648,
+                    "height": 142.74304,
+                    "width": 84.612352
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/7/98/98_14.png",
+        "frame_id": 463,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.984514,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 25144.039424,
+                    "center_y": 3755.474944,
+                    "height": 139.775744,
+                    "width": 82.449152
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/7/41/41_41.png",
+        "frame_id": 552,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.99314,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 10540.909312,
+                    "center_y": 10564.967168,
+                    "height": 125.365248,
+                    "width": 85.570816
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/7/96/96_31.png",
+        "frame_id": 622,
+        "objects": [
+            {
+                "class_id": 3,
+                "confidence": 0.990218,
+                "name": "Echinococcus_granulosus_egg",
+                "relative_coordinates": {
+                    "center_x": 24739.866368,
+                    "center_y": 8075.526656,
+                    "height": 51.441152,
+                    "width": 55.907328
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/7/96/96_35.png",
+        "frame_id": 628,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.980326,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 24657.78304,
+                    "center_y": 9142.67136,
+                    "height": 69.645824,
+                    "width": 142.136064
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/7/96/96_3.png",
+        "frame_id": 644,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.982597,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 24763.565056,
+                    "center_y": 816.35712,
+                    "height": 96.799232,
+                    "width": 123.345152
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/7/20/20_6.png",
+        "frame_id": 699,
+        "objects": [
+            {
+                "class_id": 0,
+                "confidence": 0.996199,
+                "name": "whipworm",
+                "relative_coordinates": {
+                    "center_x": 5183.18208,
+                    "center_y": 1649.153024,
+                    "height": 154.109952,
+                    "width": 125.788928
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/7/115/115_2.png",
+        "frame_id": 800,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.987552,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 29652.854528,
+                    "center_y": 554.95296,
+                    "height": 92.98688,
+                    "width": 85.610752
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/7/22/22_51.png",
+        "frame_id": 1072,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.990634,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 5834.40128,
+                    "center_y": 13114.861568,
+                    "height": 81.558528,
+                    "width": 110.09792
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/7/84/84_44.png",
+        "frame_id": 1207,
+        "objects": [
+            {
+                "class_id": 3,
+                "confidence": 0.998318,
+                "name": "Echinococcus_granulosus_egg",
+                "relative_coordinates": {
+                    "center_x": 21629.6768,
+                    "center_y": 11374.644992,
+                    "height": 64.4224,
+                    "width": 78.881024
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/7/7/7_45.png",
+        "frame_id": 1223,
+        "objects": [
+            {
+                "class_id": 3,
+                "confidence": 0.997123,
+                "name": "Echinococcus_granulosus_egg",
+                "relative_coordinates": {
+                    "center_x": 1909.497856,
+                    "center_y": 11539.873792,
+                    "height": 44.027136,
+                    "width": 64.28032
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/7/7/7_41.png",
+        "frame_id": 1281,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.984441,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 2027.0622720000001,
+                    "center_y": 10717.487616,
+                    "height": 73.303552,
+                    "width": 42.166784
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/7/31/31_73.png",
+        "frame_id": 1332,
+        "objects": [
+            {
+                "class_id": 3,
+                "confidence": 0.981053,
+                "name": "Echinococcus_granulosus_egg",
+                "relative_coordinates": {
+                    "center_x": 8129.85088,
+                    "center_y": 18821.874432,
+                    "height": 63.87456,
+                    "width": 113.421312
+                }
+            },
+            {
+                "class_id": 1,
+                "confidence": 0.551886,
+                "name": "toxocara_canis",
+                "relative_coordinates": {
+                    "center_x": 0.744599,
+                    "center_y": 0.526674,
+                    "height": 0.264651,
+                    "width": 0.409137
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/7/58/58_19.png",
+        "frame_id": 1441,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.985956,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 15031.734016,
+                    "center_y": 4948.90752,
+                    "height": 88.928512,
+                    "width": 134.744832
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/7/24/24_58.png",
+        "frame_id": 1525,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.992108,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 6228.676864,
+                    "center_y": 15060.402944,
+                    "height": 75.982848,
+                    "width": 146.605824
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/7/24/24_18.png",
+        "frame_id": 1528,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.980646,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 6183.816448,
+                    "center_y": 4828.049408,
+                    "height": 69.692672,
+                    "width": 78.891008
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/7/24/24_2.png",
+        "frame_id": 1529,
+        "objects": [
+            {
+                "class_id": 0,
+                "confidence": 0.993111,
+                "name": "whipworm",
+                "relative_coordinates": {
+                    "center_x": 6343.497984,
+                    "center_y": 617.277184,
+                    "height": 119.015936,
+                    "width": 103.405056
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/7/24/24_29.png",
+        "frame_id": 1539,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.987404,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 6172.563712,
+                    "center_y": 7482.073344,
+                    "height": 125.755904,
+                    "width": 57.580288
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/7/3/3_45.png",
+        "frame_id": 1547,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.996392,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 833.17376,
+                    "center_y": 11580.872448,
+                    "height": 125.941248,
+                    "width": 89.279744
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/7/3/3_3.png",
+        "frame_id": 1616,
+        "objects": [
+            {
+                "class_id": 1,
+                "confidence": 0.996356,
+                "name": "toxocara_canis",
+                "relative_coordinates": {
+                    "center_x": 956.35584,
+                    "center_y": 888.515328,
+                    "height": 181.610752,
+                    "width": 129.091328
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/7/14/14_57.png",
+        "frame_id": 1702,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.988119,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 3677.158144,
+                    "center_y": 14765.443072,
+                    "height": 112.226304,
+                    "width": 129.263872
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/7/14/14_38.png",
+        "frame_id": 1727,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.985623,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 3809.264128,
+                    "center_y": 9873.936128,
+                    "height": 158.909696,
+                    "width": 63.131136
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/7/14/14_31.png",
+        "frame_id": 1756,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.982858,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 3733.255936,
+                    "center_y": 8035.880704,
+                    "height": 139.1872,
+                    "width": 86.67776
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/7/12/12_21.png",
+        "frame_id": 1824,
+        "objects": [
+            {
+                "class_id": 3,
+                "confidence": 0.990952,
+                "name": "Echinococcus_granulosus_egg",
+                "relative_coordinates": {
+                    "center_x": 3215.657216,
+                    "center_y": 5579.455488,
+                    "height": 55.609856,
+                    "width": 53.326592
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/7/12/12_46.png",
+        "frame_id": 1838,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.987598,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 3279.669504,
+                    "center_y": 11819.64288,
+                    "height": 86.901248,
+                    "width": 86.368
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/7/12/12_42.png",
+        "frame_id": 1856,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.990306,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 3113.273856,
+                    "center_y": 10805.832704,
+                    "height": 113.008384,
+                    "width": 76.883712
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/7/79/79_19.png",
+        "frame_id": 1927,
+        "objects": [
+            {
+                "class_id": 3,
+                "confidence": 0.997313,
+                "name": "Echinococcus_granulosus_egg",
+                "relative_coordinates": {
+                    "center_x": 20272.448768,
+                    "center_y": 4930.914048,
+                    "height": 76.283392,
+                    "width": 67.233536
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/7/85/85_32.png",
+        "frame_id": 2207,
+        "objects": [
+            {
+                "class_id": 3,
+                "confidence": 0.985973,
+                "name": "Echinococcus_granulosus_egg",
+                "relative_coordinates": {
+                    "center_x": 21774.96832,
+                    "center_y": 8300.157184,
+                    "height": 70.74688,
+                    "width": 31.497472
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/7/85/85_39.png",
+        "frame_id": 2218,
+        "objects": [
+            {
+                "class_id": 3,
+                "confidence": 0.992149,
+                "name": "Echinococcus_granulosus_egg",
+                "relative_coordinates": {
+                    "center_x": 21800.8832,
+                    "center_y": 10207.436544,
+                    "height": 61.988608,
+                    "width": 80.978432
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/7/85/85_6.png",
+        "frame_id": 2238,
+        "objects": [
+            {
+                "class_id": 3,
+                "confidence": 0.984813,
+                "name": "Echinococcus_granulosus_egg",
+                "relative_coordinates": {
+                    "center_x": 21979.303168,
+                    "center_y": 1602.2144,
+                    "height": 26.707456,
+                    "width": 30.820352
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/7/85/85_20.png",
+        "frame_id": 2239,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.985584,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 21821.070848,
+                    "center_y": 5180.548352,
+                    "height": 121.163008,
+                    "width": 91.702016
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/7/100/100_8.png",
+        "frame_id": 2317,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.994067,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 25643.950592,
+                    "center_y": 2110.088192,
+                    "height": 104.15104,
+                    "width": 87.38048
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/7/48/48_72.png",
+        "frame_id": 2355,
+        "objects": [
+            {
+                "class_id": 3,
+                "confidence": 0.9987,
+                "name": "Echinococcus_granulosus_egg",
+                "relative_coordinates": {
+                    "center_x": 12380.535296,
+                    "center_y": 18496.210944,
+                    "height": 83.27424,
+                    "width": 71.539968
+                }
+            },
+            {
+                "class_id": 1,
+                "confidence": 0.27716,
+                "name": "toxocara_canis",
+                "relative_coordinates": {
+                    "center_x": 0.349705,
+                    "center_y": 0.261195,
+                    "height": 0.390723,
+                    "width": 0.335648
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/7/21/21_66.png",
+        "frame_id": 2468,
+        "objects": [
+            {
+                "class_id": 3,
+                "confidence": 0.993964,
+                "name": "Echinococcus_granulosus_egg",
+                "relative_coordinates": {
+                    "center_x": 5582.324224,
+                    "center_y": 16954.275072,
+                    "height": 52.016896,
+                    "width": 55.96416
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/7/76/76_23.png",
+        "frame_id": 2626,
+        "objects": [
+            {
+                "class_id": 3,
+                "confidence": 0.993833,
+                "name": "Echinococcus_granulosus_egg",
+                "relative_coordinates": {
+                    "center_x": 19619.949824,
+                    "center_y": 6055.086336,
+                    "height": 60.086784,
+                    "width": 87.756544
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/7/76/76_15.png",
+        "frame_id": 2645,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.991639,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 19651.711488,
+                    "center_y": 4008.57984,
+                    "height": 134.742016,
+                    "width": 92.923392
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/7/13/13_36.png",
+        "frame_id": 2686,
+        "objects": [
+            {
+                "class_id": 3,
+                "confidence": 0.992357,
+                "name": "Echinococcus_granulosus_egg",
+                "relative_coordinates": {
+                    "center_x": 3416.516352,
+                    "center_y": 9352.996352,
+                    "height": 38.1248,
+                    "width": 39.970304
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/7/1/1_39.png",
+        "frame_id": 2785,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.986597,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 354.852864,
+                    "center_y": 10041.71776,
+                    "height": 125.664256,
+                    "width": 94.63808
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/7/18/18_21.png",
+        "frame_id": 2877,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.990247,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 4831.22688,
+                    "center_y": 5546.29248,
+                    "height": 150.458624,
+                    "width": 70.601984
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/7/18/18_6.png",
+        "frame_id": 2886,
+        "objects": [
+            {
+                "class_id": 3,
+                "confidence": 0.994684,
+                "name": "Echinococcus_granulosus_egg",
+                "relative_coordinates": {
+                    "center_x": 4651.583744,
+                    "center_y": 1720.321024,
+                    "height": 61.615616,
+                    "width": 61.741568
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/7/18/18_44.png",
+        "frame_id": 2908,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.991387,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 4830.389504,
+                    "center_y": 11473.288704,
+                    "height": 98.407168,
+                    "width": 70.321664
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/7/18/18_11.png",
+        "frame_id": 2913,
+        "objects": [
+            {
+                "class_id": 3,
+                "confidence": 0.984469,
+                "name": "Echinococcus_granulosus_egg",
+                "relative_coordinates": {
+                    "center_x": 4846.368512,
+                    "center_y": 2966.381824,
+                    "height": 52.6464,
+                    "width": 36.724736
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/7/64/64_63.png",
+        "frame_id": 2943,
+        "objects": [
+            {
+                "class_id": 3,
+                "confidence": 0.984901,
+                "name": "Echinococcus_granulosus_egg",
+                "relative_coordinates": {
+                    "center_x": 16600.273664,
+                    "center_y": 16275.67872,
+                    "height": 75.195392,
+                    "width": 89.063936
+                }
+            },
+            {
+                "class_id": 1,
+                "confidence": 0.39654,
+                "name": "toxocara_canis",
+                "relative_coordinates": {
+                    "center_x": 0.835596,
+                    "center_y": 0.58184,
+                    "height": 0.309124,
+                    "width": 0.32006
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/7/64/64_29.png",
+        "frame_id": 2997,
+        "objects": [
+            {
+                "class_id": 3,
+                "confidence": 0.991469,
+                "name": "Echinococcus_granulosus_egg",
+                "relative_coordinates": {
+                    "center_x": 16415.125504,
+                    "center_y": 7614.72256,
+                    "height": 72.04736,
+                    "width": 64.456448
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/7/77/77_21.png",
+        "frame_id": 3039,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.991749,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 19880.860672,
+                    "center_y": 5460.209408,
+                    "height": 134.352896,
+                    "width": 88.735232
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/7/77/77_71.png",
+        "frame_id": 3045,
+        "objects": [
+            {
+                "class_id": 1,
+                "confidence": 0.994097,
+                "name": "toxocara_canis",
+                "relative_coordinates": {
+                    "center_x": 19929.777152,
+                    "center_y": 18345.444352,
+                    "height": 104.938752,
+                    "width": 89.164032
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/7/63/63_8.png",
+        "frame_id": 3127,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.984079,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 16200.526336,
+                    "center_y": 2250.36032,
+                    "height": 106.685184,
+                    "width": 96.044288
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/7/97/97_12.png",
+        "frame_id": 3196,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.987644,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 24903.795968,
+                    "center_y": 3190.870016,
+                    "height": 80.155136,
+                    "width": 142.724864
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/7/10/10_15.png",
+        "frame_id": 3455,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.989129,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 2622.635008,
+                    "center_y": 4055.48032,
+                    "height": 81.0624,
+                    "width": 109.586944
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/7/10/10_35.png",
+        "frame_id": 3463,
+        "objects": [
+            {
+                "class_id": 3,
+                "confidence": 0.999807,
+                "name": "Echinococcus_granulosus_egg",
+                "relative_coordinates": {
+                    "center_x": 2724.816384,
+                    "center_y": 9045.422848,
+                    "height": 73.522176,
+                    "width": 66.394112
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/7/10/10_16.png",
+        "frame_id": 3465,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.982306,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 2623.092736,
+                    "center_y": 4130.948864,
+                    "height": 67.506176,
+                    "width": 116.975872
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/7/68/68_69.png",
+        "frame_id": 3728,
+        "objects": [
+            {
+                "class_id": 3,
+                "confidence": 0.98199,
+                "name": "Echinococcus_granulosus_egg",
+                "relative_coordinates": {
+                    "center_x": 17551.107584,
+                    "center_y": 17785.112576,
+                    "height": 85.534464,
+                    "width": 99.549696
+                }
+            },
+            {
+                "class_id": 1,
+                "confidence": 0.948702,
+                "name": "toxocara_canis",
+                "relative_coordinates": {
+                    "center_x": 0.549605,
+                    "center_y": 0.477583,
+                    "height": 0.35577,
+                    "width": 0.439904
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/7/33/33_67.png",
+        "frame_id": 3823,
+        "objects": [
+            {
+                "class_id": 3,
+                "confidence": 0.996795,
+                "name": "Echinococcus_granulosus_egg",
+                "relative_coordinates": {
+                    "center_x": 8495.459072,
+                    "center_y": 17299.449088,
+                    "height": 56.052736,
+                    "width": 55.035392
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/7/33/33_9.png",
+        "frame_id": 3840,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.993496,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 8535.94624,
+                    "center_y": 2366.938368,
+                    "height": 120.100096,
+                    "width": 85.517568
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/7/71/71_19.png",
+        "frame_id": 3952,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.992259,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 18296.87424,
+                    "center_y": 4986.300416,
+                    "height": 88.973312,
+                    "width": 125.162496
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/7/5/5_71.png",
+        "frame_id": 4017,
+        "objects": [
+            {
+                "class_id": 3,
+                "confidence": 0.990588,
+                "name": "Echinococcus_granulosus_egg",
+                "relative_coordinates": {
+                    "center_x": 1406.19136,
+                    "center_y": 18306.016,
+                    "height": 49.369856,
+                    "width": 48.233728
+                }
+            },
+            {
+                "class_id": 1,
+                "confidence": 0.631242,
+                "name": "toxocara_canis",
+                "relative_coordinates": {
+                    "center_x": 0.492407,
+                    "center_y": 0.512837,
+                    "height": 0.211215,
+                    "width": 0.267969
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/7/0/0_13.png",
+        "frame_id": 4078,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.938319,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 0.187475,
+                    "center_y": 0.479815,
+                    "height": 0.355901,
+                    "width": 0.390515
+                }
+            },
+            {
+                "class_id": 2,
+                "confidence": 0.482276,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 0.176277,
+                    "center_y": 0.83667,
+                    "height": 0.367359,
+                    "width": 0.311114
+                }
+            },
+            {
+                "class_id": 0,
+                "confidence": 0.990599,
+                "name": "whipworm",
+                "relative_coordinates": {
+                    "center_x": 189.110784,
+                    "center_y": 3384.627712,
+                    "height": 102.445056,
+                    "width": 135.540736
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/7/0/0_14.png",
+        "frame_id": 4108,
+        "objects": [
+            {
+                "class_id": 3,
+                "confidence": 0.915233,
+                "name": "Echinococcus_granulosus_egg",
+                "relative_coordinates": {
+                    "center_x": 0.182044,
+                    "center_y": 0.088207,
+                    "height": 0.182999,
+                    "width": 0.300617
+                }
+            },
+            {
+                "class_id": 0,
+                "confidence": 0.995166,
+                "name": "whipworm",
+                "relative_coordinates": {
+                    "center_x": 131.452672,
+                    "center_y": 3771.359744,
+                    "height": 151.07712,
+                    "width": 95.20128
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/7/0/0_3.png",
+        "frame_id": 4127,
+        "objects": [
+            {
+                "class_id": 1,
+                "confidence": 0.985671,
+                "name": "toxocara_canis",
+                "relative_coordinates": {
+                    "center_x": 118.130432,
+                    "center_y": 955.019776,
+                    "height": 159.302912,
+                    "width": 162.12096
+                }
+            },
+            {
+                "class_id": 0,
+                "confidence": 0.671735,
+                "name": "whipworm",
+                "relative_coordinates": {
+                    "center_x": 0.437003,
+                    "center_y": 0.726364,
+                    "height": 0.547365,
+                    "width": 0.605054
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/7/110/110_3.png",
+        "frame_id": 4208,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.992637,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 28309.596928,
+                    "center_y": 968.635904,
+                    "height": 98.2656,
+                    "width": 108.314624
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/7/39/39_15.png",
+        "frame_id": 4265,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.991865,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 10076.237568,
+                    "center_y": 4036.710912,
+                    "height": 79.652096,
+                    "width": 145.003776
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/7/39/39_31.png",
+        "frame_id": 4267,
+        "objects": [
+            {
+                "class_id": 3,
+                "confidence": 0.993493,
+                "name": "Echinococcus_granulosus_egg",
+                "relative_coordinates": {
+                    "center_x": 10062.853888,
+                    "center_y": 8039.322368,
+                    "height": 47.421952,
+                    "width": 49.121792
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/7/69/69_45.png",
+        "frame_id": 4301,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.989266,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 17830.006528,
+                    "center_y": 11578.896128,
+                    "height": 80.227072,
+                    "width": 142.60096
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/7/69/69_19.png",
+        "frame_id": 4357,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.982863,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 17761.626112,
+                    "center_y": 5087.447808,
+                    "height": 64.756992,
+                    "width": 104.4224
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/7/69/69_2.png",
+        "frame_id": 4364,
+        "objects": [
+            {
+                "class_id": 3,
+                "confidence": 0.982272,
+                "name": "Echinococcus_granulosus_egg",
+                "relative_coordinates": {
+                    "center_x": 17883.210496,
+                    "center_y": 759.86688,
+                    "height": 16.3392,
+                    "width": 59.21408
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/7/69/69_24.png",
+        "frame_id": 4365,
+        "objects": [
+            {
+                "class_id": 3,
+                "confidence": 0.999083,
+                "name": "Echinococcus_granulosus_egg",
+                "relative_coordinates": {
+                    "center_x": 17722.194176,
+                    "center_y": 6230.070272,
+                    "height": 64.711424,
+                    "width": 68.30592
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/7/17/17_23.png",
+        "frame_id": 4570,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.980093,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 4439.9872,
+                    "center_y": 6062.728704,
+                    "height": 99.713792,
+                    "width": 138.86464
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/7/17/17_31.png",
+        "frame_id": 4591,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.993116,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 4414.475008,
+                    "center_y": 8097.91744,
+                    "height": 101.02016,
+                    "width": 119.776
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/7/59/59_52.png",
+        "frame_id": 4638,
+        "objects": [
+            {
+                "class_id": 3,
+                "confidence": 0.996765,
+                "name": "Echinococcus_granulosus_egg",
+                "relative_coordinates": {
+                    "center_x": 15328.221184,
+                    "center_y": 13374.914048,
+                    "height": 64.102144,
+                    "width": 64.584192
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/7/57/57_60.png",
+        "frame_id": 4707,
+        "objects": [
+            {
+                "class_id": 3,
+                "confidence": 0.994225,
+                "name": "Echinococcus_granulosus_egg",
+                "relative_coordinates": {
+                    "center_x": 14665.739264,
+                    "center_y": 15577.235968,
+                    "height": 74.909184,
+                    "width": 58.63424
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/7/57/57_5.png",
+        "frame_id": 4708,
+        "objects": [
+            {
+                "class_id": 3,
+                "confidence": 0.998019,
+                "name": "Echinococcus_granulosus_egg",
+                "relative_coordinates": {
+                    "center_x": 14607.339008,
+                    "center_y": 1488.518912,
+                    "height": 43.457536,
+                    "width": 30.417152
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/7/57/57_61.png",
+        "frame_id": 4720,
+        "objects": [
+            {
+                "class_id": 3,
+                "confidence": 0.868436,
+                "name": "Echinococcus_granulosus_egg",
+                "relative_coordinates": {
+                    "center_x": 0.316616,
+                    "center_y": 0.331871,
+                    "height": 0.431262,
+                    "width": 0.331482
+                }
+            },
+            {
+                "class_id": 3,
+                "confidence": 0.694174,
+                "name": "Echinococcus_granulosus_egg",
+                "relative_coordinates": {
+                    "center_x": 0.267405,
+                    "center_y": 0.077581,
+                    "height": 0.149353,
+                    "width": 0.238308
+                }
+            },
+            {
+                "class_id": 1,
+                "confidence": 0.98617,
+                "name": "toxocara_canis",
+                "relative_coordinates": {
+                    "center_x": 14674.758144,
+                    "center_y": 15702.630656,
+                    "height": 94.673408,
+                    "width": 90.639616
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/7/4/4_25.png",
+        "frame_id": 4829,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.986639,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 1199.946496,
+                    "center_y": 6576.85888,
+                    "height": 133.83296,
+                    "width": 82.977792
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/7/32/32_75.png",
+        "frame_id": 4865,
+        "objects": [
+            {
+                "class_id": 1,
+                "confidence": 0.98497,
+                "name": "toxocara_canis",
+                "relative_coordinates": {
+                    "center_x": 8252.582144,
+                    "center_y": 19366.553088,
+                    "height": 140.964352,
+                    "width": 116.36224
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/7/32/32_9.png",
+        "frame_id": 4893,
+        "objects": [
+            {
+                "class_id": 0,
+                "confidence": 0.997586,
+                "name": "whipworm",
+                "relative_coordinates": {
+                    "center_x": 8281.682944,
+                    "center_y": 2528.37504,
+                    "height": 60.446464,
+                    "width": 145.855488
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/7/32/32_47.png",
+        "frame_id": 4940,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.992767,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 8386.396928,
+                    "center_y": 12167.432704,
+                    "height": 92.44672,
+                    "width": 120.34048
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/7/75/75_10.png",
+        "frame_id": 5230,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.990494,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 19295.268096,
+                    "center_y": 2613.2864,
+                    "height": 105.546496,
+                    "width": 94.742784
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/7/75/75_25.png",
+        "frame_id": 5234,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.986581,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 19407.742976,
+                    "center_y": 6444.068864,
+                    "height": 89.405952,
+                    "width": 101.269248
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/7/45/45_74.png",
+        "frame_id": 5288,
+        "objects": [
+            {
+                "class_id": 1,
+                "confidence": 0.990125,
+                "name": "toxocara_canis",
+                "relative_coordinates": {
+                    "center_x": 11638.086656,
+                    "center_y": 19033.09312,
+                    "height": 85.119232,
+                    "width": 98.543616
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/7/19/19_52.png",
+        "frame_id": 5367,
+        "objects": [
+            {
+                "class_id": 3,
+                "confidence": 0.980216,
+                "name": "Echinococcus_granulosus_egg",
+                "relative_coordinates": {
+                    "center_x": 5101.676288,
+                    "center_y": 13458.501888,
+                    "height": 48.119296,
+                    "width": 37.136128
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/7/19/19_28.png",
+        "frame_id": 5422,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.986376,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 4997.179904,
+                    "center_y": 7196.568576,
+                    "height": 55.58912,
+                    "width": 92.379904
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/7/89/89_36.png",
+        "frame_id": 5440,
+        "objects": [
+            {
+                "class_id": 3,
+                "confidence": 0.985725,
+                "name": "Echinococcus_granulosus_egg",
+                "relative_coordinates": {
+                    "center_x": 22941.777408,
+                    "center_y": 9352.268544,
+                    "height": 49.533696,
+                    "width": 54.096384
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/7/36/36_57.png",
+        "frame_id": 5509,
+        "objects": [
+            {
+                "class_id": 3,
+                "confidence": 0.996194,
+                "name": "Echinococcus_granulosus_egg",
+                "relative_coordinates": {
+                    "center_x": 9347.5008,
+                    "center_y": 14718.622208,
+                    "height": 59.948032,
+                    "width": 55.471104
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/7/36/36_67.png",
+        "frame_id": 5524,
+        "objects": [
+            {
+                "class_id": 3,
+                "confidence": 0.99542,
+                "name": "Echinococcus_granulosus_egg",
+                "relative_coordinates": {
+                    "center_x": 9331.33952,
+                    "center_y": 17242.656,
+                    "height": 53.722624,
+                    "width": 62.257664
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/7/30/30_39.png",
+        "frame_id": 5620,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.990671,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 7814.086656,
+                    "center_y": 10197.84064,
+                    "height": 85.688576,
+                    "width": 98.162688
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/7/30/30_42.png",
+        "frame_id": 5663,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.995237,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 7822.73152,
+                    "center_y": 10886.705664,
+                    "height": 125.818368,
+                    "width": 113.946112
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/7/11/11_19.png",
+        "frame_id": 5734,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.985965,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 3026.223872,
+                    "center_y": 5026.42432,
+                    "height": 136.777728,
+                    "width": 95.886848
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/7/35/35_54.png",
+        "frame_id": 5765,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.981734,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 9180.276224,
+                    "center_y": 14012.465408,
+                    "height": 124.672512,
+                    "width": 77.536256
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/7/35/35_24.png",
+        "frame_id": 5823,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.982004,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 9116.605696,
+                    "center_y": 6347.105792,
+                    "height": 98.933504,
+                    "width": 86.955264
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/7/8/8_5.png",
+        "frame_id": 5842,
+        "objects": [
+            {
+                "class_id": 3,
+                "confidence": 0.985575,
+                "name": "Echinococcus_granulosus_egg",
+                "relative_coordinates": {
+                    "center_x": 2244.52992,
+                    "center_y": 1339.819264,
+                    "height": 83.281664,
+                    "width": 105.924096
+                }
+            },
+            {
+                "class_id": 2,
+                "confidence": 0.75569,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 0.47983,
+                    "center_y": 0.63551,
+                    "height": 0.557821,
+                    "width": 0.500497
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/7/8/8_4.png",
+        "frame_id": 5843,
+        "objects": [
+            {
+                "class_id": 1,
+                "confidence": 0.993788,
+                "name": "toxocara_canis",
+                "relative_coordinates": {
+                    "center_x": 2116.582144,
+                    "center_y": 1147.6096,
+                    "height": 195.625728,
+                    "width": 118.03264
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/7/37/37_54.png",
+        "frame_id": 5927,
+        "objects": [
+            {
+                "class_id": 3,
+                "confidence": 0.982482,
+                "name": "Echinococcus_granulosus_egg",
+                "relative_coordinates": {
+                    "center_x": 9643.256832,
+                    "center_y": 13986.381824,
+                    "height": 51.155456,
+                    "width": 56.06272
+                }
+            },
+            {
+                "class_id": 1,
+                "confidence": 0.563384,
+                "name": "toxocara_canis",
+                "relative_coordinates": {
+                    "center_x": 0.667494,
+                    "center_y": 0.634154,
+                    "height": 0.217163,
+                    "width": 0.25764
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/7/37/37_27.png",
+        "frame_id": 5973,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.989555,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 9512.77824,
+                    "center_y": 7047.837952,
+                    "height": 126.219776,
+                    "width": 76.455936
+                }
+            },
+            {
+                "class_id": 2,
+                "confidence": 0.938557,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 0.929758,
+                    "center_y": 0.269592,
+                    "height": 0.589711,
+                    "width": 0.150609
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/7/37/37_19.png",
+        "frame_id": 5977,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.992776,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 9629.279744,
+                    "center_y": 5037.937664,
+                    "height": 142.341632,
+                    "width": 87.64928
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/7/37/37_34.png",
+        "frame_id": 5982,
+        "objects": [
+            {
+                "class_id": 3,
+                "confidence": 0.990769,
+                "name": "Echinococcus_granulosus_egg",
+                "relative_coordinates": {
+                    "center_x": 9718.029056,
+                    "center_y": 8760.704512,
+                    "height": 58.018816,
+                    "width": 19.70816
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/7/91/91_16.png",
+        "frame_id": 6057,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.986747,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 23363.410432,
+                    "center_y": 4222.285312,
+                    "height": 77.968128,
+                    "width": 120.001792
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/7/15/15_32.png",
+        "frame_id": 6095,
+        "objects": [
+            {
+                "class_id": 3,
+                "confidence": 0.997806,
+                "name": "Echinococcus_granulosus_egg",
+                "relative_coordinates": {
+                    "center_x": 3989.107968,
+                    "center_y": 8220.321536,
+                    "height": 54.406656,
+                    "width": 66.335232
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/7/27/27_7.png",
+        "frame_id": 6191,
+        "objects": [
+            {
+                "class_id": 0,
+                "confidence": 0.996124,
+                "name": "whipworm",
+                "relative_coordinates": {
+                    "center_x": 6970.248448,
+                    "center_y": 1964.027392,
+                    "height": 148.474112,
+                    "width": 111.167232
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/7/27/27_66.png",
+        "frame_id": 6194,
+        "objects": [
+            {
+                "class_id": 3,
+                "confidence": 0.987364,
+                "name": "Echinococcus_granulosus_egg",
+                "relative_coordinates": {
+                    "center_x": 7012.397312,
+                    "center_y": 16924.831232,
+                    "height": 59.478784,
+                    "width": 78.091008
+                }
+            },
+            {
+                "class_id": 1,
+                "confidence": 0.329854,
+                "name": "toxocara_canis",
+                "relative_coordinates": {
+                    "center_x": 0.39361,
+                    "center_y": 0.117568,
+                    "height": 0.207817,
+                    "width": 0.286084
+                }
+            },
+            {
+                "class_id": 1,
+                "confidence": 0.364257,
+                "name": "toxocara_canis",
+                "relative_coordinates": {
+                    "center_x": 0.670345,
+                    "center_y": 0.719442,
+                    "height": 0.399442,
+                    "width": 0.430529
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/7/27/27_6.png",
+        "frame_id": 6207,
+        "objects": [
+            {
+                "class_id": 0,
+                "confidence": 0.995047,
+                "name": "whipworm",
+                "relative_coordinates": {
+                    "center_x": 6954.849792,
+                    "center_y": 1685.434368,
+                    "height": 117.18272,
+                    "width": 80.671232
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/7/27/27_26.png",
+        "frame_id": 6215,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.992413,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 7024.620032,
+                    "center_y": 6891.527936,
+                    "height": 40.523264,
+                    "width": 88.024064
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/7/27/27_27.png",
+        "frame_id": 6216,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.980519,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 7026.943232,
+                    "center_y": 6960.654592,
+                    "height": 94.5088,
+                    "width": 90.166016
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/7/74/74_27.png",
+        "frame_id": 6378,
+        "objects": [
+            {
+                "class_id": 3,
+                "confidence": 0.987949,
+                "name": "Echinococcus_granulosus_egg",
+                "relative_coordinates": {
+                    "center_x": 19041.172224,
+                    "center_y": 7105.514752,
+                    "height": 44.80512,
+                    "width": 42.68928
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/7/16/16_25.png",
+        "frame_id": 6449,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.986374,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 4161.540352,
+                    "center_y": 6623.006976,
+                    "height": 64.937728,
+                    "width": 97.325056
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/7/53/53_57.png",
+        "frame_id": 6481,
+        "objects": [
+            {
+                "class_id": 3,
+                "confidence": 0.9984,
+                "name": "Echinococcus_granulosus_egg",
+                "relative_coordinates": {
+                    "center_x": 13760.9856,
+                    "center_y": 14623.824128,
+                    "height": 58.126592,
+                    "width": 78.084096
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/7/67/67_7.png",
+        "frame_id": 6677,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.984706,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 17323.568384,
+                    "center_y": 1836.787712,
+                    "height": 83.33312,
+                    "width": 150.377216
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/7/70/70_17.png",
+        "frame_id": 6788,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.98419,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 17979.27552,
+                    "center_y": 4525.537792,
+                    "height": 72.696832,
+                    "width": 123.728896
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/7/70/70_34.png",
+        "frame_id": 6792,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.988112,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 18106.411008,
+                    "center_y": 8821.128192,
+                    "height": 76.349952,
+                    "width": 131.942656
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/7/9/9_41.png",
+        "frame_id": 6951,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.996098,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 2370.968064,
+                    "center_y": 10637.117184,
+                    "height": 123.60832,
+                    "width": 104.927744
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/7/88/88_4.png",
+        "frame_id": 7058,
+        "objects": [
+            {
+                "class_id": 3,
+                "confidence": 0.999748,
+                "name": "Echinococcus_granulosus_egg",
+                "relative_coordinates": {
+                    "center_x": 22643.030784,
+                    "center_y": 1212.509184,
+                    "height": 78.587136,
+                    "width": 74.575104
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/7/113/113_23.png",
+        "frame_id": 7243,
+        "objects": [
+            {
+                "class_id": 3,
+                "confidence": 0.996247,
+                "name": "Echinococcus_granulosus_egg",
+                "relative_coordinates": {
+                    "center_x": 28973.884416,
+                    "center_y": 6029.195776,
+                    "height": 75.510016,
+                    "width": 84.382976
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/7/50/50_32.png",
+        "frame_id": 7310,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.991839,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 13001.081088,
+                    "center_y": 8314.2848,
+                    "height": 86.41152,
+                    "width": 127.386112
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/7/83/83_27.png",
+        "frame_id": 7674,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.981349,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 21314.164224,
+                    "center_y": 7074.344192,
+                    "height": 78.223616,
+                    "width": 122.938112
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/7/87/87_11.png",
+        "frame_id": 7773,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.986933,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 22446.992128,
+                    "center_y": 2850.089216,
+                    "height": 69.985024,
+                    "width": 164.861952
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/7/49/49_60.png",
+        "frame_id": 7785,
+        "objects": [
+            {
+                "class_id": 3,
+                "confidence": 0.996123,
+                "name": "Echinococcus_granulosus_egg",
+                "relative_coordinates": {
+                    "center_x": 12735.357696,
+                    "center_y": 15542.504704,
+                    "height": 74.102528,
+                    "width": 76.476928
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/7/23/23_23.png",
+        "frame_id": 7891,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.989619,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 5986.38336,
+                    "center_y": 6057.531904,
+                    "height": 141.284352,
+                    "width": 79.19872
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/7/23/23_25.png",
+        "frame_id": 7907,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.982321,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 6127.437056,
+                    "center_y": 6620.86912,
+                    "height": 73.221376,
+                    "width": 34.628352
+                }
+            },
+            {
+                "class_id": 2,
+                "confidence": 0.731877,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 0.027628,
+                    "center_y": 0.224331,
+                    "height": 0.284465,
+                    "width": 0.056016
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/7/82/82_30.png",
+        "frame_id": 8087,
+        "objects": [
+            {
+                "class_id": 3,
+                "confidence": 0.996912,
+                "name": "Echinococcus_granulosus_egg",
+                "relative_coordinates": {
+                    "center_x": 21188.688384,
+                    "center_y": 7904.474368,
+                    "height": 55.366912,
+                    "width": 65.54624
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/7/62/62_75.png",
+        "frame_id": 8105,
+        "objects": [
+            {
+                "class_id": 3,
+                "confidence": 0.991693,
+                "name": "Echinococcus_granulosus_egg",
+                "relative_coordinates": {
+                    "center_x": 16017.456128,
+                    "center_y": 19312.146432,
+                    "height": 69.779456,
+                    "width": 88.288
+                }
+            },
+            {
+                "class_id": 1,
+                "confidence": 0.535477,
+                "name": "toxocara_canis",
+                "relative_coordinates": {
+                    "center_x": 0.555651,
+                    "center_y": 0.443697,
+                    "height": 0.278183,
+                    "width": 0.374729
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/7/2/2_36.png",
+        "frame_id": 8437,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.992424,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 708.792832,
+                    "center_y": 9334.370816,
+                    "height": 135.524608,
+                    "width": 95.044864
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/7/2/2_43.png",
+        "frame_id": 8441,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.981046,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 749.082624,
+                    "center_y": 11146.075136,
+                    "height": 86.642432,
+                    "width": 37.067776
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/7/2/2_23.png",
+        "frame_id": 8458,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.984058,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 733.378048,
+                    "center_y": 6098.658304,
+                    "height": 101.046784,
+                    "width": 67.436288
+                }
+            },
+            {
+                "class_id": 2,
+                "confidence": 0.305667,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 0.181576,
+                    "center_y": 0.964832,
+                    "height": 0.065927,
+                    "width": 0.393937
+                }
+            },
+            {
+                "class_id": 0,
+                "confidence": 0.308494,
+                "name": "whipworm",
+                "relative_coordinates": {
+                    "center_x": 0.208552,
+                    "center_y": 0.961821,
+                    "height": 0.080098,
+                    "width": 0.371029
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/7/2/2_31.png",
+        "frame_id": 8479,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.980353,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 636.524544,
+                    "center_y": 7991.442176,
+                    "height": 109.517312,
+                    "width": 87.475712
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/7/2/2_41.png",
+        "frame_id": 8490,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.985761,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 539.922688,
+                    "center_y": 10540.515328,
+                    "height": 87.793664,
+                    "width": 54.322176
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/7/2/2_33.png",
+        "frame_id": 8499,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.990377,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 673.744384,
+                    "center_y": 8633.309952,
+                    "height": 135.86688,
+                    "width": 82.244352
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/7/2/2_11.png",
+        "frame_id": 8502,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.983449,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 553.745408,
+                    "center_y": 2887.93984,
+                    "height": 152.45056,
+                    "width": 84.85376
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/7/114/114_1.png",
+        "frame_id": 8550,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.984324,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 29238.844928,
+                    "center_y": 469.08416,
+                    "height": 86.696192,
+                    "width": 105.489664
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/7/42/42_45.png",
+        "frame_id": 8594,
+        "objects": [
+            {
+                "class_id": 3,
+                "confidence": 0.997373,
+                "name": "Echinococcus_granulosus_egg",
+                "relative_coordinates": {
+                    "center_x": 10965.913344,
+                    "center_y": 11719.882752,
+                    "height": 56.693504,
+                    "width": 58.91968
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/7/42/42_36.png",
+        "frame_id": 8599,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.995872,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 10919.159808,
+                    "center_y": 9255.671808,
+                    "height": 70.534144,
+                    "width": 143.23968
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/7/42/42_37.png",
+        "frame_id": 8611,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.984096,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 10792.45824,
+                    "center_y": 9545.18784,
+                    "height": 141.287936,
+                    "width": 78.811904
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/7/6/6_35.png",
+        "frame_id": 8728,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.982125,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 1574.065408,
+                    "center_y": 9028.567552,
+                    "height": 139.456768,
+                    "width": 78.165248
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/7/6/6_18.png",
+        "frame_id": 8737,
+        "objects": [
+            {
+                "class_id": 0,
+                "confidence": 0.988555,
+                "name": "whipworm",
+                "relative_coordinates": {
+                    "center_x": 1738.439936,
+                    "center_y": 4802.954752,
+                    "height": 130.918144,
+                    "width": 90.321152
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/7/105/105_1.png",
+        "frame_id": 8793,
+        "objects": [
+            {
+                "class_id": 3,
+                "confidence": 0.989913,
+                "name": "Echinococcus_granulosus_egg",
+                "relative_coordinates": {
+                    "center_x": 26961.188864,
+                    "center_y": 284.913408,
+                    "height": 39.34208,
+                    "width": 49.79072
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/7/105/105_44.png",
+        "frame_id": 8821,
+        "objects": [
+            {
+                "class_id": 3,
+                "confidence": 0.992649,
+                "name": "Echinococcus_granulosus_egg",
+                "relative_coordinates": {
+                    "center_x": 27023.31136,
+                    "center_y": 11409.0176,
+                    "height": 99.454208,
+                    "width": 66.4448
+                }
+            },
+            {
+                "class_id": 1,
+                "confidence": 0.574422,
+                "name": "toxocara_canis",
+                "relative_coordinates": {
+                    "center_x": 0.550631,
+                    "center_y": 0.576147,
+                    "height": 0.407266,
+                    "width": 0.270276
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/7/34/34_4.png",
+        "frame_id": 8840,
+        "objects": [
+            {
+                "class_id": 0,
+                "confidence": 0.998276,
+                "name": "whipworm",
+                "relative_coordinates": {
+                    "center_x": 8747.915264,
+                    "center_y": 1237.0337279999999,
+                    "height": 83.35488,
+                    "width": 88.299264
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/7/26/26_5.png",
+        "frame_id": 9082,
+        "objects": [
+            {
+                "class_id": 0,
+                "confidence": 0.994022,
+                "name": "whipworm",
+                "relative_coordinates": {
+                    "center_x": 6768.194304,
+                    "center_y": 1515.600896,
+                    "height": 41.26464,
+                    "width": 103.803136
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/7/26/26_31.png",
+        "frame_id": 9127,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.9933,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 6741.2992,
+                    "center_y": 8005.152768,
+                    "height": 132.8256,
+                    "width": 82.100736
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/7/56/56_69.png",
+        "frame_id": 9155,
+        "objects": [
+            {
+                "class_id": 1,
+                "confidence": 0.992829,
+                "name": "toxocara_canis",
+                "relative_coordinates": {
+                    "center_x": 14369.419776,
+                    "center_y": 17834.129664,
+                    "height": 90.240768,
+                    "width": 77.971968
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/7/56/56_13.png",
+        "frame_id": 9181,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.982085,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 14499.254272,
+                    "center_y": 3553.167104,
+                    "height": 59.825664,
+                    "width": 88.675584
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/7/56/56_14.png",
+        "frame_id": 9211,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.98916,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 14498.777344,
+                    "center_y": 3618.471936,
+                    "height": 65.756672,
+                    "width": 94.191104
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/7/56/56_26.png",
+        "frame_id": 9212,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.987998,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 14404.416256,
+                    "center_y": 6777.513216,
+                    "height": 91.736064,
+                    "width": 137.218816
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/7/104/104_58.png",
+        "frame_id": 9382,
+        "objects": [
+            {
+                "class_id": 1,
+                "confidence": 0.988073,
+                "name": "toxocara_canis",
+                "relative_coordinates": {
+                    "center_x": 26744.374528,
+                    "center_y": 15046.050048,
+                    "height": 106.272768,
+                    "width": 120.45824
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/7/29/29_45.png",
+        "frame_id": 9404,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.986667,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 7482.729216,
+                    "center_y": 11670.739712,
+                    "height": 87.01696,
+                    "width": 117.284608
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/7/29/29_52.png",
+        "frame_id": 9417,
+        "objects": [
+            {
+                "class_id": 3,
+                "confidence": 0.319122,
+                "name": "Echinococcus_granulosus_egg",
+                "relative_coordinates": {
+                    "center_x": 0.932573,
+                    "center_y": 0.132621,
+                    "height": 0.278247,
+                    "width": 0.147368
+                }
+            },
+            {
+                "class_id": 2,
+                "confidence": 0.991978,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 7624.839168,
+                    "center_y": 13486.183424,
+                    "height": 95.152896,
+                    "width": 112.112128
+                }
+            },
+            {
+                "class_id": 1,
+                "confidence": 0.356127,
+                "name": "toxocara_canis",
+                "relative_coordinates": {
+                    "center_x": 0.923718,
+                    "center_y": 0.139679,
+                    "height": 0.276267,
+                    "width": 0.150857
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/7/29/29_20.png",
+        "frame_id": 9448,
+        "objects": [
+            {
+                "class_id": 3,
+                "confidence": 0.99954,
+                "name": "Echinococcus_granulosus_egg",
+                "relative_coordinates": {
+                    "center_x": 7454.702336,
+                    "center_y": 5308.694528,
+                    "height": 75.981568,
+                    "width": 60.549632
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/7/29/29_29.png",
+        "frame_id": 9477,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.981482,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 7625.95968,
+                    "center_y": 7466.900992,
+                    "height": 85.752832,
+                    "width": 105.47712
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/7/47/47_20.png",
+        "frame_id": 9529,
+        "objects": [
+            {
+                "class_id": 3,
+                "confidence": 0.995225,
+                "name": "Echinococcus_granulosus_egg",
+                "relative_coordinates": {
+                    "center_x": 12131.397632,
+                    "center_y": 5134.724352,
+                    "height": 30.233088,
+                    "width": 46.895872
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/7/46/46_21.png",
+        "frame_id": 9600,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.996453,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 11867.461888,
+                    "center_y": 5433.687808,
+                    "height": 76.876032,
+                    "width": 131.391232
+                }
+            }
+        ]
+    }
+]

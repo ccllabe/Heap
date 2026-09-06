@@ -1,0 +1,54 @@
+# Runtime credentials and account databases
+source/apps/P082/webserver/user/*
+!source/apps/P082/webserver/user/.gitkeep
+!source/apps/P082/webserver/user/*.example.*
+source/apps/project_template/login/teacher.json
+source/apps/project_template/login/teacheraccount.txt
+
+# User uploads, generated work queues, and result data
+source/apps/P082/webserver/lab_computing/
+source/apps/P082/webserver/img_view_cut_computing/
+source/apps/P082/webserver/lab_error/
+source/apps/P082/webserver/img_view_cut_error/
+source/apps/P082/webserver/donate_img_data/
+source/apps/P082/webserver/donate_mod_data/
+source/apps/P082/webserver/Pre_train_data/
+source/apps/P082/webserver/imgformattest/
+source/apps/P082/webserver/demo_data/
+source/apps/project_template/ITM001/
+source/apps/project_template/Exam/
+source/apps/project_template/Exam copy/
+source/apps/project_template/classId/
+
+# Model weights and large generated assets
+**/checkpoints/
+*.hdf5
+*.weights*
+*.ckpt*
+*.pb
+*.onnx
+*.npy
+*.npz
+*.zip
+*.7z
+
+# Local/runtime files
+.env
+.env.*
+!.env.example
+__pycache__/
+*.py[cod]
+*.so
+*.o
+*.a
+*.log
+*.pid
+*.swp
+*.tmp
+.DS_Store
+._*
+
+# Migration archives are retained outside the repository
+*.tar
+*.tar.gz
+

@@ -1,0 +1,1960 @@
+[
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/1610/7/25/25_22.png",
+        "frame_id": 12,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.851576,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 6600.403968,
+                    "center_y": 5642.151424,
+                    "height": 20.735744,
+                    "width": 45.245184
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/1610/7/25/25_37.png",
+        "frame_id": 17,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.992529,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 6427.240192,
+                    "center_y": 9607.18848,
+                    "height": 78.098688,
+                    "width": 49.087744
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/1610/7/25/25_21.png",
+        "frame_id": 29,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.994047,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 6633.444352,
+                    "center_y": 5527.806976,
+                    "height": 72.781568,
+                    "width": 44.529664
+                }
+            },
+            {
+                "class_id": 2,
+                "confidence": 0.957926,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 6599.902464,
+                    "center_y": 5605.213696,
+                    "height": 53.598464,
+                    "width": 55.872
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/1610/7/25/25_21.png",
+        "frame_id": 29,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.994047,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 6633.444352,
+                    "center_y": 5527.806976,
+                    "height": 72.781568,
+                    "width": 44.529664
+                }
+            },
+            {
+                "class_id": 2,
+                "confidence": 0.957926,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 6599.902464,
+                    "center_y": 5605.213696,
+                    "height": 53.598464,
+                    "width": 55.872
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/1610/7/25/25_41.png",
+        "frame_id": 50,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.992781,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 6538.349312,
+                    "center_y": 10585.316864,
+                    "height": 57.202176,
+                    "width": 60.182272
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/1610/7/41/41_15.png",
+        "frame_id": 167,
+        "objects": [
+            {
+                "class_id": 1,
+                "confidence": 0.890614,
+                "name": "toxocara_canis",
+                "relative_coordinates": {
+                    "center_x": 10641.425152,
+                    "center_y": 4075.970816,
+                    "height": 43.780352,
+                    "width": 102.432768
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/1610/7/41/41_29.png",
+        "frame_id": 192,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.995785,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 10622.511616,
+                    "center_y": 7482.298368,
+                    "height": 65.624576,
+                    "width": 69.468928
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/1610/7/22/22_37.png",
+        "frame_id": 273,
+        "objects": [
+            {
+                "class_id": 1,
+                "confidence": 0.880464,
+                "name": "toxocara_canis",
+                "relative_coordinates": {
+                    "center_x": 5772.136448,
+                    "center_y": 9662.455296,
+                    "height": 129.8176,
+                    "width": 182.414592
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/1610/7/22/22_12.png",
+        "frame_id": 283,
+        "objects": [
+            {
+                "class_id": 4,
+                "confidence": 0.987499,
+                "name": "Fasciola_hepatica_egg",
+                "relative_coordinates": {
+                    "center_x": 5825.660416,
+                    "center_y": 3217.748992,
+                    "height": 215.35744,
+                    "width": 119.46752
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/1610/7/22/22_20.png",
+        "frame_id": 294,
+        "objects": [
+            {
+                "class_id": 4,
+                "confidence": 0.487587,
+                "name": "Fasciola_hepatica_egg",
+                "relative_coordinates": {
+                    "center_x": 0.287368,
+                    "center_y": 0.272914,
+                    "height": 0.647454,
+                    "width": 0.569379
+                }
+            },
+            {
+                "class_id": 2,
+                "confidence": 0.972038,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 5679.25376,
+                    "center_y": 5329.582592,
+                    "height": 45.291776,
+                    "width": 78.984192
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/1610/7/7/7_32.png",
+        "frame_id": 334,
+        "objects": [
+            {
+                "class_id": 1,
+                "confidence": 0.958114,
+                "name": "toxocara_canis",
+                "relative_coordinates": {
+                    "center_x": 1899.433216,
+                    "center_y": 8331.348224,
+                    "height": 179.107328,
+                    "width": 162.765312
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/1610/7/7/7_33.png",
+        "frame_id": 379,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.994682,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 1922.433792,
+                    "center_y": 8537.540352,
+                    "height": 52.274432,
+                    "width": 74.018048
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/1610/7/31/31_24.png",
+        "frame_id": 440,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.99706,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 8080.621568,
+                    "center_y": 6252.385536,
+                    "height": 76.19584,
+                    "width": 55.390976
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/1610/7/58/58_22.png",
+        "frame_id": 460,
+        "objects": [
+            {
+                "class_id": 1,
+                "confidence": 0.874166,
+                "name": "toxocara_canis",
+                "relative_coordinates": {
+                    "center_x": 14912.160768,
+                    "center_y": 5823.656448,
+                    "height": 117.83936,
+                    "width": 142.076928
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/1610/7/24/24_18.png",
+        "frame_id": 566,
+        "objects": [
+            {
+                "class_id": 4,
+                "confidence": 0.939406,
+                "name": "Fasciola_hepatica_egg",
+                "relative_coordinates": {
+                    "center_x": 6353.707008,
+                    "center_y": 4809.107712,
+                    "height": 111.864064,
+                    "width": 99.762688
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/1610/7/14/14_32.png",
+        "frame_id": 654,
+        "objects": [
+            {
+                "class_id": 4,
+                "confidence": 0.959394,
+                "name": "Fasciola_hepatica_egg",
+                "relative_coordinates": {
+                    "center_x": 3777.993216,
+                    "center_y": 8251.319296,
+                    "height": 105.43616,
+                    "width": 134.69824
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/1610/7/14/14_38.png",
+        "frame_id": 658,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.996676,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 3689.162752,
+                    "center_y": 9849.7728,
+                    "height": 76.126976,
+                    "width": 49.528832
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/1610/7/14/14_15.png",
+        "frame_id": 679,
+        "objects": [
+            {
+                "class_id": 1,
+                "confidence": 0.898035,
+                "name": "toxocara_canis",
+                "relative_coordinates": {
+                    "center_x": 3819.9316479999998,
+                    "center_y": 4009.66528,
+                    "height": 140.930816,
+                    "width": 42.697216
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/1610/7/14/14_28.png",
+        "frame_id": 700,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.998093,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 3721.621248,
+                    "center_y": 7293.275648,
+                    "height": 66.08512,
+                    "width": 57.387776
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/1610/7/12/12_44.png",
+        "frame_id": 761,
+        "objects": [
+            {
+                "class_id": 1,
+                "confidence": 0.978118,
+                "name": "toxocara_canis",
+                "relative_coordinates": {
+                    "center_x": 3221.155584,
+                    "center_y": 11327.13856,
+                    "height": 140.941824,
+                    "width": 200.918016
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/1610/7/12/12_42.png",
+        "frame_id": 762,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.964282,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 3115.327488,
+                    "center_y": 10979.886336,
+                    "height": 56.852224,
+                    "width": 77.130752
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/1610/7/54/54_22.png",
+        "frame_id": 780,
+        "objects": [
+            {
+                "class_id": 0,
+                "confidence": 0.976596,
+                "name": "whipworm",
+                "relative_coordinates": {
+                    "center_x": 14006.85952,
+                    "center_y": 5838.8564480000005,
+                    "height": 73.77408,
+                    "width": 64.696832
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/1610/7/48/48_20.png",
+        "frame_id": 934,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.995757,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 12336.006144,
+                    "center_y": 5141.807616,
+                    "height": 45.35808,
+                    "width": 69.613312
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/1610/7/48/48_31.png",
+        "frame_id": 936,
+        "objects": [
+            {
+                "class_id": 1,
+                "confidence": 0.954951,
+                "name": "toxocara_canis",
+                "relative_coordinates": {
+                    "center_x": 12426.400256,
+                    "center_y": 8155.770624,
+                    "height": 68.686336,
+                    "width": 111.93984
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/1610/7/48/48_18.png",
+        "frame_id": 950,
+        "objects": [
+            {
+                "class_id": 1,
+                "confidence": 0.88482,
+                "name": "toxocara_canis",
+                "relative_coordinates": {
+                    "center_x": 12343.749888,
+                    "center_y": 4630.255872,
+                    "height": 45.247232,
+                    "width": 96.887808
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/1610/7/13/13_48.png",
+        "frame_id": 1031,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.860573,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 3565.29792,
+                    "center_y": 12490.513152,
+                    "height": 78.511104,
+                    "width": 36.54784
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/1610/7/13/13_35.png",
+        "frame_id": 1069,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.996053,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 3488.582656,
+                    "center_y": 8987.398144,
+                    "height": 55.347968,
+                    "width": 54.800384
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/1610/7/18/18_10.png",
+        "frame_id": 1185,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.910903,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 4719.305728,
+                    "center_y": 2730.983424,
+                    "height": 43.761152,
+                    "width": 87.300608
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/1610/7/10/10_23.png",
+        "frame_id": 1433,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.988652,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 2693.702912,
+                    "center_y": 5983.161344,
+                    "height": 60.465664,
+                    "width": 61.34784
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/1610/7/10/10_16.png",
+        "frame_id": 1455,
+        "objects": [
+            {
+                "class_id": 3,
+                "confidence": 0.916924,
+                "name": "Echinococcus_granulosus_egg",
+                "relative_coordinates": {
+                    "center_x": 2706.449152,
+                    "center_y": 4278.08896,
+                    "height": 54.041344,
+                    "width": 50.691328
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/1610/7/10/10_29.png",
+        "frame_id": 1472,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.962351,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 2608.786432,
+                    "center_y": 7516.224768,
+                    "height": 71.770368,
+                    "width": 46.436864
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/1610/7/33/33_37.png",
+        "frame_id": 1489,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.997241,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 8536.11136,
+                    "center_y": 9502.676736,
+                    "height": 56.352768,
+                    "width": 75.725824
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/1610/7/33/33_38.png",
+        "frame_id": 1490,
+        "objects": [
+            {
+                "class_id": 4,
+                "confidence": 0.96165,
+                "name": "Fasciola_hepatica_egg",
+                "relative_coordinates": {
+                    "center_x": 8594.569216,
+                    "center_y": 9949.985536,
+                    "height": 60.882944,
+                    "width": 201.743872
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/1610/7/33/33_14.png",
+        "frame_id": 1514,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.989133,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 8494.27584,
+                    "center_y": 3812.8588799999998,
+                    "height": 55.33952,
+                    "width": 54.06592
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/1610/7/39/39_45.png",
+        "frame_id": 1667,
+        "objects": [
+            {
+                "class_id": 4,
+                "confidence": 0.994657,
+                "name": "Fasciola_hepatica_egg",
+                "relative_coordinates": {
+                    "center_x": 10192.639232,
+                    "center_y": 11731.93344,
+                    "height": 90.236928,
+                    "width": 97.099264
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/1610/7/39/39_43.png",
+        "frame_id": 1675,
+        "objects": [
+            {
+                "class_id": 4,
+                "confidence": 0.991622,
+                "name": "Fasciola_hepatica_egg",
+                "relative_coordinates": {
+                    "center_x": 10122.415616,
+                    "center_y": 11095.531264,
+                    "height": 184.166144,
+                    "width": 217.243392
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/1610/7/39/39_13.png",
+        "frame_id": 1684,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.873522,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 10150.444032,
+                    "center_y": 3473.93536,
+                    "height": 66.975744,
+                    "width": 54.017792
+                }
+            },
+            {
+                "class_id": 6,
+                "confidence": 0.296483,
+                "name": "Diphyllobothrium_latum_egg",
+                "relative_coordinates": {
+                    "center_x": 0.650172,
+                    "center_y": 0.57006,
+                    "height": 0.261624,
+                    "width": 0.211007
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/1610/7/39/39_9.png",
+        "frame_id": 1688,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.980478,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 10107.796224,
+                    "center_y": 2539.687168,
+                    "height": 41.6256,
+                    "width": 78.355712
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/1610/7/39/39_20.png",
+        "frame_id": 1702,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.986501,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 10108.341504,
+                    "center_y": 5166.681856,
+                    "height": 61.74336,
+                    "width": 55.369728
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/1610/7/39/39_46.png",
+        "frame_id": 1705,
+        "objects": [
+            {
+                "class_id": 4,
+                "confidence": 0.961389,
+                "name": "Fasciola_hepatica_egg",
+                "relative_coordinates": {
+                    "center_x": 10186.725888,
+                    "center_y": 11857.880064,
+                    "height": 149.611264,
+                    "width": 112.922112
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/1610/7/39/39_41.png",
+        "frame_id": 1714,
+        "objects": [
+            {
+                "class_id": 4,
+                "confidence": 0.883606,
+                "name": "Fasciola_hepatica_egg",
+                "relative_coordinates": {
+                    "center_x": 10102.909952,
+                    "center_y": 10710.67648,
+                    "height": 71.51744,
+                    "width": 222.764288
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/1610/7/28/28_40.png",
+        "frame_id": 1774,
+        "objects": [
+            {
+                "class_id": 6,
+                "confidence": 0.949151,
+                "name": "Diphyllobothrium_latum_egg",
+                "relative_coordinates": {
+                    "center_x": 7356.630528,
+                    "center_y": 10465.362944,
+                    "height": 49.831168,
+                    "width": 77.862912
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/1610/7/28/28_16.png",
+        "frame_id": 1775,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.997079,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 7253.692928,
+                    "center_y": 4169.575424,
+                    "height": 81.550848,
+                    "width": 47.462656
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/1610/7/28/28_18.png",
+        "frame_id": 1782,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.987532,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 7280.349952,
+                    "center_y": 4840.6604800000005,
+                    "height": 48.279296,
+                    "width": 54.676736
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/1610/7/28/28_47.png",
+        "frame_id": 1791,
+        "objects": [
+            {
+                "class_id": 4,
+                "confidence": 0.916078,
+                "name": "Fasciola_hepatica_egg",
+                "relative_coordinates": {
+                    "center_x": 7302.447872,
+                    "center_y": 12195.674624,
+                    "height": 203.36128,
+                    "width": 244.041984
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/1610/7/17/17_50.png",
+        "frame_id": 1823,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.874341,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 4379.848192,
+                    "center_y": 12878.2464,
+                    "height": 48.648448,
+                    "width": 54.674176
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/1610/7/17/17_20.png",
+        "frame_id": 1830,
+        "objects": [
+            {
+                "class_id": 7,
+                "confidence": 0.950601,
+                "name": "Pinworm_egg",
+                "relative_coordinates": {
+                    "center_x": 4591.726592,
+                    "center_y": 5236.775936,
+                    "height": 55.070208,
+                    "width": 31.657216
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/1610/7/4/4_27.png",
+        "frame_id": 2028,
+        "objects": [
+            {
+                "class_id": 3,
+                "confidence": 0.862755,
+                "name": "Echinococcus_granulosus_egg",
+                "relative_coordinates": {
+                    "center_x": 1042.362368,
+                    "center_y": 6971.830784,
+                    "height": 72.193024,
+                    "width": 35.81184
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/1610/7/32/32_37.png",
+        "frame_id": 2065,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.993603,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 8311.30368,
+                    "center_y": 9643.495936,
+                    "height": 48.1344,
+                    "width": 87.471104
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/1610/7/32/32_25.png",
+        "frame_id": 2084,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.938191,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 8263.66848,
+                    "center_y": 6514.669568,
+                    "height": 66.56384,
+                    "width": 64.749056
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/1610/7/32/32_17.png",
+        "frame_id": 2097,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.998371,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 8258.554624,
+                    "center_y": 4553.700864,
+                    "height": 70.172928,
+                    "width": 64.892928
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/1610/7/44/44_51.png",
+        "frame_id": 2125,
+        "objects": [
+            {
+                "class_id": 4,
+                "confidence": 0.926992,
+                "name": "Fasciola_hepatica_egg",
+                "relative_coordinates": {
+                    "center_x": 11326.31296,
+                    "center_y": 13079.781632,
+                    "height": 47.075584,
+                    "width": 142.743808
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/1610/7/44/44_50.png",
+        "frame_id": 2143,
+        "objects": [
+            {
+                "class_id": 4,
+                "confidence": 0.999491,
+                "name": "Fasciola_hepatica_egg",
+                "relative_coordinates": {
+                    "center_x": 11330.623488,
+                    "center_y": 12970.915328,
+                    "height": 177.532416,
+                    "width": 150.081024
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/1610/7/44/44_46.png",
+        "frame_id": 2153,
+        "objects": [
+            {
+                "class_id": 4,
+                "confidence": 0.999612,
+                "name": "Fasciola_hepatica_egg",
+                "relative_coordinates": {
+                    "center_x": 11456.519168,
+                    "center_y": 11885.501696,
+                    "height": 198.677248,
+                    "width": 132.069888
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/1610/7/43/43_54.png",
+        "frame_id": 2185,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.926612,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 11057.1456,
+                    "center_y": 13859.594496,
+                    "height": 62.41024,
+                    "width": 52.790016
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/1610/7/43/43_50.png",
+        "frame_id": 2207,
+        "objects": [
+            {
+                "class_id": 4,
+                "confidence": 0.940843,
+                "name": "Fasciola_hepatica_egg",
+                "relative_coordinates": {
+                    "center_x": 11198.532096,
+                    "center_y": 12947.351552,
+                    "height": 200.51584,
+                    "width": 129.868288
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/1610/7/43/43_35.png",
+        "frame_id": 2221,
+        "objects": [
+            {
+                "class_id": 4,
+                "confidence": 0.292728,
+                "name": "Fasciola_hepatica_egg",
+                "relative_coordinates": {
+                    "center_x": 0.672292,
+                    "center_y": 0.579528,
+                    "height": 0.842438,
+                    "width": 0.628065
+                }
+            },
+            {
+                "class_id": 1,
+                "confidence": 0.899401,
+                "name": "toxocara_canis",
+                "relative_coordinates": {
+                    "center_x": 11182.39744,
+                    "center_y": 9149.241856,
+                    "height": 132.625408,
+                    "width": 210.693888
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/1610/7/45/45_36.png",
+        "frame_id": 2248,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.99694,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 11678.708224,
+                    "center_y": 9324.29312,
+                    "height": 58.027776,
+                    "width": 72.48896
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/1610/7/45/45_46.png",
+        "frame_id": 2281,
+        "objects": [
+            {
+                "class_id": 4,
+                "confidence": 0.998648,
+                "name": "Fasciola_hepatica_egg",
+                "relative_coordinates": {
+                    "center_x": 11605.498112,
+                    "center_y": 11888.525056,
+                    "height": 187.371008,
+                    "width": 192.631808
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/1610/7/19/19_40.png",
+        "frame_id": 2350,
+        "objects": [
+            {
+                "class_id": 4,
+                "confidence": 0.30187,
+                "name": "Fasciola_hepatica_egg",
+                "relative_coordinates": {
+                    "center_x": 0.871269,
+                    "center_y": 0.631879,
+                    "height": 0.916879,
+                    "width": 0.260261
+                }
+            },
+            {
+                "class_id": 1,
+                "confidence": 0.91984,
+                "name": "toxocara_canis",
+                "relative_coordinates": {
+                    "center_x": 5087.781632,
+                    "center_y": 10404.739584,
+                    "height": 185.165056,
+                    "width": 66.82624
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/1610/7/19/19_16.png",
+        "frame_id": 2351,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.968483,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 4895.528192,
+                    "center_y": 4336.550144,
+                    "height": 30.952704,
+                    "width": 51.157504
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/1610/7/19/19_17.png",
+        "frame_id": 2353,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.964557,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 4894.721024,
+                    "center_y": 4372.776704,
+                    "height": 41.474304,
+                    "width": 48.704256
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/1610/7/19/19_28.png",
+        "frame_id": 2364,
+        "objects": [
+            {
+                "class_id": 4,
+                "confidence": 0.934803,
+                "name": "Fasciola_hepatica_egg",
+                "relative_coordinates": {
+                    "center_x": 5090.085376,
+                    "center_y": 7301.196288,
+                    "height": 257.864192,
+                    "width": 59.583744
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/1610/7/36/36_4.png",
+        "frame_id": 2374,
+        "objects": [
+            {
+                "class_id": 1,
+                "confidence": 0.99797,
+                "name": "toxocara_canis",
+                "relative_coordinates": {
+                    "center_x": 9274.787072,
+                    "center_y": 1219.168512,
+                    "height": 116.350976,
+                    "width": 127.661824
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/1610/7/36/36_12.png",
+        "frame_id": 2395,
+        "objects": [
+            {
+                "class_id": 1,
+                "confidence": 0.903913,
+                "name": "toxocara_canis",
+                "relative_coordinates": {
+                    "center_x": 9432.725248,
+                    "center_y": 3120.308224,
+                    "height": 95.398144,
+                    "width": 85.588736
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/1610/7/30/30_36.png",
+        "frame_id": 2440,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.995303,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 7848.022272,
+                    "center_y": 9438.83776,
+                    "height": 63.126528,
+                    "width": 51.289344
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/1610/7/30/30_40.png",
+        "frame_id": 2478,
+        "objects": [
+            {
+                "class_id": 4,
+                "confidence": 0.861308,
+                "name": "Fasciola_hepatica_egg",
+                "relative_coordinates": {
+                    "center_x": 7723.362048,
+                    "center_y": 10441.178112,
+                    "height": 121.863168,
+                    "width": 89.325056
+                }
+            },
+            {
+                "class_id": 1,
+                "confidence": 0.643257,
+                "name": "toxocara_canis",
+                "relative_coordinates": {
+                    "center_x": 0.173255,
+                    "center_y": 0.780602,
+                    "height": 0.408413,
+                    "width": 0.330889
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/1610/7/11/11_36.png",
+        "frame_id": 2504,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.990013,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 2859.945984,
+                    "center_y": 9398.4256,
+                    "height": 62.005248,
+                    "width": 63.500544
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/1610/7/35/35_53.png",
+        "frame_id": 2562,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.978933,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 9197.55392,
+                    "center_y": 13621.369856,
+                    "height": 66.70592,
+                    "width": 39.835648
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/1610/7/35/35_27.png",
+        "frame_id": 2604,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.976915,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 9137.051648,
+                    "center_y": 7030.93248,
+                    "height": 58.140672,
+                    "width": 56.960768
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/1610/7/35/35_29.png",
+        "frame_id": 2624,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.882771,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 9142.412032,
+                    "center_y": 7537.540864,
+                    "height": 43.630336,
+                    "width": 68.2112
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/1610/7/37/37_6.png",
+        "frame_id": 2725,
+        "objects": [
+            {
+                "class_id": 4,
+                "confidence": 0.960895,
+                "name": "Fasciola_hepatica_egg",
+                "relative_coordinates": {
+                    "center_x": 9595.247104,
+                    "center_y": 1627.200512,
+                    "height": 172.454144,
+                    "width": 364.543232
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/1610/7/37/37_30.png",
+        "frame_id": 2740,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.9871,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 9524.923392,
+                    "center_y": 7878.842624,
+                    "height": 72.917248,
+                    "width": 58.305024
+                }
+            },
+            {
+                "class_id": 2,
+                "confidence": 0.836938,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 0.082533,
+                    "center_y": 0.372776,
+                    "height": 0.275248,
+                    "width": 0.16821
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/1610/7/37/37_28.png",
+        "frame_id": 2748,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.978862,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 9700.4928,
+                    "center_y": 7352.566528,
+                    "height": 49.709824,
+                    "width": 52.346624
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/1610/7/37/37_29.png",
+        "frame_id": 2752,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.997571,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 9691.991808,
+                    "center_y": 7479.654144,
+                    "height": 72.207616,
+                    "width": 45.275392
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/1610/7/27/27_45.png",
+        "frame_id": 2819,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.946263,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 7140.551936,
+                    "center_y": 11602.310912,
+                    "height": 60.406272,
+                    "width": 55.698944
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/1610/7/27/27_48.png",
+        "frame_id": 2823,
+        "objects": [
+            {
+                "class_id": 4,
+                "confidence": 0.954688,
+                "name": "Fasciola_hepatica_egg",
+                "relative_coordinates": {
+                    "center_x": 7035.646976,
+                    "center_y": 12349.512448,
+                    "height": 88.803584,
+                    "width": 270.12608
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/1610/7/27/27_52.png",
+        "frame_id": 2831,
+        "objects": [
+            {
+                "class_id": 4,
+                "confidence": 0.990269,
+                "name": "Fasciola_hepatica_egg",
+                "relative_coordinates": {
+                    "center_x": 7100.59776,
+                    "center_y": 13469.283584,
+                    "height": 198.821632,
+                    "width": 134.533888
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/1610/7/27/27_25.png",
+        "frame_id": 2852,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.980475,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 7140.31744,
+                    "center_y": 6449.546496,
+                    "height": 46.499584,
+                    "width": 51.545344
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/1610/7/16/16_42.png",
+        "frame_id": 2938,
+        "objects": [
+            {
+                "class_id": 6,
+                "confidence": 0.910093,
+                "name": "Diphyllobothrium_latum_egg",
+                "relative_coordinates": {
+                    "center_x": 4319.692288,
+                    "center_y": 10852.045312,
+                    "height": 61.274112,
+                    "width": 64.408576
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/1610/7/40/40_45.png",
+        "frame_id": 3075,
+        "objects": [
+            {
+                "class_id": 4,
+                "confidence": 0.995391,
+                "name": "Fasciola_hepatica_egg",
+                "relative_coordinates": {
+                    "center_x": 10304.924416,
+                    "center_y": 11732.530944,
+                    "height": 84.298752,
+                    "width": 140.291584
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/1610/7/40/40_9.png",
+        "frame_id": 3096,
+        "objects": [
+            {
+                "class_id": 0,
+                "confidence": 0.967526,
+                "name": "whipworm",
+                "relative_coordinates": {
+                    "center_x": 10461.96608,
+                    "center_y": 2395.211008,
+                    "height": 97.765632,
+                    "width": 70.46656
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/1610/7/40/40_50.png",
+        "frame_id": 3103,
+        "objects": [
+            {
+                "class_id": 1,
+                "confidence": 0.981827,
+                "name": "toxocara_canis",
+                "relative_coordinates": {
+                    "center_x": 10304.773632,
+                    "center_y": 12895.305472,
+                    "height": 190.146304,
+                    "width": 137.92128
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/1610/7/40/40_46.png",
+        "frame_id": 3113,
+        "objects": [
+            {
+                "class_id": 4,
+                "confidence": 0.993989,
+                "name": "Fasciola_hepatica_egg",
+                "relative_coordinates": {
+                    "center_x": 10322.92224,
+                    "center_y": 11864.720896,
+                    "height": 175.96672,
+                    "width": 185.942528
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/1610/7/40/40_41.png",
+        "frame_id": 3122,
+        "objects": [
+            {
+                "class_id": 4,
+                "confidence": 0.976265,
+                "name": "Fasciola_hepatica_egg",
+                "relative_coordinates": {
+                    "center_x": 10373.087232,
+                    "center_y": 10713.849856,
+                    "height": 78.71616,
+                    "width": 271.248896
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/1610/7/9/9_43.png",
+        "frame_id": 3147,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.944107,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 2485.147904,
+                    "center_y": 11221.947392,
+                    "height": 76.615424,
+                    "width": 49.394176
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/1610/7/9/9_40.png",
+        "frame_id": 3182,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.900701,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 2506.440704,
+                    "center_y": 10432.589568,
+                    "height": 73.199104,
+                    "width": 56.118528
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/1610/7/52/52_18.png",
+        "frame_id": 3446,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.99436,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 13531.797248,
+                    "center_y": 4789.88416,
+                    "height": 77.408512,
+                    "width": 56.679168
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/1610/7/49/49_53.png",
+        "frame_id": 3458,
+        "objects": [
+            {
+                "class_id": 4,
+                "confidence": 0.997586,
+                "name": "Fasciola_hepatica_egg",
+                "relative_coordinates": {
+                    "center_x": 12668.567296,
+                    "center_y": 13780.589312,
+                    "height": 85.409536,
+                    "width": 152.948736
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/1610/7/49/49_54.png",
+        "frame_id": 3465,
+        "objects": [
+            {
+                "class_id": 4,
+                "confidence": 0.99714,
+                "name": "Fasciola_hepatica_egg",
+                "relative_coordinates": {
+                    "center_x": 12679.717376,
+                    "center_y": 13937.869056,
+                    "height": 218.028032,
+                    "width": 184.364032
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/1610/7/23/23_12.png",
+        "frame_id": 3547,
+        "objects": [
+            {
+                "class_id": 4,
+                "confidence": 0.989226,
+                "name": "Fasciola_hepatica_egg",
+                "relative_coordinates": {
+                    "center_x": 5979.8845440000005,
+                    "center_y": 3236.226816,
+                    "height": 193.4272,
+                    "width": 212.849152
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/1610/7/42/42_7.png",
+        "frame_id": 3738,
+        "objects": [
+            {
+                "class_id": 1,
+                "confidence": 0.880079,
+                "name": "toxocara_canis",
+                "relative_coordinates": {
+                    "center_x": 10797.40032,
+                    "center_y": 1981.613312,
+                    "height": 136.239872,
+                    "width": 100.654592
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/1610/7/42/42_15.png",
+        "frame_id": 3751,
+        "objects": [
+            {
+                "class_id": 1,
+                "confidence": 0.991132,
+                "name": "toxocara_canis",
+                "relative_coordinates": {
+                    "center_x": 10895.759872,
+                    "center_y": 3986.6920959999998,
+                    "height": 169.535232,
+                    "width": 172.197632
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/1610/7/6/6_37.png",
+        "frame_id": 3793,
+        "objects": [
+            {
+                "class_id": 4,
+                "confidence": 0.985499,
+                "name": "Fasciola_hepatica_egg",
+                "relative_coordinates": {
+                    "center_x": 1758.823424,
+                    "center_y": 9634.179584,
+                    "height": 156.472064,
+                    "width": 70.95936
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/1610/7/6/6_29.png",
+        "frame_id": 3840,
+        "objects": [
+            {
+                "class_id": 3,
+                "confidence": 0.903789,
+                "name": "Echinococcus_granulosus_egg",
+                "relative_coordinates": {
+                    "center_x": 1605.002496,
+                    "center_y": 7550.378496,
+                    "height": 42.098688,
+                    "width": 80.459264
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/1610/7/34/34_32.png",
+        "frame_id": 3854,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.909561,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 8889.679104,
+                    "center_y": 8271.368448,
+                    "height": 53.516544,
+                    "width": 71.966464
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/1610/7/34/34_37.png",
+        "frame_id": 3857,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.862785,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 8784.971776,
+                    "center_y": 9654.036224,
+                    "height": 48.98944,
+                    "width": 77.00224
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/1610/7/34/34_44.png",
+        "frame_id": 3897,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.910774,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 8938.485504,
+                    "center_y": 11424.504064,
+                    "height": 56.937472,
+                    "width": 43.495168
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/1610/7/26/26_39.png",
+        "frame_id": 3991,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.933464,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 6674.9573120000005,
+                    "center_y": 10216.359936,
+                    "height": 47.79648,
+                    "width": 36.280064
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/1610/7/26/26_20.png",
+        "frame_id": 4006,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.997307,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 6822.345216,
+                    "center_y": 5163.95008,
+                    "height": 48.781824,
+                    "width": 77.964032
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/1610/7/26/26_58.png",
+        "frame_id": 4019,
+        "objects": [
+            {
+                "class_id": 1,
+                "confidence": 0.918516,
+                "name": "toxocara_canis",
+                "relative_coordinates": {
+                    "center_x": 6815.468288,
+                    "center_y": 14887.09504,
+                    "height": 70.90432,
+                    "width": 208.938496
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/1610/7/26/26_47.png",
+        "frame_id": 4031,
+        "objects": [
+            {
+                "class_id": 1,
+                "confidence": 0.949325,
+                "name": "toxocara_canis",
+                "relative_coordinates": {
+                    "center_x": 6825.889024,
+                    "center_y": 12179.346432,
+                    "height": 203.98976,
+                    "width": 180.872704
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/1610/7/29/29_48.png",
+        "frame_id": 4103,
+        "objects": [
+            {
+                "class_id": 1,
+                "confidence": 0.997437,
+                "name": "toxocara_canis",
+                "relative_coordinates": {
+                    "center_x": 7486.675712,
+                    "center_y": 12483.458048,
+                    "height": 106.253056,
+                    "width": 138.728448
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/1610/7/29/29_21.png",
+        "frame_id": 4125,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.997122,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 7619.234048,
+                    "center_y": 5396.410112,
+                    "height": 42.742272,
+                    "width": 76.442112
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/1610/7/29/29_41.png",
+        "frame_id": 4146,
+        "objects": [
+            {
+                "class_id": 4,
+                "confidence": 0.955393,
+                "name": "Fasciola_hepatica_egg",
+                "relative_coordinates": {
+                    "center_x": 7548.09984,
+                    "center_y": 10591.769856,
+                    "height": 196.748032,
+                    "width": 311.917056
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/1610/7/29/29_47.png",
+        "frame_id": 4159,
+        "objects": [
+            {
+                "class_id": 1,
+                "confidence": 0.991977,
+                "name": "toxocara_canis",
+                "relative_coordinates": {
+                    "center_x": 7484.531968,
+                    "center_y": 12196.447488,
+                    "height": 164.619264,
+                    "width": 133.969408
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/1610/7/29/29_29.png",
+        "frame_id": 4160,
+        "objects": [
+            {
+                "class_id": 2,
+                "confidence": 0.915832,
+                "name": "clonorchis sinensis",
+                "relative_coordinates": {
+                    "center_x": 7530.935296,
+                    "center_y": 7661.003264,
+                    "height": 36.86016,
+                    "width": 54.508544
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/1610/7/47/47_20.png",
+        "frame_id": 4198,
+        "objects": [
+            {
+                "class_id": 1,
+                "confidence": 0.968979,
+                "name": "toxocara_canis",
+                "relative_coordinates": {
+                    "center_x": 12092.127232,
+                    "center_y": 5317.928192,
+                    "height": 106.789632,
+                    "width": 139.550976
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/1610/7/47/47_17.png",
+        "frame_id": 4209,
+        "objects": [
+            {
+                "class_id": 4,
+                "confidence": 0.987588,
+                "name": "Fasciola_hepatica_egg",
+                "relative_coordinates": {
+                    "center_x": 12244.912896,
+                    "center_y": 4477.21856,
+                    "height": 255.095808,
+                    "width": 85.189888
+                }
+            }
+        ]
+    },
+    {
+        "filename": "/home/ml/yolov4/darknet-master/data/1610/7/46/46_36.png",
+        "frame_id": 4232,
+        "objects": [
+            {
+                "class_id": 1,
+                "confidence": 0.964129,
+                "name": "toxocara_canis",
+                "relative_coordinates": {
+                    "center_x": 11976.190976,
+                    "center_y": 9279.299584,
+                    "height": 137.494272,
+                    "width": 138.631936
+                }
+            }
+        ]
+    }
+]

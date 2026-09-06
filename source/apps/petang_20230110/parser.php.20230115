@@ -1,0 +1,72 @@
+<?php
+$dbList = array();
+$dbList[] = "ProSiteProfiles";
+$dbList[] = "ProSitePattern";
+$dbList[] = "MobiDBLite";
+$dbList[] = "CDD";
+$dbList[] = "Gene3D";
+$dbList[] = "G3DSA";
+$dbList[] = "Pfam";
+$dbList[] = "PANTHER";
+$dbList[] = "SUPERFAMILY";
+$dbList[] = "Coils";
+$dbList[] = "SMART";
+$dbList[] = "TIGRFAM";
+$dbList[] = "PIRSF";
+$dbList[] = "PRINTS";
+$dbList[] = "GO";
+$dbList[] = "Reactome";
+$dbList[] = "MetaCyc";
+   
+
+
+$dbLabelList = array();
+$f= fopen("./test.1000.tsv", 'r');
+while(!feof($f)){
+   $line = trim(fgets($f));
+   $tmp=$tmp2=$tmp3='';
+   if($line=='') continue;
+   
+   foreach($dbList as $eachDb){
+      $line = preg_replace("/$eachDb/","\t\t$eachDb", $line);
+   }//end foreach
+   
+   $a = explode("\t\t", $line);
+   #print_R($a);
+   
+   
+   $entryList1 = array();
+   $entryList2 = array();
+   $tmp3 = explode("\t",$a[0]);
+   $entryList2["ID"]=array_shift($tmp3);
+   $entryList2["token"]=array_shift($tmp3);
+   $entryList2["length"]=implode("\t",$tmp3);
+   for($i=1; $i<count($a);$i++){
+      $tmp = preg_split("/[\s:]/", trim($a[$i]));
+      $dbLabel = array_shift($tmp);
+      #echo $dbLabel."\n";
+      #print_r($tmp);
+      
+      #$tmp2 = str_replace($dbLabel, "", trim($a[$i]));
+      $tmp2 = str_replace(":", "", trim($a[$i]));
+      $tmp2 = str_replace(":", "", $tmp2);
+      $tmp2 = str_replace("|", "", $tmp2);
+      $entryList1[$dbLabel][] = trim($tmp2);
+   }//end for
+   #echo "=================\n";
+   foreach($entryList1 as $dbLabel => $entryList){
+      $entryList = array_unique($entryList);
+      $entryList2[$dbLabel] = implode(";", $entryList);
+      $dbLabelList[$dbLabel] = $dbLabel;
+   }//end foreach
+   
+   #print_R($entryList2);
+   #exit;
+   #echo "\n========================\n";
+   #$c++; if($c>=10) exit;
+}//end while
+
+print_R($dbLabelList);
+   
+fclose($f);
+?>

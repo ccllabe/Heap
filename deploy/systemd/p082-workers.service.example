@@ -1,0 +1,21 @@
+[Unit]
+Description=P082 image-processing workers
+After=network.target apache2.service
+
+[Service]
+Type=simple
+User=p082-worker
+Group=p082
+WorkingDirectory=/home/ACCOUNT/P082
+ExecStart=/home/ACCOUNT/P082/run_cron.sh
+Restart=on-failure
+RestartSec=10
+NoNewPrivileges=true
+PrivateTmp=true
+ProtectSystem=strict
+ProtectHome=read-only
+ReadWritePaths=/home/ACCOUNT/P082/webserver/user /home/ACCOUNT/P082/webserver/lab_computing /home/ACCOUNT/P082/webserver/img_view_cut_computing /home/ACCOUNT/P082/webserver/lab_error /home/ACCOUNT/P082/webserver/img_view_cut_error
+
+[Install]
+WantedBy=multi-user.target
+

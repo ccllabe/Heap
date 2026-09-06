@@ -1,0 +1,110 @@
+Server version: Apache/2.4.41 (Ubuntu)
+Server built:   2025-04-02T18:34:29
+Server version: Apache/2.4.41 (Ubuntu)
+Server built:   2025-04-02T18:34:29
+Server's Module Magic Number: 20120211:88
+Server loaded:  APR 1.6.5, APR-UTIL 1.6.1
+Compiled using: APR 1.6.5, APR-UTIL 1.6.1
+Architecture:   64-bit
+Server MPM:     prefork
+  threaded:     no
+    forked:     yes (variable process count)
+Server compiled with....
+ -D APR_HAS_SENDFILE
+ -D APR_HAS_MMAP
+ -D APR_HAVE_IPV6 (IPv4-mapped addresses enabled)
+ -D APR_USE_SYSVSEM_SERIALIZE
+ -D APR_USE_PTHREAD_SERIALIZE
+ -D SINGLE_LISTEN_UNSERIALIZED_ACCEPT
+ -D APR_HAS_OTHER_CHILD
+ -D AP_HAVE_RELIABLE_PIPED_LOGS
+ -D DYNAMIC_MODULE_LIMIT=256
+ -D HTTPD_ROOT="/etc/apache2"
+ -D SUEXEC_BIN="/usr/lib/apache2/suexec"
+ -D DEFAULT_PIDLOG="/var/run/apache2.pid"
+ -D DEFAULT_SCOREBOARD="logs/apache_runtime_status"
+ -D DEFAULT_ERRORLOG="logs/error_log"
+ -D AP_TYPES_CONFIG_FILE="mime.types"
+ -D SERVER_CONFIG_FILE="apache2.conf"
+
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+Loaded Modules:
+ core_module (static)
+ so_module (static)
+ watchdog_module (static)
+ http_module (static)
+ log_config_module (static)
+ logio_module (static)
+ version_module (static)
+ unixd_module (static)
+ access_compat_module (shared)
+ alias_module (shared)
+ auth_basic_module (shared)
+ authn_core_module (shared)
+ authn_file_module (shared)
+ authz_core_module (shared)
+ authz_host_module (shared)
+ authz_user_module (shared)
+ autoindex_module (shared)
+ deflate_module (shared)
+ dir_module (shared)
+ env_module (shared)
+ filter_module (shared)
+ mime_module (shared)
+ mpm_prefork_module (shared)
+ negotiation_module (shared)
+ php7_module (shared)
+ reqtimeout_module (shared)
+ security2_module (shared)
+ setenvif_module (shared)
+ status_module (shared)
+ unique_id_module (shared)
+
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+VirtualHost configuration:
+*:80                   127.0.1.1 (/etc/apache2/sites-enabled/000-default.conf:1)
+ServerRoot: "/etc/apache2"
+Main DocumentRoot: "/var/www/html"
+Main ErrorLog: "/var/log/apache2/error.log"
+Mutex watchdog-callback: using_defaults
+Mutex default: dir="/var/run/apache2/" mechanism=default 
+Mutex mpm-accept: using_defaults
+PidFile: "/var/run/apache2/apache2.pid"
+Define: DUMP_VHOSTS
+Define: DUMP_RUN_CFG
+Define: MODSEC_2.5
+Define: MODSEC_2.9
+User: name="ACCOUNT" id=1000
+Group: name="ACCOUNT" id=1000
+
+● apache2.service - The Apache HTTP Server
+     Loaded: loaded (/lib/systemd/system/apache2.service; enabled; vendor preset: enabled)
+     Active: active (running) since Mon 2026-08-10 11:39:59 CST; 3 weeks 5 days ago
+       Docs: https://httpd.apache.org/docs/2.4/
+    Process: 179628 ExecReload=/usr/sbin/apachectl graceful (code=exited, status=0/SUCCESS)
+   Main PID: 950 (apache2)
+      Tasks: 11 (limit: 75752)
+     Memory: 188.1M
+     CGroup: /system.slice/apache2.service
+             ├─   950 /usr/sbin/apache2 -k start
+             ├─179652 /usr/sbin/apache2 -k start
+             ├─179653 /usr/sbin/apache2 -k start
+             ├─179654 /usr/sbin/apache2 -k start
+             ├─179655 /usr/sbin/apache2 -k start
+             ├─179656 /usr/sbin/apache2 -k start
+             ├─179719 /usr/sbin/apache2 -k start
+             ├─179727 /usr/sbin/apache2 -k start
+             ├─179728 /usr/sbin/apache2 -k start
+             ├─179729 /usr/sbin/apache2 -k start
+             └─179730 /usr/sbin/apache2 -k start
+
+ 9月 03 00:00:17 ACCOUNT-System-Product-Name systemd[1]: Reloaded The Apache HTTP Server.
+ 9月 04 00:00:17 ACCOUNT-System-Product-Name systemd[1]: Reloading The Apache HTTP Server.
+ 9月 04 00:00:17 ACCOUNT-System-Product-Name apachectl[168179]: AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+ 9月 04 00:00:17 ACCOUNT-System-Product-Name systemd[1]: Reloaded The Apache HTTP Server.
+ 9月 05 00:00:17 ACCOUNT-System-Product-Name systemd[1]: Reloading The Apache HTTP Server.
+ 9月 05 00:00:17 ACCOUNT-System-Product-Name apachectl[173879]: AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+ 9月 05 00:00:17 ACCOUNT-System-Product-Name systemd[1]: Reloaded The Apache HTTP Server.
+ 9月 06 00:00:17 ACCOUNT-System-Product-Name systemd[1]: Reloading The Apache HTTP Server.
+ 9月 06 00:00:17 ACCOUNT-System-Product-Name apachectl[179631]: AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+ 9月 06 00:00:17 ACCOUNT-System-Product-Name systemd[1]: Reloaded The Apache HTTP Server.

@@ -1,0 +1,170 @@
+/*background display*/
+body{
+	font: normal 9px Verdana, Arial, sans-serif;
+}
+/*網頁標題*/
+#net_title{
+	position:fixed;
+	left:0px;
+	top:0px;
+	text-align:left;
+	border:0px;
+	padding-top:6px;
+	padding-left:20px;
+	margin:0px;
+	background-color:#333333;
+	width:100%;
+	height:26px;
+	border-bottom:#aaa 1px dotted;
+	z-index:99;
+	color:#aaa;
+}
+#net_title div{
+	position:relative;
+	top:-5px;
+	font-size:18px;
+}
+#net_title font{
+	font-size:24px;
+	font-style:italic;
+	font-weight:700;
+	color:#ddd;
+}
+#net_title a:link {
+	font: normal 10px Verdana, Arial, sans-serif;
+	font-size:18px;
+	color: white;
+	text-decoration: none;
+}
+#net_title a:visited {
+	font: normal 10px Verdana, Arial, sans-serif;
+	font-size:18px;
+	color: white;
+	text-decoration: none;
+}
+#net_title a:hover {
+	font: normal 10px Verdana, Arial, sans-serif;
+	font-size:18px;
+	color: yellow;
+	text-decoration: underline;
+}
+/*log_in*/
+#access_interface{
+	position: absolute;
+	top: 30%;
+	left: 35%;
+	width:25%;
+	height:25%;
+	background:#888;
+	border-width:10%;
+	border-style:solid;
+	border-color:#000000;
+	padding:1%;
+}
+#access_interface div {
+	position: absolute;
+	top: 5%;
+	left: 5%;
+}
+#access_interface a {
+	color:#FFF;
+	text-decoration:none;
+	line-height: 10%;
+	background:#555555;
+}
+/*register*/
+#register_interface{
+	position: absolute;
+	top: 10%;
+	left: 40%;
+	width:250px;
+	height:800px;
+	background:#888;
+	border-width:10%;
+	border-style:solid;
+	border-color:#000000;
+	padding:1%;
+}
+#register_interface div {
+	position: absolute;
+	top: 5%;
+	left: 5%;
+}
+#register_interface a {
+	color:#FFF;
+	text-decoration:none;
+	line-height: 10%;
+	background:#555555;
+}
+/* ---------- 大小與定位 ---------- */
+/*menu_interface.php*/
+#menu {
+	/* 選單大小 */
+	vertical-align:top;
+	background-color:#222;
+	color:#dddddd;
+
+}
+#menu p{
+	text-align:right;
+	padding-top:10px;
+	padding-right: 5px;
+}
+#menu ul {
+	margin:10px;
+	padding:0px;
+	padding-right: 10px;
+}
+#menu ul li {
+	background:#ffffff;
+	font-size:14px;
+	font-weight:700;
+	color: black;
+	width:98%;
+	height:45px;
+	text-align:center;
+	padding:3px;
+	margin:3px;
+	margin-top: 10px;
+	list-style:none;
+	border: 2px solid;
+	border-color: black;
+	box-shadow:1px 1px 3px 2px rgba(20%,20%,40%,0.5) inset;
+}
+#menu ul li:hover{
+	background:black;
+	color: white;
+	border-color: black;
+}
+/*#menu ul li a {
+	color:#000000;
+}*/
+#menu ul li a:link {
+   color: black;
+   text-decoration: none;
+}
+#menu ul li a:visited {
+   color: black;
+   text-decoration: none;
+}
+#menu ul li a:hover {
+   color: red;
+   text-decoration: underline;
+}
+#menu_div1{
+	border:1px #cccccc solid;
+	overflow:auto;
+	padding:5px;
+	margin:2px;
+	margin-top:-10px;
+	border-radius:2px;
+	border:#aaaaaa 1px dotted;
+	color:#dddddd;
+	background-color:#000;
+}
+#menu_div1 font{
+	font-size:18px;
+	font-weight:700;
+	font-style:italic;
+	color:#cccccc;
+}

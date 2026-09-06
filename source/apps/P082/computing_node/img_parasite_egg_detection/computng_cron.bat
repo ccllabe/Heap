@@ -1,0 +1,1 @@
+python C:\xampp\htdocs\Parasite_egg_identification_version_1_1\computing_node\img_parasite_egg_detection\main.py

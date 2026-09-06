@@ -1,0 +1,6 @@
+# conda environments:
+#
+base                  *  /home/ACCOUNT/miniconda3
+gdal-env                 /home/ACCOUNT/miniconda3/envs/gdal-env
+tf-1.0.0-gpu             /home/ACCOUNT/miniconda3/envs/tf-1.0.0-gpu
+

@@ -1,0 +1,109 @@
+/*menu_2_interface*/
+#menu_2 {
+	/* 選單大小 */
+	vertical-align:top;
+	background-color:#555555;
+	width: 340px;
+	color: rgb(221, 221, 221);
+}
+#menu_2 p{
+	text-align:right;
+	padding-top:10px;
+	padding-right: 5px;
+}
+#menu_2 ul {
+	margin:10px;
+	padding:5px;
+	padding-right: 10px;
+}
+#menu_2_ul_d {
+	margin:10px;
+	padding:5px;
+	padding-right: 10px;
+}
+#menu_2 ul div{
+	text-align:center;
+	padding:3px;
+	margin:3px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	color: black;
+}
+#menu_2 ul li {
+	font-size:14px;
+	font-weight:700;
+	color: black;
+	width:98%;
+	height:24px;
+	text-align:center;
+	padding:3px;
+	margin:3px;
+	margin-top: 20px;
+	list-style:none;
+	border: 2px solid;
+	border-radius:8px;
+	border-color: #f6f5f4 #94918c #94918c #f6f5f4;
+	background:#ffffff;
+	box-shadow:1px 1px 3px 2px rgba(20%,20%,40%,0.5) inset;
+}
+#menu_2 ul li:hover{
+	background:#1C2833;
+	color: white;
+	border-color:#D0D3D4;
+}
+/*#menu_2 ul li a {
+	color:#000000;
+	margin:0;
+	padding:0;
+}*/
+/*#menu_2 ul li a:link {
+   color: black;
+   text-decoration: none;
+}
+#menu_2 ul li a:visited {
+   color: black;
+   text-decoration: none;
+}
+#menu_2 ul li a:hover {
+   color: red;
+   text-decoration: underline;
+}*/
+
+#menu_2_div1{
+	border:1px #cccccc solid;
+	overflow:auto;
+	padding:5px;
+	margin:2px;
+	margin-top:-10px;
+	margin-bottom:20px;
+	border-radius:2px;
+	border:#aaaaaa 1px dotted;
+	color:#dddddd;
+	background-color:#444;
+}
+#menu_2_div1 font{
+	font-size:18px;
+	font-weight:700;
+	font-style:italic;
+	color:#cccccc;
+	margin-left:10px;
+}
+
+#menu_2_div2 {
+	font-size:16px;
+	text-align: left;
+	padding-left:25px;
+	font-style:italic;
+	font-weight:550;
+}
+
+#title_n {
+	margin-top:15px;
+	margin-bottom: -15px;
+	font-size:24px;
+	text-align: left;
+	padding-left:25px;
+	font-style:italic;
+	font-weight:550;
+	/*z-index: 9999;*/
+}

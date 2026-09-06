@@ -1,0 +1,85 @@
+1. 同電腦登入session，未登出則用上一次登入session登入
+  session_start();
+  if($_SESSION['user_id'] != null){
+    session_destroy();
+  }
+2. fgets txt讀到不知名空格
+  去空格
+  $line_content = str_replace(array("\r", "\n", "\r\n", "\n\r"), '', $line_content);
+3. 測試發現Session使用時，第一次使用正確輸入可登入，第二次使用錯誤輸入竟然可登入
+  (只要錯誤之前是正確輸入則可登入，除非再經過一次重新整理)
+  先略過
+4.註冊即生成資料夾
+  先略過(須定時清理註冊而無用資料夾)
+5.多樣資料儲存
+  txt => json
+6.中文存於json檔亂碼project_create_exe.php
+  先略過
+7.命名重複project_create_exe.php
+  先略過=>加create time
+8.命名不可有"_"project_manage_interface.php
+  切斷problem
+  先略過
+9.多project 管理未完成delete、update、search project_manage_interface.php
+  先接到圖片上傳
+  先略過
+10.圖片上傳未做檔案格式限制
+  限制1.5G、png、jepg、BMP
+11.圖片description未完成
+  先忽略=>已完成
+12.array 傳空值出現錯誤menu...
+  先忽略=>宣告array = null
+13.function互相制約map_view_interface.php
+  先忽略
+14.用i傳遞值，字典
+  => folder、content(two array)
+  => [folder]=>content
+  先忽略
+15.menu獨立，map_view存在相依性
+  menu的button不只是路徑還是javascript load image、frame依據
+  先試著實作menu，並可從map_view讀到id
+16.不確定是否關心lab歸屬的image(map_view_interface)
+  先忽略,T:亂，無法辨別圖是否改變 F:顯示時無法對應選框的圖
+17.initial 非連動
+  mapview_interface => show first img
+  menu => checked first checkbox
+18.only 1 can not show (mapview)
+  if 多選只有單一選項則無法取得array.length
+19.u-net輪廓處理和資料處理切割醜
+20.list_view_interface所需顯示圖片甚麼時候決定切割
+  切圖時間主要花在Image open
+  所以主要針對Image載入次數做設計=>點擊確認切割與否以及變動=>決定是否切割
+21.整個程式follow以下重點
+  基於txt哪一行作呈現(例如:圖片對應txt內容)
+  注意超圖部分(因為大圖切割注重無損切割，會進行填補，所以txt(位置紀錄)和切圖須注意切割範圍)
+22.list view接口關係，menu_interface.php 提出選項給list_view_interface.php，由list_view_allshow.php做工作分配
+  剪圖: list_view_exe.php(系統呼叫cut_target_img.py執行狀態確認與切割)
+  顯示: 剪圖完成後，設置ifframe嵌入list_view_allshow.php網頁(需通知menu_interface.php的選項點擊內容)
+        list_view_allshow.php會接收到刪除、確認內容，傳回list_checked_exe.php作執行
+23.window can not open zip file，問題出於/
+  參考https://stackoverflow.com/questions/13646426/cannot-open-zip-file-in-windows-explorer-which-generated-by-php-zip-archive
+  新增ob_end_clean();
+24.使用var 儲存條件式(簡單來說，我需要工具的手段，而不是換食材的手段)-list_view_allshow
+  參考https://stackoverflow.com/questions/7629891/functions-that-return-a-function
+25.zip延伸可使用recursive呼叫自己查詢子資料夾資料配合addEmptyDir，來完成資料夾下所有file壓縮
+26.疊圖時，
+  如果不存在任何框選的圖，出現錯誤
+  如果圖非png，出現錯誤
+  先略過，未解決
+27.menu無法貼合瀏覽器與難以點擊
+  修改成% 初步完成
+  修改構型
+    menu_interface: project
+    menu_2_interface: function
+    function_content: 嵌入原頁面 
+
+
+
+
+
+
+程式
+1.一般會對文檔做修改?
+  read文檔=>buffer=>修改buffer=>寫入
+2.ajax
+3.header 傳值格式需加強

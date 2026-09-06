@@ -1,0 +1,8 @@
+Captured: 2026-09-06 Asia/Taipei
+CUDA include: /usr/local/cuda/include/cudnn.h
+CUDNN_MAJOR=5
+CUDNN_MINOR=1
+CUDNN_PATCHLEVEL=10
+Shared library: libcudnn.so.5.1.10
+CUDA symlink: /usr/local/cuda -> /usr/local/cuda-8.0
+
