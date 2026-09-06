@@ -1,8 +1,6 @@
 # P082 Web Platform — sanitized migration snapshot
 
-This repository is a sanitized source-code snapshot of the legacy P082 parasite-egg analysis platform and related historical web applications.
-
-本儲存庫是舊版 P082 寄生蟲卵影像分析平台及相關歷史網頁程式的去識別化原始碼快照。
+Following the completion of the research project, the hosted HEAP service has been discontinued; to preserve the project's research value and support reproducibility and future development, we are making this sanitized source-code snapshot of the P082 parasite-egg analysis platform and its technical documentation available to researchers who may find it useful.
 
 ## Documentation / 文件
 
