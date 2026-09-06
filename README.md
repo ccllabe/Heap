@@ -2,6 +2,8 @@
 
 Following the completion of the research project, the hosted HEAP service has been discontinued; to preserve the project's research value and support reproducibility and future development, we are making this sanitized source-code snapshot of the P082 parasite-egg analysis platform and its technical documentation available to researchers who may find it useful.
 
+**中文翻譯（Translation）：** 本研究計畫完成後，HEAP 線上服務已停止；為保存本計畫的研究價值，並支持研究成果的重現與後續發展，我們將 P082 寄生蟲卵影像分析平台的去識別化原始碼快照與技術文件提供給有需要的研究人員參考及使用。
+
 ## Documentation / 文件
 
 - [繁體中文建置與移轉規格書](docs/DEPLOYMENT.zh-TW.md)
